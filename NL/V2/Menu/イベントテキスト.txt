@@ -1,0 +1,657 @@
+﻿Inzicht uitgeven en hulp vragen aan een jager uit een </n>andere wereld?
+Jager uit een andere wereld helpen?
+De tegenstander worden van </n>een jager in een andere wereld?
+De oproepbel dempen
+De kleine resonerende bel dempen
+De sinistere resonerende bel dempen
+Je verzoek om hulp intrekken?
+Je aanbod van hulp intrekken?
+Je vijandige dreiging intrekken?
+Terugkeren naar je eigen wereld
+Speler terugsturen naar eigen wereld
+Terugtrekken naar eigen wereld?
+Terugtrekken naar eigen wereld?
+Zoeken naar het geluid van een kleine resonerende bel...
+De bel-luidende vrouw luidt een sinistere bel.
+Zoeken naar het geluid van een kleine </n>resonerende bel met overeenkomend wachtwoord.
+Luiden van de oude-jagersbel...
+Luiden van de oude-jagersbel...
+Luiden van de oude-jagersbel...
+Luiden van de oude-jagersbel...
+Luiden van de oude-jagersbel...
+Luiden van de oude-jagersbel...
+Luiden van de oude-jagersbel...
+Zoeken naar het geluid van een oproepbel
+Zoeken naar het geluid van een </n>oproepbel met overeenkomend wachtwoord.
+Zoeken naar het geluid van een sinistere bel
+Geen geluid ontdekt van een kleine resonerende bel. </n>Geen inzicht is verbruikt.
+Het geluid ontdekt van een kleine resonerende bel
+Sinistere bel resoneert met een andere
+Het geluid ontdekt van een kleine resonerende bel
+Het geluid ontdekt van een kleine resonerende bel
+Het geluid ontdekt van een kleine resonerende bel
+Oude-jagersbel resoneert met een andere
+Oude-jagersbel resoneert met een andere.
+Oude-jagersbel resoneert met een andere.
+Oude-jagersbel resoneert met een andere.
+Oude-jagersbel resoneert met een andere.
+Oude-jagersbel resoneert met een andere.
+Oude-jagersbel resoneert met een andere.
+Het geluid ontdekt van een oproepbel
+Het geluid ontdekt van een</n>sinistere bel
+Het geluid ontdekt van een oproepbel, </n>maar de oproeper is een beul en dus een tegenstander
+Het geluid ontdekt van een oproepbel, </n>maar de oproeper is een Vileblood en dus een tegenstander
+Het geluid ontdekt van een oproepbel, </n>maar de oproeper is een bloeddorstige jager en dus een tegenstander
+De resonantie van de bel heeft <?joinName?> opgeroepen.
+Tegenstander <?joinName?> is gearriveerd.
+<?joinName?> is gearriveerd door de resonantie van de bel
+<?joinName?> is gearriveerd door de resonantie van de bel
+<?joinName?> is gearriveerd door de resonantie van de bel
+Bondgenoot <?joinName?> is gearriveerd door de resonantie van de bel.
+Bondgenoot <?joinName?> is gearriveerd door de resonantie van de bel.
+Oude jager <?joinName?> is gearriveerd door de resonantie van de bel
+Oude jager <?joinName?> is gearriveerd door de resonantie van de bel.
+Oude jager <?joinName?> is gearriveerd door de resonantie van de bel.
+Oude jager <?joinName?> is gearriveerd door de resonantie van de bel.
+Oude jager <?joinName?> is gearriveerd door de resonantie van de bel.
+Bondgenoot <?joinName?> is gearriveerd door de resonantie van de bel.
+Bondgenoot <?joinName?> is gearriveerd door de resonantie van de bel.
+Gearriveerd in de wereld van <?hostName?>, die je opgeroepen heeft.
+Gearriveerd in de wereld van <?hostName?>.
+Je bent nu in de wereld van de oproeper, </n>beul <?hostName?>
+Je bent nu in de wereld van de oproeper, </n>de Vileblood <?hostName?>
+Je bent nu in de wereld van de oproeper, </n>de bloeddorstige jager <?hostName?>
+Je bent nu in de wereld van de oproeper, <?hostName?>.
+Je bent nu in de wereld van de oproeper, <?hostName?>.
+Metgezel <?deadName?> is dood.
+Tegenstander <?deadName?> is dood.
+Vileblood <?deadName?> is dood
+Beul <?deadName?> is dood
+Jager der jagers <?deadName?> is dood
+Bondgenoot <?deadName?> is dood.
+Bondgenoot <?deadName?> is dood.
+Oude jager <?deadName?> is dood
+Oude jager <?deadName?> is dood.
+Oude jager <?deadName?> is dood.
+Oude jager <?deadName?> is dood.
+Oude jager <?deadName?> is dood.
+Bondgenoot <?deadName?> is dood.
+Bondgenoot <?deadName?> is dood.
+Je bent dood.</n>Je gaat terug naar jouw wereld.
+Je oproeper is dood. </n>Terugkeren naar eigen wereld.
+Je bent dood. Je gaat terug naar jouw wereld.
+Je bent dood. Je gaat terug naar jouw wereld.
+Je bent dood. Je gaat terug naar jouw wereld.
+Je bent dood. Je gaat terug naar jouw wereld.
+Oproeper heeft <?npcNameId500000?> uitgedaagd.
+De oproeper is begonnen met het eindgevecht.
+Het gevecht met <?npcNameId@1000?> is begonnen. </n>Je gaat terug naar jouw wereld.
+De oproeper is begonnen met het eindgevecht. </n>Terug naar eigen wereld.
+Het gevecht met <?npcNameId@1000?> is begonnen. Je gaat terug naar jouw wereld.
+De beul is begonnen met het eindgevecht. </n>Terugkeren naar eigen wereld.
+Het gevecht met <?npcNameId@1000?> is begonnen. Je gaat terug naar jouw wereld.
+De Vileblood is begonnen met het eindgevecht. </n>Terugkeren naar eigen wereld.
+Het gevecht met <?npcNameId@1000?> is begonnen. Je gaat terug naar jouw wereld.
+De bloeddorstige jager is begonnen met het eindgevecht. </n>Terugkeren naar eigen wereld.
+<?npcNameId@1000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+Het eindgevecht is afgelopen. </n>Het is tijd om afscheid te nemen.
+Oproeper <?hostName?> is gesneuveld. </n>Het is tijd om afscheid te nemen.
+Beul <?hostName?> is gesneuveld. </n>Het is tijd om afscheid te nemen.
+Vileblood <?hostName?> is gesneuveld. </n>Het is tijd om afscheid te nemen.
+Bloeddorstige jager <?hostName?> is gesneuveld. </n>Het is tijd om afscheid te nemen.
+Oproeper 
+Metgezel
+Oude jager
+Tegenstander
+Oude jager
+Vileblood
+Oude jager
+Beul
+Oude jager
+Jager der jagers
+Oude jager
+Bondgenoot
+Bondgenoot
+Bondgenoot
+Bondgenoot
+Gelokt door de klank van de bel is de bel-luidende vrouw ergens verschenen
+De bel-luidende vrouw is verdwenen en het sinistere belgeluid is gestopt.
+Het gevecht met <?npcNameId@1000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@106000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@127000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@209000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@210000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@212010?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@212020?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@212030?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@216000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@232000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@251000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@257000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@271000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@1000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@272000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@305000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@306000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@313000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@500000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@501000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@502000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@503000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@504000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@505000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@506000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@507000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@508000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@509000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@510000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@511000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@512000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@513000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@540000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@551000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@750000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@804000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@805000?> is begonnen. Je gaat terug naar jouw wereld.
+Het gevecht met <?npcNameId@899000?> is begonnen. Je gaat terug naar jouw wereld.
+<?npcNameId@1010?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@106000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@127000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@209000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@210000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@212010?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@212020?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@212030?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@216000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@232000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@251000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@257000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@271000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@272000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@304000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@305000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@306000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@313000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@500000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@501000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@502000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@503000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@504000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@505000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@506000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@507000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@508000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@509000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@510000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@511000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@512000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@513000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@540000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@551000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@750000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@804000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@805000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+<?npcNameId@899000?> is verslagen en de jacht is voorbij. Zeg vaarwel.
+Een van je notities kreeg de beoordeling 'goed'
+Inspecteren
+Lichaam onderzoeken
+Lijk onderzoeken
+Voorwerp oprapen
+*
+Kist onderzoeken
+Doodskist onderzoeken
+OK
+Het kronkelt griezelig
+De tijd loopt achteruit voor dit stuk vlees.
+Er gebeurde niets.
+Gesloten door een apparaat.
+Gaat niet open aan deze kant.
+Te openen aan deze kant.
+Vergrendeld
+Ontgrendeld.
+Deze stad is al lang verlaten. Jagers zijn hier niet welkom.
+Je hebt al bloed ontvangen.
+Vergrendeld met een apparaat.
+Al ontgrendeld.
+Stevig dicht
+Apparaat functioneert momenteel niet.
+Alleen een speciaal embleem </n>kan de hoofdpoort openen
+Een speciaal embleem heeft de hoofdpoort geopend
+Je kunt pas doorgaan als de game volledig is geïnstalleerd.
+Installatie voltooid. Start de game opnieuw op om verder te </n>gaan.
+Kanon afvuren
+Een achtergelaten pop.
+Praten
+Knielen
+Kloppen
+Praten
+Ladder beklimmen
+Ladder afklimmen
+Hoofdpoort openen
+Brief lezen
+Deur openen
+Deur sluiten
+Poort openen
+Door nachtmerriemist
+Deur naar buiten openen
+Deur naar buiten openen
+Kist openen
+Doodskist openen
+Apparaat bedienen
+Ladder wegschoppen
+In rijtuig rijden
+Mummie inspecteren
+Bad onderzoeken
+Astronomische wijzerplaat ophouden
+Oude-jagersbel luiden
+Oude jager Henryk oproepen
+League-meester Valtr oproepen
+Beesteneter Valtr oproepen
+Yamamura de Doler oproepen
+Jongere Madaras-broer oproepen
+Mensisgeleerde Damian oproepen
+Henriett oproepen
+Afvallige Antal oproepen
+Grafrover Olek oproepen
+Grafrover Gremia oproepen
+Beestenklauw Jozef oproepen
+Koninginnedoder oproepen
+Oude jager Vitus oproepen
+Waanzinnige Wallar oproepen
+Eerwaarde Gascoigne oproepen
+Vileblood-jager Alfred oproepen
+Chirurgisch altaar onderzoeken
+Er zit een gat in de schedel
+Ooghanger plaatsen
+Lijk onderzoeken
+Bord lezen
+Laboratorium verdieping 1
+Laboratorium verdieping 2
+Laboratorium verdieping 3
+Laboratorium verdieping 4
+Laboratorium verdieping 5
+Patiëntenruimte verdieping 2
+Patiëntenruimte verdieping 3
+Patiëntenruimte verdieping 4
+Patiëntenruimte verdieping 5
+Balkon verdieping 1
+Balkon verdieping 2
+Wil je ontwaken?
+Alle bloedsporen weggooien en ontwaken?
+Terug naar de jagersdroom?
+Geen plaats om te ontwaken.
+*
+Kan nu niet in rijtuig rijden.
+Je hebt geen boodschapperaccessoires.
+Je hebt geen heilige kelken.
+Geen antwoord.
+Functioneert nu niet.
+Functioneert nu niet.
+Functioneert nu niet.
+Functioneert nu niet.
+Functie niet beschikbaar.
+Functie niet beschikbaar.
+Geen bloeddrab om te offeren
+Alleen de oproeper kan deze deur openen
+Alleen de oproeper kan dit bedienen
+Snelle vergiftiging
+Langzame vergiftiging
+Wapen in gevaar
+*
+Waanzin
+Wapen kapot
+Getransformeerd
+<?gdsparam@1520?> gebruiken?
+<?gdsparam@1530?> gebruiken?
+<?gdsparam@1540?> gebruiken?
+<?gdsparam@1550?> gebruiken?
+<?gdsparam@1560?> gebruiken?
+<?gdsparam@1570?> gebruiken?
+<?gdsparam@1580?> gebruiken?
+<?gdsparam@1590?> gebruiken?
+<?gdsparam@1600?> gebruiken?
+<?gdsparam@1610?> gebruiken?
+<?gdsparam@1620?> gebruiken?
+<?gdsparam@1630?> gebruiken?
+<?gdsparam@1640?> gebruiken?
+<?gdsparam@1650?> gebruiken?
+<?gdsparam@1660?> gebruiken?
+<?gdsparam@1670?> gebruiken?
+<?gdsparam@1680?> gebruiken?
+<?gdsparam@1690?> gebruiken?
+<?gdsparam@1700?> gebruiken?
+<?gdsparam@1710?> gebruiken?
+<?gdsparam@1720?> gebruiken?
+<?gdsparam@1730?> gebruiken?
+<?gdsparam@1740?> gebruiken?
+<?gdsparam@1750?> gebruiken?
+<?gdsparam@1760?> gebruiken?
+<?gdsparam@1770?> gebruiken?
+<?gdsparam@1780?> gebruiken?
+<?gdsparam@1790?> gebruiken?
+<?gdsparam@1800?> gebruiken?
+<?gdsparam@1810?> gebruiken?
+<?gdsparam@1820?> gebruiken?
+<?gdsparam@1830?> gebruiken?
+<?gdsparam@1840?> gebruiken?
+<?gdsparam@1850?> gebruiken?
+<?gdsparam@1860?> gebruiken?
+<?gdsparam@1870?> gebruiken?
+<?gdsparam@1880?> gebruiken?
+<?gdsparam@1890?> gebruiken?
+<?gdsparam@1900?> gebruiken?
+<?gdsparam@1910?> gebruiken?
+<?gdsparam@1920?> gebruiken?
+<?gdsparam@4306?> gebruiken?
+<?gdsparam@4320?> gebruiken?
+<?gdsparam@4321?> gebruiken?
+<?gdsparam@4322?> gebruiken?
+<?gdsparam@4323?> gebruiken?
+Poort geopend met <?gdsparam@4000?>.
+Bloedsporen weggooien en ontwaken?
+Terug naar de jagersdroom?
+Het Vileblood-register bestuderen?
+*
+League-register bekijken?
+Deur geopend met <?gdsparam@4001?>.
+Deur geopend met <?gdsparam@4002?>.
+Deur geopend met <?gdsparam@4003?>.
+Deur geopend met <?gdsparam@4004?>.
+Deur geopend met <?gdsparam@4005?>.
+Deur geopend met <?gdsparam@4006?>.
+Deur geopend met <?gdsparam@4007?>.
+Deur geopend met <?gdsparam@4008?>.
+Deur geopend met <?gdsparam@4009?>.
+Deur geopend met <?gdsparam@4010?>.
+Deur geopend met <?gdsparam@4011?>.
+Deur geopend met <?gdsparam@4012?>.
+Deur geopend met <?gdsparam@4013?>.
+Deur geopend met <?gdsparam@4014?>.
+Deur geopend met <?gdsparam@4015?>.
+Deur geopend met <?gdsparam@4018?>
+Deur geopend met <?gdsparam@4019?>
+Deur geopend met <?gdsparam@4020?>
+Gebruik bloedsporen om statistieken en niveau te verhogen.
+Een achtergelaten pop
+Plaats voorwerpen in opslag of haal ze eruit.
+Versterk wapens met bloedstenen.
+Repareer wapens met afgenomen duurzaamheid.
+Mystieke nevel
+Verbeter wapens met bloedkristallen. Bloedkristallen geven </n>wapens speciale eigenschappen.
+Het gereedschap dat nodig is voor deze taak ontbreekt.
+Onthoud een Caryll-rune om de duisterkracht te verkrijgen.
+Draag kleding voor een ander uiterlijk.
+Geen plaats om te ontwaken.
+Ontwaak op een geselecteerde locatie in Yharnam.
+Je hebt een heilige kelk nodig om een ritueel uit te voeren.
+Gebruik het ritueelaltaar om een kelkenkerker te maken met een kelkritueel of om kelkenkerkers te zoeken die door jagers in andere werelden zijn gemaakt.
+Een bronkelk voor korte rituelen is nodig </n>om een ritueel uit te voeren.
+Gebruik het provisorisch altaar om snel kelkenkerkers of coöp-spellen te vinden of zelfs andere spelers te bedreigen.
+Gebruik bloedsporen bij boodschappers om voorwerpen te kopen of verkopen.
+Mystieke nevel kan worden gewonnen uit diverse materialen voor rituelen. De materialen gaan volledig verloren na de extractie van de nevel.</n></n>Mystieke nevel is een essentieel materiaal voor bepaalde kelkrituelen.
+Dit bad lijkt verband te houden met de nachtmerrie, maar er zijn geen boodschappers.
+Kopen met inzicht. Gebruik inzicht om te handelen met boodschappers.
+Deze stronk lijkt verband te houden met de nachtmerrie, maar er zijn geen boodschappers.
+Geef accessoires aan boodschappers en ze zullen ze met plezier dragen.
+De boodschappers bieden je een speciaal wapen aan. Kies </n>er een. Je hanteert speciale wapens met je rechterhand </n>tijdens de beestenjacht.
+De boodschappers bieden je een vuurwapen aan. Kies er </n>een. Je hanteert vuurwapens met je linkerhand tijdens de </n>beestenjacht.
+Deze lamp brengt je nu terug naar de jagersdroom. Als je </n>doodgaat, ontwaak je bij deze lamp.
+*
+Er is ergens een deur naar </n>het oude labyrint geopend.
+Verbruik inzicht en luid de oproepbel om de hulp van jagers </n>uit andere werelden in te roepen.
+Losse flodder beëindigt dit soort samenwerking.
+Een notitieboek ontvangen van de boodschappers. </n>Laat boodschappen achter bij deze trouwe dienaren </n>om ze te delen met jagers in andere werelden.
+De kerker is klaar en de kelk staat op het altaar. </n>Je kunt de kerker nu verkennen.
+Je doet mee met een kerker en de kelk is </n>op het altaar geplaatst. Je kunt deze </n>kelkenkerker nu verkennen.
+Verbruik inzicht en luid de oude-jagersbel om de hulp van oude jagers in te roepen.
+Het oog van een bloeddorstige jager roept jagers naar de nachtmerrie van de jagers. Een misvormd wezen neemt je mee bij de Oedon-kapel.
+Handgeschreven boodschap:</n></n>Zoek bleekbloed om de jacht te verbeteren.
+Toen de jacht begon, verliet de Helende kerk ons. Onder </n>het schijnsel van de maan blokkeerden ze de grote brug </n>naar de kathedraalwijk en legden ze Oud Yharnam in de as.
+Een prachtige liaison: In de kathedraalwijk, </n>achter de Benedenkerk in het verschroeide Oud Yharnam, </n>ligt een heilige kelk en dus een kans om samen te werken.
+Een prachtige liaison: Ik heb geen idee </n>wat het betekent. Of wat me te wachten staat. </n>En toch heb ik het gevoel dat dit een geweldige kans is!
+De spin van Byrgenwerth verhult alle rituelen en houdt </n>onze verloren meester op afstand. Eeuwig zonde. </n>Ik sidder bij de gedachte.
+Erfgenaam van het bloedritueel, verschaffer van </n>de transfusie. Plaats je hand op de heilige tafel van het </n>altaar en kerf het adagium van meester Laurence in je vlees.
+Hemel en kosmos zijn één. 'Het koor'
+Meester Willem had gelijk. </n>Evolutie zonder moed leidt tot de ondergang van ons ras.
+Jaag op de Groten. Jaag op de Groten.
+De naamloze maan die werd opgeroepen door </n>Laurence en zijn medewerkers. Bleekbloed.
+Drie derde strengen
+Als de rode maan laag staat, vervagen de </n>verschillen tussen mens en beest. En als </n>de Grote afdaalt, zal de schoot een kind dragen.
+De spin verhult alle rituelen en geeft niets prijs, </n>omdat de ware verlichting niet hoeft te worden gedeeld.
+Angstaanjagende rituelen willen een pasgeborene. </n>Vind een kind en laat dat gruwelijke gehuil verstommen.
+Ritueelgeheim doorbroken.</n>Zoek het nachtmerriekind.
+Wat ga je doen?
+Hoe ga je antwoorden?
+*
+*
+Je leven opofferen?
+*
+Bloedbehandeling ondergaan?
+*
+Wat ga je doen?
+Broche met rode edelstenen geven?
+Wat ga je doen?
+Rood boodschapperslint geven?
+*
+Ongeopende uitnodiging geven
+Kies het aantal dat je wilt aanbieden
+Kleine haarversiering geven
+Ongeopende uitnodiging geven?
+De Vilebloods-gelofte afleggen
+*
+Bloeddrab aanbieden
+Ten huwelijk vragen
+Praten over de Helende kerk
+Praten over Byrgenwerth
+*
+Over de Vilebloods
+Nee
+Gebaar leren
+Vertellen over Oedon-kapel
+Vertellen over Iosefka's kliniek
+Informatie achterhouden 
+Vrees het oude bloed.
+Stil zijn
+Broche met rode edelstenen geven
+Niet geven
+Rood boodschapperslint geven?
+Niet geven
+Al dood
+Je leven geven
+Weigeren
+Vileblood-gelofte afleggen
+Weigeren
+Ik heb zo mijn zorgen
+Nee
+Bloedbehandeling ondergaan
+Weigeren
+Moeder van meisje vinden
+Weigeren
+Natuurlijk denk ik slecht over je!
+Helemaal niet
+Samenwerken
+Weigeren
+Op de beesten hier jagen
+De beesten hier sparen
+Vlees op altaar offeren
+Niets doen
+Aansluiten bij de League
+Weigeren
+Bloed aannemen
+Weigeren
+Hersenvocht geven
+Weigeren
+Nachtmerries zijn fascinerend
+Dat doe ik niet
+Ja
+Nee
+Ik hoor de bel
+Ik hoor niets
+Dood.
+Wacht heel even, kleine lieverd.
+Wacht nog heel even, mijn kleine schattebout
+Boodschappershoed uit Yharnam
+Hoge hoed van boodschapper
+Zwachtel van boodschapper
+Wit boodschapperslint
+Rood boodschapperslint
+Hoge hoed boodschapper
+Zwarte hoed boodschapper
+Bebloede bandage boodschapper
+Urnfestival boodschapper
+*
+*
+*
+*
+*
+*
+Niets laten dragen
+Praten
+Weggaan
+*
+Praten
+Kleine haarversiering geven
+Voorwerpen kopen
+*
+*
+*
+Bloedsporen kanaliseren
+Wapen versterken
+Verbeteren met bloedkristal
+*
+*
+Wapens repareren
+*
+Voorwerpen kopen
+Voorwerpen verkopen
+Kopen met inzicht
+Annuleren
+*
+*
+*
+Metgezel <?leaveName?> </n>is teruggestuurd naar de eigen wereld.
+Teruggestuurd naar eigen wereld door oproeper <?hostName?>.
+Metgezel <?leaveName?> </n>is terug naar de eigen wereld.
+Terug naar eigen wereld.
+Metgezel <?leaveName?> </n>is terug naar de eigen wereld.
+Metgezel <?leaveName?> </n>is terug naar de eigen wereld.
+Bel gedempt. </n>Terug naar eigen wereld.
+Tegenstander <?leaveName?> </n>is terug naar de eigen wereld.
+Tegenstander <?leaveName?> </n>is terug naar de eigen wereld.
+Vileblood <?leaveName?> </n>is terug naar de eigen wereld.
+Vileblood <?leaveName?> </n>is terug naar de eigen wereld.
+Beul <?leaveName?> </n>is terug naar de eigen wereld.
+Beul <?leaveName?> </n>is terug naar de eigen wereld.
+Jager der jagers <?leaveName?> </n>is terug naar de eigen wereld.
+Jager der jagers <?leaveName?> </n>is terug naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar eigen wereld.
+Bondgenoot <?leaveName?> </n>is terug naar de eigen wereld.
+Bondgenoot <?leaveName?></n>is terug naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar eigen wereld.
+Bondgenoot <?leaveName?> </n>is terug naar de eigen wereld.
+Bondgenoot <?leaveName?> </n>is terug naar de eigen wereld.
+Oude jager <?leaveName?> teruggestuurd naar eigen wereld
+Oude jager <?leaveName?> is teruggestuurd naar eigen wereld.
+Oude jager <?leaveName?> </n>is terug naar eigen wereld.
+Oude jager <?leaveName?> </n>is terug naar eigen wereld.
+Oude jager <?leaveName?> </n>is terug naar eigen wereld.
+Oude jager <?leaveName?> </n>is terug naar eigen wereld.
+Oude jager <?leaveName?> </n>is terug naar eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar eigen wereld.
+Bondgenoot <?leaveName?> </n>is terug naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar de eigen wereld.
+Bondgenoot <?leaveName?> is teruggestuurd naar eigen wereld.
+Bondgenoot <?leaveName?> </n>is terug naar de eigen wereld.
+Sessie verbroken
+Sessie wordt afgesloten wegens onstabiele verbinding
+Geest weergeven
+Bloedsporen verkrijgen
+Iemands bloedsporen verkrijgen.
+Notities bekijken
+Eigen notities bekijken
+Eigen notities bekijken
+Opslag
+Werkplaats
+(Not needed)
+Boodschapper bad
+Geschenk aannemen van boodschappers
+Geschenk aannemen van boodschappers
+Vermomming aantrekken
+Stronk boodschapper
+Gedenkaltaar
+Geschenk aannemen van boodschappers
+Jagersdroom
+Oude verlaten werkplaats
+Hemwick Charnel Lane
+Verblijf van de heks
+Oud Yharnam
+Kerk van de goede kelk
+Begraafplaats van het duisterbeest
+Kathedraalwijk
+Grote kathedraal
+Ziekenzaal begane grond
+Centrum van Yharnam
+Grote brug
+Tombe van Oedon
+Hoge kathedraalwijk
+Altaar van wanhoop
+Tuin met lichtbloemen
+Verlaten kasteel Cainhurst
+Kamer van de Vileblood-koningin
+Zetel van Logarius
+Nachtmerrie van Mensis
+Lunarium van de min
+Mergo's Loft: Midden
+Mergo's Loft: Basis
+Verboden bos
+Verboden graf
+Yahar'gul, het onzichtbare dorp
+Adventsplein
+Hypogean Gaol
+Yahar'gul-kapel
+Kamer van het zegel
+Laag 1
+Laag 1: hart
+Laag 2
+Laag 2: hart
+Laag 3
+Laag 3: hart
+Laag 4
+Laag 4: hart
+Byrgenwerth
+Collegegebouw
+Meer van de maan
+1e etage collegegebouw 
+Nachtmerriegrens
+Kamer van Amygdala
+Nachtmerrie van de jagers
+Nachtmerrie kerk
+Ondergrondse lijkenstapel
+Nachtmerrie grote kathedraal
+Onderzoeksgebouw
+Tuin met lumenbomen
+Astrale klokkentoren
+Vissersdorp
+Vuurtorenhut
+Kust
+Grafsteen Yharnam
+Grafsteen grens
+Grafsteen onzichtbare
+Grafsteen nachtmerrie
+Grafsteen Nachtmerrie van de jagers
+Ontwakende grafsteen
+Ontwakende grafsteen
+Ontwakende grafsteen
+Ontwakende grafsteen
+Provisorisch altaar
+Eerste ritueelaltaar
+Tweede ritueelaltaar
+Derde ritueelaltaar
+Vierde ritueelaltaar
+Vijfde ritueelaltaar
+Laatste ritueelaltaar
+Lamp aansteken
+Terug naar de jagersdroom

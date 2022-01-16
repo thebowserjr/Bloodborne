@@ -1,0 +1,74 @@
+﻿Jagersdroom
+Oude verlaten werkplaats
+Hemwick Charnel Lane
+Oud Yharnam
+Kathedraalwijk
+Centrum van Yharnam
+Iosefka's kliniek
+Hoge kathedraalwijk
+Werkplaats Helende kerk
+Altaar van wanhoop
+Verlaten kasteel Cainhurst
+Nachtmerrie van Mensis
+Verboden bos
+Yahar'gul, het Onzichtbare dorp
+Byrgenwerth
+Collegegebouw
+Meer van de maan
+Nachtmerriegrens
+Laag 1
+Laag 2
+Laag 3
+Laag 4
+Tombe Gremia: Laag 1
+Pthumeriaans labyrint
+Stinkend Pthumeriaans labyrint
+Centraal Pthumeriaans labyrint
+Stinkend centraal Pthumeriaans labyrint
+Hintertombe
+Stinkende hintertombe
+Lager Pthumeriaans labyrint
+Stinkend lager Pthumeriaans labyrint
+Vervallen lager Pthumeriaans labyrint
+Sinister lager Pthumeriaans labyrint
+Lagere hintertombe
+Stinkende lagere hintertombe
+Vervallen lagere hintertombe
+Sinistere lagere hintertombe
+Zieltogende Loran: Laag 3
+Schimmig Loran: Laag 3
+Sinister Loran: Laag 3
+Pthumeriaanse ontheiliging
+Stinkende Pthumeriaanse ontheiliging
+Vervallen Pthumeriaanse ontheiliging
+Sinister Pthumeriaans labyrint: Laag 4
+Vervloekte Pthumeriaanse ontheiliging
+Hintertombe: Laag 4
+Schimmige hintertombe: Laag 4
+Sinistere hintertombe: Laag 4
+Ailing Loran
+Stinkend Ailing Loran
+Vervallen Ailing Loran
+Sinister Loran: Laag 4
+Grafsteen Isz: Laag 4
+Schimmige grafsteen Isz: Laag 4
+Sinistere grafsteen Isz: Laag 4
+Pthumeru Ihyll
+Stinkend Pthumeru Ihyll
+Vervallen Pthumeru Ihyll
+Sinister Pthumeru Ihyll
+Vervloekt Pthumeru Ihyll
+Hintertombe: Laag 5
+Schimmige hintertombe: Laag 5
+Sinistere hintertombe: Laag 5
+Vervloekte hintertombe: Laag 5
+Laag-Loran
+Stinkend laag-Loran
+Vervallen laag-Loran
+Sinister laag-Loran
+Vervloekt laag-Loran
+Grafsteen Isz
+Stinkende grafsteen Isz
+Vervallen grafsteen Isz
+Sinistere grafsteen Isz
+Vervloekte grafsteen Isz:

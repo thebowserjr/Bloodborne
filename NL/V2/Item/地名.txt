@@ -1,0 +1,87 @@
+﻿Jagersdroom
+Oude verlaten werkplaats
+Hemwick Charnel Lane
+Oud Yharnam
+Kathedraalwijk
+Centrum van Yharnam
+Iosefka's kliniek
+Hoge kathedraalwijk
+Werkplaats Helende kerk
+Altaar van wanhoop
+Verlaten kasteel Cainhurst
+Nachtmerrie van Mensis
+Verboden bos
+Yahar'gul, het onzichtbare dorp
+Byrgenwerth
+Collegegebouw
+Meer van de maan
+Nachtmerriegrens
+Nachtmerrie van de jagers
+Onderzoeksgebouw
+Vissersdorp
+ Laag 1
+ Laag 2
+ Laag 3
+ Laag 4
+Tombe Gremia: Diepte 1
+Pthumeriaans labyrint 
+Pthumeriaans labyrint (vast)
+Stinkend Pthumeriaans labyrint
+Centraal Pthumeriaans labyrint
+Centraal Pthumeriaans labyrint (vast)
+Stinkend centraal Pthumeriaans labyrint
+Hintertombe
+Hintertombe (vast)
+Stinkende hintertombe
+Lager Pthumeriaans labyrint
+Lager Pthumeriaans labyrint (vast)
+Stinkend lager Pthumeriaans labyrint
+Vervallen lager Pthumeriaans labyrint
+Sinister lager Pthumeriaans labyrint
+Lagere hintertombe
+Lagere hintertombe (vast)
+Stinkende lagere hintertombe
+Vervallen lagere hintertombe
+Sinistere lagere hintertombe
+Zieltogende Loran: Laag 3 
+Schimmig Loran: Diepte 3
+Sinister Loran: Diepte 3
+Pthumeriaanse ontheiliging
+Stinkende Pthumeriaanse ontheiliging
+Vervallen Pthumeriaanse ontheiliging
+Sinister Pthumeriaans labyrint: Diepte 4
+Vervloekte Pthumeriaanse ontheiliging
+Pthumeriaanse ontheiliging (vast)
+Hintertombe: Diepte 4
+Schimmige hintertombe: Diepte 4
+Sinistere hintertombe: Diepte 4
+Zieltogend Loran
+Zieltogende Loran (vast)
+Stinkend zieltogend Loran
+Vervallen zieltogend Loran
+Sinister Loran: Diepte 4
+Grafsteen Isz: Laag 4 
+Schimmige grafsteen Isz: Diepte 4
+Sinistere grafsteen Isz: Diepte 4
+Pthumeru Ihyll
+Pthumeru Ihyll (vast)
+Stinkend Pthumeru Ihyll
+Vervallen Pthumeru Ihyll
+Sinister Pthumeru Ihyll
+Vervloekt Pthumeru Ihyll
+Hintertombe: Diepte 5
+Schimmige hintertombe: Diepte 5
+Sinistere hintertombe: Diepte 5
+Vervloekte hintertombe: Laag 5 
+Lager Loran
+Lagere Loran (vast)
+Stinkend lager Loran
+Vervallen lager Loran
+Sinister lager Loran
+Vervloekt lager Loran
+Grafsteen Isz
+Grafsteen van Isz (vast)
+Stinkende grafsteen Isz
+Vervallen grafsteen Isz
+Sinistere grafsteen Isz
+Vervloekte grafsteen Isz

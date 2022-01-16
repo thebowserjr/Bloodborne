@@ -1,0 +1,497 @@
+﻿****
+<img src="KG_R1" vspace='-8'> : Aanvallen (wapen rechterhand)
+<img src="KG_L_U" vspace='-8'>: Noodvoorraad kwikzilverkogels</n>Voorzichtig gebruiken; deze actie verbruikt HP.
+<img src="KG_R3" vspace='-8'>: Doel volgen/loslaten
+<img src="KG_R_U" vspace='-8'>: HP herstellen (gebruikt bloedbuisje)
+<img src="KG_Start" vspace='-8'>: Menu openen
+<img src="KG_L2" vspace='-8'>: Schieten (wapen linkerhand)
+<img src="KG_R2" vspace='-8'>: Krachtige aanval</n><img src="KG_R2" vspace='-8'> ingedrukt houden: Oplaadaanval
+<img src="KG_L1" vspace='-8'>: Wapen transformeren / Transformatieaanval
+<img src="KG_LS" vspace='-8'>+<?CancelIcon?>: Rennen
+<?CancelIcon?>: Achteruit stappen</n><img src="KG_LS" vspace='-8'>+<?CancelIcon?>: Rollen / Snel stappen
+Als er een doelwit is vergrendeld, rol je niet, maar stap je snel opzij.
+<img src="KG_R_L" vspace='-8'>: Voorwerp gebruiken</n><img src="KG_L_D" vspace='-8'>: Voorwerpen wisselen
+<img src="KG_L_LR" vspace='-8'>: Wapens wisselen
+<img src="KG_TP_L" vspace='-8'>: Gebaren</n><img src="KG_TP_R" vspace='-8'>: Persoonlijke voorwerpen
+*
+*
+Als je je vuurwapen afschiet, stopt en wankelt een vijand</n>als je het schot goed timet met de aanval.
+Als je een vijand van achteren aanvalt met een oplaadaanval, wankelt hij.
+<img src="KG_R1" vspace='-8'> naast wankelende vijand: Viscerale aanval
+Als je schade hebt opgelopen door een vijand, is er een periode waarin</n>het aanvallen van de vijand een deel van je HP herstelt.
+Krijg hulp van jagers uit andere werelden door de oproepbel te gebruiken.
+Help jagers uit andere werelden door de kleine resonerende bel te gebruiken.
+De notities van de boodschappers bevatten de wijsheden van jagers uit andere werelden.
+Als je je notities aan de boodschappers toevertrouwt, kunnen jagers in andere werelden ze lezen.
+Luid de oproepbel als je hulp nodig hebt.
+Als je hulp nodig hebt, hoef je alleen de bel te luiden.
+Als je hulp nodig hebt, hoef je alleen de bel te luiden.
+Er zou een heilige kelk zijn verborgen in een schrijn in Oud Yharnam, voorbij de vallei.
+Stijg op naar de Oedon-kapel
+Stop de verspreiding van de infectie van het beest om aan deze vreselijke jagersdroom te ontsnappen en te voorkomen dat het nooit meer dag wordt.
+De rode maan staat laag en buiten zijn de beesten de baas. Kunnen we er nog iets aan doen, behalve alles platbranden?
+Ziedaar! Een bleekbloede hemel!
+Waanzinnigen voeren stiekem rituelen uit om de maan op te roepen. Ontdek hun geheimen.
+Een wachter van Byrgenwerth bewaakt de poort met een wachtwoord, het heilige adagium van de grote kathedraal.
+Het Mensis-ritueel moet stoppen, anders worden we allemaal beesten.
+Hierheen om te genieten van het mystieke
+vrees de <?bmsg?>
+denk aan de <?bmsg?>
+<?bmsg?> verderop
+stinkt naar <?bmsg?>
+het is de infectie van <?bmsg?>
+geen genade voor de <?bmsg?>
+heb genade, <?bmsg?>
+niets dan <?bmsg?> hier
+verachtelijke <?bmsg?>
+<?bmsg?>...
+o, <?bmsg?>!
+achter je
+Ik hou dit niet lang vol
+dit is het einde
+tijd voor beestenjacht
+tijd voor mensenjacht
+hoe lang nog tot het licht is?
+de bellen zullen luiden
+de bellen zullen resoneren
+Categorieën
+Wezens
+beest
+mens
+jager
+zieke
+vriend
+sul
+dolle hond
+kraai
+groot beest
+monster
+onbekend ding
+pop
+Voorwerpen
+bloed
+bloedbuisje
+kogels
+vuur
+olie
+medicijn
+boek
+deur
+val
+resten
+lijk
+oogbol
+Begrippen
+jacht
+infectie
+Helende kerk
+werkplaats
+communie
+angst
+ramp
+leugen
+vooroordeel
+sporen
+mystiek
+nachtmerrie
+en dan 
+maar 
+dus 
+snel 
+, 
+vrees de beesten
+vrees de mens
+vrees de jager
+vrees de zieke
+vrees je vriend
+vrees de sul
+vrees de dolle hond
+vrees de kraai
+vrees het grote beest
+vrees het monster
+vrees het onbekende ding
+vrees de pop
+vrees het bloed
+vrees het bloedbuisje
+vrees de kogels
+vrees het vuur
+vrees de olie
+vrees het medicijn
+vrees het boekdeel
+vrees de deur
+vrees de val
+vrees de resten
+vrees het lijk
+vrees de oogbol
+vrees de jacht
+vrees de infectie
+vrees de Helende kerk
+vrees de werkplaats
+vrees de communie
+vrees de angst
+vrees de ramp
+vrees de leugen
+vrees het vooroordeel
+vrees de sporen
+vrees het mystieke
+vrees de nachtmerrie
+denk aan het beest
+denk aan de mens
+denk aan de jager
+denk aan de zieke
+denk aan de vriend
+denk aan de sul
+denk aan de dolle hond
+denk aan de kraai
+denk aan het grote beest
+denk aan het monster
+denk aan het onbekende ding
+denk aan de pop
+denk aan het bloed
+denk aan het bloedbuisje
+denk aan de kogels
+denk aan het vuur
+denk aan de olie
+denk aan het medicijn
+denk aan het boekdeel
+denk aan de deur
+denk aan de val
+denk aan de resten
+denk aan het lijk
+denk aan de oogbol
+denk aan de jacht
+denk aan de infectie
+denk aan de Helende kerk
+denk aan de werkplaats
+denk aan de communie
+denk aan de angst
+denk aan de ramp
+denk aan de leugen
+denk aan het vooroordeel
+denk aan de sporen
+denk aan het mystieke
+denk aan de nachtmerrie
+beest verderop
+mens verderop
+jager verderop
+zieke verderop
+vriend verderop
+sul verderop
+dolle hond verderop
+kraai verderop
+groot beest verderop
+monster verderop
+onbekend ding verderop
+pop verderop
+bloed verderop
+bloedbuisje verderop
+kogels verderop
+vuur verderop
+olie verderop
+medicijn verderop
+boekdeel verderop
+deur verderop
+val verderop
+resten verderop
+lijk verderop
+oogbol verderop
+jacht verderop
+infectie verderop
+Helende kerk verderop
+werkplaats verderop
+communie verderop
+angst verderop
+ramp verderop
+leugen verderop
+vooroordeel verderop
+sporen verderop
+mystiek verderop
+nachtmerrie verderop
+stinkt naar beest
+stinkt naar mens
+stinkt naar jager
+stinkt naar de zieke
+stinkt naar vriend
+stinkt naar sul
+stinkt naar dolle hond
+stinkt naar kraai
+stinkt naar groot beest
+stinkt naar monster
+stinkt naar onbekend ding
+stinkt naar pop
+stinkt naar bloed
+stinkt naar bloedbuisjes
+stinkt naar kogels
+stinkt naar vuur
+stinkt naar olie
+stinkt naar medicijn
+stinkt naar boekdeel
+stinkt naar deur
+stinkt naar val
+stinkt naar resten
+stinkt naar lijk
+stinkt naar oogbol
+stinkt naar de jacht
+stinkt naar de infectie
+stinkt naar de Helende kerk
+stinkt naar de werkplaats
+stinkt naar communie
+stinkt naar angst
+stinkt naar ramp
+stinkt naar leugens
+stinkt naar vooroordeel
+stinkt naar sporen
+stinkt naar het mystieke
+stinkt naar nachtmerrie
+het is de infectie van het beest
+het is de infectie van de mens
+het is de infectie van de jager
+het is de infectie van de zieke
+het is de infectie van de vriend
+het is de infectie van de sul
+het is de infectie van de dolle hond
+het is de infectie van de kraai
+het is de infectie van het grote beest
+het is de infectie van het monster
+het is de infectie van het onbekende ding
+het is de infectie van de pop
+het is de infectie van het bloed
+het is de infectie van het bloedbuisje
+het is de infectie van de kogels
+het is de infectie van het vuur
+het is de infectie van de olie
+het is de infectie van het medicijn
+het is de infectie van het boekdeel
+het is de infectie van de deur
+het is de infectie van de val
+het is de infectie van de resten
+het is de infectie van het lijk
+het is de infectie van de oogbol
+het is de infectie van de jacht
+het is de infectie zelf
+het is de infectie van de Helende kerk
+het is de infectie van de werkplaats
+het is de infectie van de communie
+het is de infectie van de angst
+het is de infectie van de ramp
+het is de infectie van leugens
+het is de infectie van vooroordeel
+het is de infectie van sporen
+het is de infectie van het mystieke
+het is de infectie van de nachtmerrie
+geen genade voor het beest
+geen genade voor de mens
+geen genade voor de jager
+geen genade voor de zieke
+geen genade voor de vriend
+geen genade voor de sul
+geen genade voor de dolle hond
+geen genade voor de kraai
+geen genade voor het grote beest
+geen genade voor het monster
+geen genade voor het onbekende ding
+geen genade voor de pop
+geen genade voor het bloed
+geen genade voor het bloedbuisje
+geen genade voor de kogels
+geen genade voor het vuur
+geen genade voor de olie
+geen genade voor het medicijn
+geen genade voor het boekdeel
+geen genade voor de deur
+geen genade voor de val
+geen genade voor de resten
+geen genade voor het lijk
+geen genade voor de oogbol
+geen genade voor de jacht
+geen genade voor de infectie
+geen genade voor de Helende kerk
+geen genade voor de werkplaats
+geen genade voor de communie
+geen genade voor de angst
+geen genade voor de ramp
+geen genade voor leugens
+geen genade voor vooroordeel
+geen genade voor de sporen
+geen genade voor het mystieke
+geen genade voor de nachtmerrie
+heb genade, beest
+heb genade, mens
+heb genade, jager
+heb genade, zieke
+heb genade, vriend
+heb genade, sul
+heb genade, dolle hond
+heb genade, kraai
+heb genade, groot beest
+heb genade, monster
+heb genade, onbekend ding
+heb genade, pop
+heb genade, bloed
+heb genade, bloedbuisje
+heb genade, kogels
+heb genade, vuur
+heb genade, olie
+heb genade, medicijn
+heb genade, boekdeel
+heb genade, deur
+heb genade, val
+heb genade, resten
+heb genade, lijk
+heb genade, oogbol
+heb genade, jacht
+heb genade, infectie
+heb genade, Helende kerk
+heb genade, werkplaats
+heb genade, communie
+heb genade, angst
+heb genade, ramp
+heb genade, leugens
+heb genade, vooroordeel
+heb genade, sporen
+heb genade, mystiek
+heb genade, nachtmerrie
+niets dan beesten hier
+niets dan mensen hier
+niets dan jagers hier
+niets dan zieken hier
+niets dan vrienden hier
+niets dan sullen hier
+niets dan dolle honden hier
+niets dan kraaien hier
+niets dan grote beesten hier
+niets dan monsters hier
+niets dan onbekende dingen hier
+niets dan poppen hier
+niets dan bloed hier
+niets dan bloedbuisjes hier
+niets dan kogels hier
+niets dan vuur hier
+niets dan olie hier
+niets dan medicijnen hier
+niets dan boekdelen hier
+niets dan deuren hier
+niets dan vallen hier
+niets dan resten hier
+niets dan lijken hier
+niets dan oogbollen hier
+niets dan jacht hier
+niets dan de infectie hier
+niets dan de Helende kerk hier
+niets dan de werkplaats hier
+niets dan communie hier
+niets dan angst hier
+niets dan rampen hier
+niets dan leugens hier
+niets dan vooroordeel hier
+niets dan sporen hier
+niets dan het mystieke hier
+niets dan nachtmerries hier
+verachtelijk beest
+verachtelijke mens
+verachtelijke jager
+verachtelijke zieke
+verachtelijke vriend
+verachtelijke sul
+verachtelijke dolle hond
+verachtelijke kraai
+verachtelijk groot beest
+verachtelijk monster
+verachtelijk onbekend ding
+verachtelijke pop
+verachtelijk bloed
+verachtelijk bloedbuisje
+verachtelijke kogels
+verachtelijk vuur
+verachtelijke olie
+verachtelijk medicijn
+verachtelijk boekdeel
+verachtelijke deur
+verachtelijke val
+verachtelijke resten
+verachtelijk lijk
+verachtelijke oogbol
+verachtelijke jacht
+verachtelijke infectie
+verachtelijke Helende kerk
+verachtelijke werkplaats
+verachtelijke communie
+verachtelijke angst
+verachtelijke ramp
+verachtelijke leugen
+verachtelijk vooroordeel
+verachtelijke sporen
+verachtelijke mystiek
+verachtelijke nachtmerrie
+beest...
+mens...
+jager...
+zieke...
+vriend...
+sul...
+dolle hond...
+kraai...
+groot beest...
+monster...
+onbekend ding...
+pop...
+bloed...
+bloedbuisje...
+kogels...
+vuur...
+olie...
+medicijn...
+boekdeel...
+deur...
+val...
+resten...
+lijk...
+oogbol...
+jacht...
+de infectie...
+Helende kerk...
+werkplaats...
+communie...
+angst...
+ramp...
+leugen...
+vooroordeel...
+sporen...
+mystiek...
+nachtmerrie...
+o, een beest!
+o, een mens!
+o, een jager!
+o, een zieke!
+o, een vriend!
+o, een sul!
+o, een dolle hond!
+o, een kraai!
+o, een groot beest!
+o, een monster!
+o, een onbekend ding!
+o, een pop!
+o, bloed!
+o, een bloedbuisje!
+o, kogels!
+o, vuur!
+o, olie!
+o, medicijn!
+o, een boekdeel!
+o, een deur!
+o, een val!
+o, resten!
+o, een lijk!
+o, een oogbol!
+o, de jacht!
+o, de infectie!
+o, de Helende kerk!
+o, de werkplaats!
+o, communie!
+o, angst!
+o, een ramp!
+o, leugens!
+o, vooroordeel!
+o, sporen!
+o, het mystieke!
+o, nachtmerrie!

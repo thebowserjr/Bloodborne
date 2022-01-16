@@ -1,0 +1,330 @@
+﻿OK
+ANNULEREN
+JA
+NEE
+OPNIEUW PROBEREN
+DOORGAAN
+NAAR HOOFDMENU
+Ja
+Nooit
+Ik zal jagen
+Ik zweer niet te jagen
+Verbinden met Bloodborne-server is mislukt. </n>Terug naar hoofdmenu.
+Wijzigen privacy-instellingen is mislukt.</n>Probeer het later nog eens.
+Ophalen kelkenkerkerinformatie is mislukt.</n>Probeer het later nog eens.
+Meedoen met kelkenkerker is mislukt.</n>Probeer het later nog eens.
+Toevoegen materialen aan ritueel is mislukt.</n>Probeer het later nog eens.
+De beheerder van de Bloodborne-server heeft de toegang </n>van dit Sony Entertainment Network-account tot </n>de multiplayerfuncties geblokkeerd.
+De beheerder van de Bloodborne-server heeft de mogelijkheid </n>van dit Sony Entertainment Network-account om notities te </n>maken en te lezen geblokkeerd.
+De beheerder van de Bloodborne-server heeft de </n>kelkenkerkerfuncties van dit </n>Sony Entertainment Network-account geblokkeerd.
+De beheerder van de Bloodborne-server heeft de </n>geestfuncties van dit </n>Sony Entertainment Network-account geblokkeerd.
+De Bloodborne-server is niet langer beschikbaar. </n>Terug naar hoofdmenu.
+Verbinding met Bloodborne-server is verbroken. </n>Terug naar hoofdmenu.
+<?ssInfoMsg?> </n>Terug naar hoofdmenu.
+Status vaststellen van Bloodborne-server is mislukt. </n>Terug naar hoofdmenu.
+Informatie ophalen van Bloodborne-server is mislukt. </n>Terug naar hoofdmenu.
+Verbinden met Bloodborne-server is mislukt. </n>Terug naar hoofdmenu.
+De geselecteerde kerker is na een inactieve periode </n>verwijderd van de Bloodborne-server.
+Geen kerkers gevonden met de opgegeven kelkinscriptie.
+Je voldoet niet aan de vereisten om mee te </n>doen met de kerker met deze kelkinscriptie.
+Geen kerker gevonden waaraan je kunt meedoen.
+Geen kelkenkerker gevonden die voldoet aan je criteria.
+Verbinding met netwerk verbroken. </n>Terug naar hoofdmenu.
+Je bent afgemeld bij "PlayStation Network".</n>Terug naar hoofdmenu.
+Communicatie met "PlayStation Network" is verbroken.</n>Terug naar hoofdmenu.
+Je PlayStation®Plus-lidmaatschap is niet meer geldig. </n>Terug naar hoofdmenu.
+Sessie verbroken
+Sessie wordt afgesloten wegens onstabiele verbinding
+Er is een netwerkfout opgetreden.</n>De verbinding is verbroken.
+Te weinig bloedsporen.
+Te weinig inzicht.
+Standaardinstellingen herstellen?
+Aantal <?itemName?> kiezen om te verwijderen.
+<?itemName?> verwijderen?
+Hiermee verwijder je het geselecteerde voorwerp.
+Je kunt dit voorwerp niet verwijderen.
+Selecteer hoeveel <?itemName?> je wilt gebruiken.
+Je kunt uitgeruste voorwerpen niet verwijderen.
+Je kunt dit voorwerp niet gebruiken, omdat niet is voldaan </n>aan de eigenschapsvereisten.
+Het gebruik van dit voorwerp heeft geen effect
+Gefuseerde bloedkristallen gaan verloren als het voorwerp is verwijderd. OK?
+Met deze actie overschrijdt je het maximale Inzicht. </n>Inzicht dat het maximum overschrijdt, gaat verloren. </n>Toch gebruiken?
+Met deze actie overschrijdt je de maximale bloedsporen. </n>Bloedsporen die het maximum overschrijden, gaan verloren. </n>Toch gebruiken?
+Je kunt je niet uitrusten met dit voorwerp, omdat niet is </n>voldaan aan de eigenschapsvereisten.
+Je kunt je niet uitrusten met dit voorwerp, omdat niet is </n>voldaan aan de eigenschapsvereisten.
+Game afsluiten en naar het hoofdmenu gaan?
+Je kunt het netwerk offline niet gebruiken. </n></n>Om de netwerkfuncties te gebruiken, selecteer je Aanmelden in het hoofdmenu.
+Je kunt het netwerk offline niet gebruiken. </n></n>Ga terug naar het hoofdmenu en meld je aan om gebruik te maken van de netwerkfuncties.
+Door gebruiker gegenereerde media zijn beperkt door de </n>instellingen van het ouderlijk toezicht. Van andere spelers </n>wordt alleen hun online-id weergegeven.
+Wil je <?demandSoul?> bloedsporen uitgeven en in niveau </n>stijgen?
+Wijzigingen annuleren?
+Geen te verbeteren eigenschap geselecteerd.
+Maximaal niveau. In niveau stijgen kan niet meer.
+Effect overlapt met onthouden Caryll-rune. </n>Overlappende effecten worden niet opgestapeld. OK?
+Wil je <?demandSoul?> bloedsporen en <?demandItemName?> × <?demandItemNum?> gebruiken om wapen te versterken?
+Te weinig bloedsporen of bloedstenen.
+Dit wapen is volledig geüpgraded en kan niet meer worden </n>versterkt.
+Meer bloedsporen nodig om te versterken.
+Meer bloedstenen nodig om te versterken.
+Meer bloedstenen en bloedsporen nodig om te versterken.
+Je kunt dit bloedkristal niet verwijderen.
+Bloedkristal wordt verwijderd. Verwijderd bloedkristal gaat </n>verloren.
+Nieuw bloedkristal fuseren met het oude. Het oude </n>bloedkristal gaat verloren.
+Dit bloedkristal kan niet worden verwijderd nadat het is </n>gefuseerd. Weet je zeker dat je wilt fuseren?
+Effect overlapt met geplaatst bloedkristal.</n>Overlappende effecten worden niet opgestapeld. </n>OK?
+Met wapens gefuseerde bloedkristallen kunnen alleen worden verwijderd door er andere bloedkristallen mee te fuseren
+Inventaris is vol. Kan niet uit uitrusting.
+<?itemName?> repareren voor <?demandSoul?> </n>bloedsporen.
+Repareer de afgenomen duurzaamheid van je uitrusting </n>voor <?demandSoul?> bloedsporen.
+Kies het aantal dat je wilt kopen.
+Wil je <?itemName?> kopen voor <?demandSoul?> </n>bloedsporen?
+Wil je <?itemName?> kopen voor <?demandHeroic?> </n>inzicht?
+<?itemName?> ontvangen?
+Inventaris is vol. Kopen niet mogelijk.
+Voorwerpen die het maximum overschreden, zijn in de opslag geplaatst.
+Kies het aantal dat je wilt verkopen.
+Wil je <?itemName?> verkopen voor <?sellSouls?> bloedsporen?
+Je kunt dit voorwerp niet verkopen.
+Je kunt uitgeruste voorwerpen niet verkopen.
+Gefuseerde bloedkristallen gaan verloren als het voorwerp is verkocht.</n>OK?
+Gefuseerde bloedkristallen worden ook verkocht.</n>OK?
+<?itemName?> opbergen. Kies het aantal.
+<?itemName?> opbergen
+Geselecteerd voorwerp wordt in opslag geplaatst.
+Alle <?itemName?> opbergen
+De maximale hoeveelheid van <?itemName?> is al </n>opgeborgen. </n>De resterende voorwerpen blijven in je bezit.
+Kan <?itemName?> </n>niet opbergen omdat de opslag te vol is.
+Je kunt uitgeruste voorwerpen niet opbergen.
+Omdat je dit voorwerp hebt toegevoegd aan Snelle </n>voorwerpen, worden ze op een na allemaal opgeborgen.
+Geselecteerd voorwerp wordt in opslag geplaatst.
+Selecteer hoeveel <?itemName?> je op wilt halen.
+<?itemName?> oprapen
+De geselecteerde voorwerpen in de inventaris plaatsen
+Alle <?itemName?> oprapen
+Maximale hoeveelheid van <?itemName?> opgehaald. De resterende voorwerpen blijven opgeborgen.
+Kan <?itemName?> niet verkrijgen, </n>omdat de inventaris te vol is.
+Kelk verwijderen? (Hiermee verdwijnt de kerker </n>en verlies je je voortgang)
+Je kunt offline niet naar kelkenkerkers zoeken. </n>Ga terug naar het hoofdmenu en meld je aan om gebruik te </n>maken van de netwerkfuncties.
+Je kunt offline geen kelkinscriptie gebruiken. Ga terug naar het hoofdmenu en meld je aan om gebruik te maken van de netwerkfuncties.
+Je kunt offline geen kelkenkerkers delen. </n>Ga terug naar het hoofdmenu en meld je aan om gebruik te </n>maken van de netwerkfuncties.
+Je kunt de privacy-instellingen van een gedeelde kelkenkerker niet wijzigen
+Instellingen bevestigen en ritueel starten?
+Wil je een ritueel uitvoeren om een kelkenkerker te maken? </n>De materialen worden verbruikt.
+Te weinig materialen om een ritueel uit te voeren
+Voor bronkelkrituelen heb je een netwerkverbinding nodig om servergegevens te kunnen ophalen.
+Openbaar maken? </n>*Instelling is definitief.
+Privé maken? </n>*Instelling is definitief.
+Privacy-instellingen voltooid.
+Meedoen met de geselecteerde kelkenkerker?
+Je doet mee met een kerker en de kelk is op het altaar geplaatst. Je kunt deze kelkenkerker nu verkennen.
+De geselecteerde zoekcriteria zijn nog niet ontgrendeld.
+Je hebt een kelkritueel uitgevoerd. Je kunt nu zoeken naar kerkers met dezelfde kelk.
+Je hebt een bronkelk gekregen. Je kunt nu zoeken naar kerkers met dezelfde bronkelk.
+Je hebt een kelkritueel uitgevoerd na het toevoegen van een rite. Je kunt nu zoeken naar kerkers met dezelfde kelk en toegevoegde riten.
+Er is een kerker gevonden die overeenkomt met de aangebrachte kelkinscriptie. Overeenkomende kelkenkerker betreden.
+Zoeken met kelkinscriptie: <?string?>
+Automatisch zoeken naar beschikbare kelkenkerkers? Let op: de voortgang in de huidige kelkenkerker gaat verloren.
+Snel zoeken naar het geluid van een oproepbel en coöp-game beginnen?
+Snel zoeken naar het geluid van een sinistere bel en een tegenstander worden?
+Je kunt offline niet snel zoeken naar kerkers. Ga terug naar het hoofdmenu en meld je aan om gebruik te maken van de netwerkfuncties.
+Je kunt offline niet snel zoeken naar een coöp-game. Ga terug naar het hoofdmenu en meld je aan om gebruik te maken van de netwerkfuncties.
+Je kunt offline niet snel zoeken naar tegenstanders. </n>Ga terug naar het hoofdmenu en meld je aan om gebruik te maken van de netwerkfuncties.
+Meedoen met snel gevonden kelkenkerker. Kelk is op het altaar geplaatst.
+Selecteer de hoeveelheid materialen om nevel aan te onttrekken.
+Maximale hoeveelheid nevel overschreden. Je kunt geen nevel meer onttrekken.
+Onttrokken nevel die het maximum overschrijdt, wordt in de opslag geplaatst.
+Deze jager terugsturen naar zijn eigen wereld?
+Er is niemand om weg te sturen
+Stoppen met zoeken naar coöp-helpers?
+Stoppen met zoeken naar jagers uit andere werelden om </n>ze te helpen?
+Stoppen met zoeken naar jagers uit andere werelden om te bedreigen?
+De bel luidt nog niet. </n>Deze functie is momenteel niet beschikbaar.
+Er is nu geen resonantie. </n>Deze functie is momenteel niet beschikbaar.
+Stop spel tegen tegenstander en ga terug naar eigen wereld?
+Zoeken naar het geluid van een oproepbel
+Zoeken naar het geluid van een sinistere bel
+Zoeken naar het geluid van een </n>oproepbel met overeenkomend wachtwoord.
+Je kunt het Vileblood-register offline niet bekijken.
+Ophalen registerinformatie is mislukt.
+Vileblood-register verbergen.
+Ophalen registerinformatie.
+Je kunt het League-register niet offline bekijken
+Ophalen registerinformatie is mislukt
+League-register afsluiten
+Ophalen registerinformatie
+Je hebt geen notities gemaakt.
+Geen onlangs gelezen notities.
+Deze notitie verwijderen?
+Dit is een goede notitie.
+Dit is een slechte notitie.
+De notitie wordt neergezet met de huidige beschrijving.
+Deze notitie uit de lijst verwijderen?
+Opslaggegevens laden is mislukt.
+Opslaggegevens zijn beschadigd.
+Mogelijk is de game de vorige keer niet afgesloten via </n>Game afsluiten (systeemmenu).</n></n>Als je niet afsluit met Game afsluiten, is het mogelijk </n>dat je voortgang verloren gaat.
+Terug naar hoofdmenu.
+De game wordt offline gestart. </n></n>Om de netwerkfuncties te gebruiken, controleer je of je </n>verbinding goed is ingesteld en meld je je weer aan in het </n>hoofdmenu.
+Online spelen?
+Verbinding met netwerk verbroken. </n>Overschakelen naar offline game. </n>Om de netwerkfuncties te gebruiken, </n>controleer je of je verbinding goed is ingesteld </n>en selecteer je Aanmelden in het hoofdmenu.
+Je bent afgemeld bij "PlayStation Network". </n>Overschakelen naar offline game.</n></n>Om de netwerkfuncties te gebruiken, controleer je </n>of je verbinding goed is ingesteld en selecteer je </n>Aanmelden in het hoofdmenu.
+Communicatie met "PlayStation Network" is verbroken. </n>Overschakelen naar offline game.</n></n>Om de netwerkfuncties te gebruiken, controleer je of </n>je verbinding goed is ingesteld en selecteer je </n>Aanmelden in het hoofdmenu.
+Opslaggegevens maken is mislukt. </n>Druk op OK om het opnieuw te proberen.
+Opslaggegevens laden is mislukt. </n>Druk op OK om het opnieuw te proberen.
+De opslaggegevens zijn beschadigd. </n>Verwijderen en nieuwe gegevens maken?
+Opslaggegevens verwijderen is mislukt. </n>Druk op OK om het opnieuw te proberen.
+Opslaggegevens bijwerken is mislukt. </n>Druk op OK om het opnieuw te proberen.
+De opslaggegevens zijn beschadigd. </n>Nieuwe opslaggegevens maken?
+Deze opslaggegevens zijn voor een nieuwere versie van de game. Sluit de game af, installeer de nieuwste update en start de game opnieuw om deze opslaggegevens te gebruiken.
+De downloadbare content Bloodborne: The Old Hunters is niet gevonden. Deze opslaggegevens kunnen pas worden gebruikt als de downloadbare content opnieuw is gedownload.
+Je hebt geen licentie voor deze downloadbare content. </n>Onderdelen van de downloadbare content worden </n>uitgeschakeld.
+Gegevens van downloadbare content zijn beschadigd. </n>Verwijder de gegevens en download ze opnieuw.
+Downloadbare content laden is mislukt. </n>Kies OK om het opnieuw te proberen.
+Verbinden met het netwerk is mislukt. </n>Controleer je netwerkinstellingen.
+Netwerk status check mislukt.
+Je bent momenteel niet aangemeld bij "PlayStation Network". </n>Meld je aan om de online functies te gebruiken.
+Statuscontrole aanmelden is mislukt.
+Netwerkfuncties zijn niet beschikbaar door leeftijdsbeperkingen.
+Er is een nieuwe versie van de systeemsoftware </n>beschikbaar. Werk de systeemsoftware bij om de </n>netwerkfuncties te kunnen gebruiken.
+Er is een update voor de game beschikbaar. Installeer de </n>update en start de game opnieuw op om de </n>netwerkfuncties te kunnen gebruiken.
+Controle netwerkfuncties is mislukt.
+Ophalen informatie over ouderlijk toezicht is mislukt.
+Ophalen informatie van de Bloodborne-server is mislukt. Kies </n>OK om het opnieuw te proberen.
+Vaststellen status van Bloodborne-server is mislukt.
+<?ssInfoMsg?>
+Je bent momenteel offline.
+Online statuscontrole is mislukt.
+Game wordt gestart zonder contact te zoeken met de </n>server.</n></n>Selecteer Aanmelden in het hoofdmenu om online te </n>spelen.
+De servicevoorwaarden zijn gewijzigd. </n></n>Lees de servicevoorwaarden opnieuw door.
+Er deed zich een netwerkfout voor. </n>Kies "OK" om het opnieuw te proberen.
+Het gebruik van de Bloodborne-server is beëindigd voor </n>deze gebruiker.
+Aanmelden bij Bloodborne-server is mislukt. Kies OK om het </n>opnieuw te proberen.
+Deze versie van de game kan geen contact maken met de </n>Bloodborne-server. Download de laatste update om de </n>netwerkfuncties te gebruiken.
+Ophalen informatie is mislukt. Kies OK om het opnieuw te </n>proberen.
+Verifiëren van PlayStation®Plus in je account is mislukt.
+Online spelen is uitgeschakeld omdat je PlayStation®Plus niet kon worden geverifieerd op je account
+Verifiëren van je PlayStation®Plus-lidmaatschap is mislukt. </n>Druk op OK om het opnieuw te proberen. </n>Druk op ANNULEREN om door te gaan zonder verificatie. </n>Je kunt niet online spelen zonder verificatie.
+Verifiëren van je PlayStation®Plus-lidmaatschap is mislukt. </n>Druk op OK om het opnieuw te proberen. </n>Druk op ANNULEREN om door te gaan zonder verificatie. </n>Je kunt niet online spelen zonder verificatie.
+PlayStation®Plus op je account kan nog niet worden geverifieerd. </n>De game wordt offline gestart.
+Kan geen profielen meer maken. </n>Wil je een bestaand profiel verwijderen en een nieuw maken?</n></n>Je kunt maximaal 10 profielen maken.
+Gegevens online personage kunnen niet worden gereset. </n>Selecteer OPNIEUW PROBEREN.</n></n>Selecteer DOORGAAN om zonder netwerkfuncties te spelen.
+Gegevens personage opslaan is mislukt. </n>Selecteer OPNIEUW PROBEREN.</n></n>Selecteer NAAR HOOFDMENU om terug te gaan
+Vastleggen zoekopdracht notitie is mislukt. </n>Selecteer OPNIEUW PROBEREN.</n></n>Selecteer DOORGAAN om zonder netwerkfuncties te spelen.
+Vastleggen boodschapperinformatie is mislukt.</n>Selecteer OPNIEUW PROBEREN.</n></n>Selecteer DOORGAAN om zonder netwerkfuncties te spelen.
+Wachten tot bijwerken trofeeën-info is voltooid.
+De game wordt offline gestart, </n>omdat de game nog niet volledig is geïnstalleerd
+Ophalen gegevens van Bloodborne-server is mislukt omdat je geen permissie hebt
+Je hebt geen toegang tot de Bloodborne-server.
+Je verbinding met de Bloodborne-server is </n>onderbroken.
+Communiceren met de Bloodborne-server is mislukt. </n>Kies OK om het opnieuw te proberen.
+Ophalen gegevens van Bloodborne-server is mislukt omdat je geen permissie hebt.
+Je hebt geen toegang tot de Bloodborne-server.
+Je verbinding met de Bloodborne-server is onderbroken.
+Communiceren met de Bloodborne-server is mislukt. </n>Kies OK om het opnieuw te proberen.
+Verwerken mislukt. Terug naar hoofdmenu...
+Afzien van contract </n>en terug naar hoofdmenu?
+Contract ondertekenen?
+Er is een naam nodig.</n></n>Voer een naam in om het contract te ondertekenen.
+Opslaan contract is mislukt.
+Alle aanpassingen van het personage resetten?
+De ingevoerde tekst bevat onbehoorlijk taalgebruik en mag </n>niet worden gebruikt voor de naam van het personage.</n></n>Kies een andere naam.
+Als je het geslacht wijzigt, worden </n>bepaalde aanpassingen gereset.</n></n>Is dat akkoord?
+Bewerking bevestigen?
+Stoppen met startinstellingen en terugkeren naar hoofdmenu?
+Opslaan instellingen is mislukt. Selecteer OPNIEUW </n>PROBEREN.</n></n>Selecteer DOORGAAN om verder te spelen zonder op te </n>slaan.
+Huidige wijzigingen verwijderen en terugkeren?
+Starten met geselecteerd profiel?
+Geselecteerd profiel verwijderen en een nieuwe game </n>starten?
+Mag het geselecteerde profiel worden verwijderd?
+Installatie van de game is niet voltooid. Kan geen opslaggegevens van een volledig geïnstalleerde game laden.
+Installatie van de game is niet voltooid. Kan geen opslaggegevens laden.
+De huidige instellingen opslaan als favoriet?
+Er bestaat al een favoriet voor deze instellingen. De huidige </n>instellingen opslaan en overschrijven?
+Huidige wijzigingen verwijderen en favoriet laden?
+Geen favorieten opgeslagen
+Sommige voorwerpen konden niet worden verkregen, </n>omdat de inventaris of opslag te vol is
+Verkrijgen van <?itemName?> </n>is niet mogelijk omdat de inventaris of opslag te vol is
+Verkrijgen van elk <?itemName?> </n>is niet mogelijk omdat de inventaris of opslag te vol is
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*

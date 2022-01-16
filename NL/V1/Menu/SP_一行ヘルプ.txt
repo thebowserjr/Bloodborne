@@ -1,0 +1,195 @@
+﻿Standaardinstellingen herstellen
+Instellingen bevestigen en doorgaan
+Voorwerpen in bezit weergeven
+Game-instellingen wijzigen of de game afsluiten
+Uitrusten met wapen
+Uitrusten met bescherming
+Uitrusten met snelle voorwerpen
+Uitrusten met magie/kogels
+Status controleren
+Te gebruiken voorwerp kiezen
+Wapen/kleding selecteren voor uitrusting
+Uit te rusten voorwerp kiezen
+Status controleren
+Besturing instellen
+De game-instellingen aanpassen
+De helderheid aanpassen
+Netwerkinstellingen wijzigen
+Game afsluiten en naar hoofdmenu
+Taalinstellingen aanpassen
+Game-instellingen aanpassen
+Ondertitels AAN/UIT
+Scherminfo AAN/UIT
+Volume muziek aanpassen
+Volume geluidseffecten aanpassen
+Volume stemmen aanpassen
+De helderheid aanpassen
+Besturing aanpassen
+X-as camera aanpassen
+Y-as camera aanpassen
+Snelheid camerabewegingen instellen
+Automatisch naar nieuw doel als doel doodgaat
+Instellen of camera automatisch muren ontwijkt
+Trilfunctie controller instellen
+Netwerkinstellingen wijzigen
+Regio voor matching instellen
+Opties voor weergave spelersnamen aanpassen
+Wachtwoord aanpassen aan andere spelers
+Taalinstellingen aanpassen. Wijzigingen worden actief na afsluiten.
+Taal teksten aanpassen
+Taal stemmen aanpassen
+Te versterken eigenschap selecteren
+Bloedsporen uitgeven om in niveau te stijgen
+Caryll-rune selecteren om te onthouden
+Te onthouden plek selecteren
+Wapen selecteren om te versterken
+Wapen voor bloedkristal selecteren
+Te bevestigen plek selecteren
+Te plaatsen bloedkristal selecteren
+Te repareren voorwerp selecteren
+Te kopen voorwerp selecteren
+Te gebruiken wapen selecteren
+Te verkopen voorwerp selecteren
+Locatie om te ontwaken selecteren
+Te bewaren voorwerp selecteren
+Te pakken voorwerp selecteren
+Kelkritueel uitvoeren om kelkenkerker te maken
+Beschikbare kelkenkerker vinden
+Kelkenkerker zoeken met kelkinscriptie 
+Kelkenkerker delen nadat het ritueel is voltooid
+Kelk verwijderen, kerker laten verdwijnen en voortgang wissen
+*
+Ritueelmaterialen uitgeven om er nevel aan te onttrekken
+*
+*
+Locatie om te ontwaken selecteren
+Kelk selecteren voor gebruik in ritueel
+Extra ritueel selecteren
+Kelkritueel uitvoeren om kelkenkerker te maken
+Delen met alle online spelers
+Alleen beschikbaar met kelkinscriptie
+Zoekvoorkeuren kelkenkerker instellen
+Kelkenkerker zoeken met ingestelde voorkeuren
+Resultaten van de zoekopdracht naar een kelkenkerker
+Zoekvoorkeuren kelkenkerker instellen
+Zoekvoorkeuren kelkenkerker instellen
+Zoekvoorkeuren kelkenkerker instellen
+Zoekvoorkeuren kelkenkerker instellen
+Snel zoeken naar beschikbare kelkenkerker en meedoen
+Snel zoeken naar jagers uit andere werelden en coöp-game beginnen
+Snel zoeken naar jagers uit andere werelden om te bedreigen
+Locatie om te ontwaken selecteren
+Ritueelmaterialen selecteren om er nevel aan te onttrekken
+Speler selecteren om achter te laten
+Oproepbel dempen en stoppen met coöp
+Bel dempen en jager uit andere wereld niet meer helpen
+Oproepbel dempen en stoppen met bedreiging
+Deze functie is momenteel niet beschikbaar
+Kl. bel dempen en jager selecteren om achter te laten
+Kl. bel dempen en terug naar eigen wereld
+Sinistere bel dempen en terug naar eigen wereld
+Deze functie is momenteel niet beschikbaar
+Vileblood-hiërarchie weergeven
+Vileblood-hiërarchie weergeven
+Een notitie maken
+Lijst met onlangs gemaakte notities
+Lijst met onlangs gelezen notities
+Notitie bewerken
+Toegewezen gebaar wijzigen
+Notitie bevestigen
+Sjabloon selecteren
+Toe te wijzen gebaar selecteren
+Woordcategorie selecteren
+Woord selecteren
+Voegwoord selecteren
+Lijst met onlangs gemaakte notities
+Lijst met onlangs gelezen notities
+Naam toevoegen aan contractregister
+Geslacht invoeren
+Leeftijd invoeren
+Herkomst invoeren
+Uiterlijk afwerken
+Proces voltooien
+Uiterlijk afwerken voltooien
+Mannelijk</n>Geslacht heeft geen invloed op </n>vaardigheden
+Vrouwelijk</n>Geslacht heeft geen invloed op </n>vaardigheden
+Jong</n>Leeftijd heeft alleen invloed op uiterlijk,</n>niet op de vaardigheden
+Volwassen</n>Leeftijd heeft alleen invloed op uiterlijk </n>en niet op vaardigheden
+Bejaard</n>Leeftijd heeft alleen invloed op uiterlijk en </n>niet op vaardigheden
+Normale, onbezorgde jeugd.</n>Alle eigenschappen zijn </n>gemiddeld.
+Overlevende van verwoest gehucht.</n>Vol levenslust en kracht.
+Veel pech tijdens jeugd.</n>Daardoor zeer weerbaar.
+Gewelddadig verleden.</n>Roekeloos, maar sterk.
+Geboren specialist, geschikt als</n>speurneus of geleerde.
+Diende als soldaat in de oorlog. </n>Een soldaat, sterk en vaardig.
+Nazaat van respectabele familie</n>die vertrouwt op hun afkomst.
+Kende moeilijke tijden, </n>maar heeft nu een doel.
+Je bent talentloos en had nooit </n>geboren mogen worden.
+(Not Needed)
+Te laden profiel selecteren
+Te verwijderen profiel selecteren
+Afgewerkt uiterlijk standaard maken
+Bouw selecteren
+Gemiddelde bouw
+Slanke bouw
+Zeer slanke bouw
+Gespierde bouw
+Zeer gespierde bouw
+Zeer gespierde </n>bovenlichaamsbouw
+Zeer gespierde </n>onderlichaamsbouw
+Relatief groot hoofd. </n>Waarschijnlijk veel hersenen.
+Relatief klein hoofd
+Basishuidskleur bewerken
+Bouw afwerken
+Basisgezicht selecteren
+Grootte van beide ogen selecteren
+Kleur van beide ogen bewerken
+Vorm wenkbrauwen selecteren
+Kleur wenkbrauwen bewerken
+Vorm wimpers selecteren
+Kleur wimpers bewerken
+Gezicht afwerken
+Gelaatstrekken bewerken
+Willekeurig gezicht selecteren
+Op huidig gezicht lijkend gezicht selecteren
+Vorm gezicht bewerken
+Huidskleur en make-up bewerken
+Balans gezicht bewerken
+Voorhoofd en glabella bewerken
+Wenkbrauwboog bewerken
+Ogen bewerken
+Neusrug bewerken
+Neusgaten bewerken
+Wangen bewerken
+Lippen bewerken
+Mond bewerken
+Kin bewerken
+Kaak bewerken
+Huidskleur afwerken
+Ooggebied bewerken
+Lippenstift bewerken
+Grootte van rechter pupil selecteren
+Kleur van rechter pupil bewerken
+Grootte van linker pupil selecteren
+Grootte van linker pupil bewerken
+(Gezichts)haar bewerken
+Haar/wenkbrauwen/wimpers bewerken
+Haarstijl selecteren
+Haarkleur bewerken
+Baardtype selecteren
+Baardkleur bewerken
+Haar/voorhoofd/baardkleur bewerken
+Kleur haar/wenkbrauwen bewerken
+Selecteer uiterlijk tattoo/vlek
+Bril selecteren
+Bewerk tattoo/vlek/bril
+Bewerk kleur tattoo/vlek
+Verander schaal en positie tattoo/vlek
+Kleur bril instellen
+Stem selecteren
+Jeugdige stem selecteren
+Volwassen stem selecteren
+Bejaarde stem selecteren
+Opgeslagen favoriet laden
+Huidige instellingen als favoriet opslaan
+Pupillen bewerken

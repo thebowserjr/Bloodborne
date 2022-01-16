@@ -1,0 +1,78 @@
+﻿Pad-toets L
+Pad-toets R
+OK
+Bevestigen
+Voorwerp gebruiken
+Bewerken
+Rite toevoegen/verwijderen
+Rite toevoegen/verwijderen
+Verwijderen
+In/uit uitrusting
+Opbergen
+Pakken
+Kopen
+Verkopen
+Meer info
+Terug
+Sluiten
+Annuleren
+Weergeven
+Nu testen
+Voltooien
+Beschermen AAN/UIT
+Verwijderen
+Bevestigen
+Ritueel starten
+Verwijderen
+Voorbeeld
+Jezelf weergeven
+Kerker delen
+Palet weergeven
+Regelaar weergeven
+Sorteren
+Alles verwijderen
+Alles opbergen
+Alles pakken
+Verwisselen
+Andere actie
+Andere status
+Toppositie weergeven
+Notitieformaat aanpassen
+Opslag weergeven
+Inventaris
+Scrollen
+Aanpassen met 10
+Vermeerderen met 10
+Verminderen met 10
+Pagina omhoog
+Pagina omlaag
+Alles opbergen
+Alles ophalen
+Alles repareren
+Verwijderen
+Volgende 100
+Vorige 100
+Inzoomen
+Uitzoomen
+Ander uitrustingsvak
+Zoomen
+*
+Stoppen
+Selecteren
+Aanpassen
+*
+Aantal
+Aanpassen
+Scrollen
+Draaien
+Help
+Camera resetten
+*
+*
+*
+Verwijderen
+Goed
+Slecht
+*
+Legenda
+OK

@@ -1,0 +1,262 @@
+﻿Offer alle bloedsporen en ontwaak.
+Afvuren voorkomt en beëindigd verdere samenwerking.
+Bericht via een boodschapper achterlaten of lezen.
+Een register van alle bekende Vilebloods.
+Inzicht gebruiken om hulp van andere werelden te krijgen.
+Luid deze bel om jagers in andere werelden te helpen.
+Luid om vijand van een jager in andere wereld te worden.
+Een muziekdoosje, gekregen van een meisje uit Yharnam.
+Herstelt HP en versnelt tijdelijk het herstel van conditie
+Herstelt HP en blijft dit korte tijd doen.
+Versterkt de zintuigen en herstelt meer HP.
+Vreselijke dingen die Vilebloods in koudbloed zien.
+Herstelt HP en versnelt tijdelijk het herstel van conditie
+Speciale kogels voor de jacht op beesten.
+Afgevuurd in plaats van kz-kogels ten koste van veel HP
+Speciaal bloedbuisje dat HP herstelt.
+Medicinale korrels die vergif neutraliseren.
+Vloeibaar medicijn dat de zenuwen kalmeert.
+Grote medicinale korrel voor een kortstondige beestvorm.
+Medicijn dat onbeweeglijke lichamen onzichtbaar maakt.
+Molotovcocktail die na het gooien hevig explodeert.
+In gif gedoopt mes.
+Urn die na het gooien doelwit met olie bedekt.
+Ronde kiezelstenen om naar doelwitten te gooien.
+Fijngekarteld werpmes.
+Exploderende molotovcocktail om achterwaarts te gooien.
+Een gerijpte bloedcocktail om beesten aan te trekken.
+Gooien voor een mistwolk die HP-herstel voorkomt.
+Grof schuurpapier dat vuur aan een wapen toevoegt.
+Leeg omhulsel dat mystieke kracht aan een wapen toevoegt.
+Grof schuurpapier dat bliksem aan een wapen toevoegt.
+Extra medium dat kwikzilverkogels versterkt.
+Ontwaken zonder bloedsporen te verliezen.
+Blinkende munten die je de weg kunnen wijzen.
+Kijker om dingen van dichtbij te zien.
+Verlicht het duister terwijl je twee wapens gebruikt.
+Schedel van een verlichte gek. Gebruik voor meer inzicht.
+Fragment van verloren kennis. Gebruik voor veel inzicht.
+Gebruik om bloedsporen te krijgen.
+Gebruik om bloedsporen te krijgen.
+Gebruik om bloedsporen te krijgen.
+Gebruik om een grote hoeveelheid bloedsporen te krijgen.
+Gebruik om een grote hoeveelheid bloedsporen te krijgen.
+Gebruik om een grote hoeveelheid bloedsporen te krijgen.
+Gebruik om waanzinnige bloedsporen te krijgen.
+Gebruik om waanzinnige bloedsporen te krijgen.
+Gebruik om waanzinnige bloedsporen te krijgen.
+Gebruik om afzichtelijke bloedsporen te krijgen.
+Gebruik om afzichtelijke bloedsporen te krijgen.
+Gebruik om afzichtelijke bloedsporen te krijgen.
+Gebruik om kosmische, horror bloedsporen te krijgen.
+Gebruik om kosmische, horror bloedsporen te krijgen.
+Gebruik om kosmische, horror bloedsporen te krijgen.
+Manuscript "Rs-draaiende metamorfose" van runesmid Caryll.
+Manuscript "Ls-draaiende metamorfose" van runesmid Caryll.
+Manuscript "Communie" van runesmid Caryll.
+Manuscript "Liaison Oedon" van runesmid Caryll.
+Manuscript "Meer" van runesmid Caryll.
+Manuscript "Diepzee" van runesmid Caryll.
+Manuscript "Vernietiger" van runesmid Caryll.
+Manuscript "Genieter" van runesmid Caryll.
+Manuscript "Liaison" van runesmid Caryll.
+Manuscript "Erfgenaam" van runesmid Caryll.
+Manuscript "Beest" van runesmid Caryll.
+Manuscript "Maan" van runesmid Caryll.
+Manuscript "Oog" van runesmid Caryll.
+Krijg bloedkristal (ster). 
+Krijg bloedkristal (ster). 
+Krijg bloedkristal (ster). 
+Krijg bloedkristal (ster). 
+Krijg bloedkristal (ster). 
+Krijg bloedkristal (ster). 
+Krijg dieptebloedkristal (ster).
+Krijg bloedkristal (driehoek).
+Krijg bloedkristal (driehoek).
+Krijg bloedkristal (driehoek).
+Krijg bloedkristal (driehoek).
+Krijg bloedkristal (driehoek).
+Krijg bloedkristal (driehoek).
+Krijg dieptebloedkristal (driehoek).
+Krijg bloedkristal (halve maan). 
+Krijg bloedkristal (halve maan). 
+Krijg bloedkristal (halve maan). 
+Krijg bloedkristal (halve maan). 
+Krijg bloedkristal (halve maan). 
+Krijg bloedkristal (halve maan). 
+Krijg dieptebloedkristal (halve maan).
+Krijg boedkristal (rond). 
+Krijg boedkristal (rond). 
+Krijg boedkristal (rond). 
+Krijg boedkristal (rond). 
+Krijg boedkristal (rond). 
+Krijg boedkristal (rond). 
+Krijg dieptebloedkristal (rond). 
+Krijg bloedkristal (druppel). 
+Krijg bloedkristal (druppel). 
+Krijg bloedkristal (druppel). 
+Krijg bloedkristal (druppel). 
+Krijg bloedkristal (druppel). 
+Krijg bloedkristal (druppel). 
+Krijg dieptebloedkristal (druppel). 
+Ebrietas deels oproepen.
+Kleine sterexplosie veroorzaken.
+De krachtige brul weert vijanden en objecten af.
+Medicijn verlegt gewicht om aanvallen te ontwijken.
+Versterkt en geneest alle samenwerkende partijen.
+De versnellingskunst versnelt rollen en snelle passen.
+In de grond rammen zodat er blauwe vonken ontstaan.
+Boze geesten oproepen.
+Inhakken op vijanden zodat ze hun richtingsgevoel kwijtraken
+Zwarte mist verandert gebruiker in boodschapper.
+Bevestigen op wapen om het te versterken.
+Bevestigen op wapen om het te versterken.
+Bevestigen op wapen om het te versterken.
+Bevestigen op wapen om het te versterken.
+Sleutel van de poort naar de tombe van Oedon.
+Amelia's hanger. Gebruiken om bloedkristal te krijgen.
+*
+Een uitnodiging om naar Cainhurst te komen.
+*
+*
+Sleutel van het weeshuis, waar het koor ontstond.
+*
+*
+Sleutel van de ijzeren poort naar de grote brug in het midden
+Sleutel van het zegel van de hoge kathedraalwijk.
+Sleutel van poort naar rond plein van grote kathedraal.
+Sleutel van de collegezaal in het collegegebouw.
+Sleutel van lunarium bij meer, Byrgenwerth verdieping 2.
+*
+Mystieke nevel onttrekken aan ritueelmaterialen.
+Versterk wapens met bloedkristallen.
+Graveer Caryll runen in iemands bewustzijn.
+Snel een kelkenkerker zoeken en meedoen.
+Insigne van een door de werkplaats erkende jager.
+Kraai-insigne, het symbool van een jager der jagers.
+Jagersinsigne van de kruitkragen.
+Jagersinsigne uit de tijd van de oude Gehrman.
+Zwaardjagersinsigne, gezegend door de kerk.
+Stralend-zwaardjagersinsigne voor nazaten van Ludwig.
+Radjagersinsigne uit de geheime werkplaats van de kerk.
+Insigne van de koninklijke wachters van Cainhurst.
+Archibalds insigne, excentriekeling van de werkplaats.
+Insigne van koor, de elite van de Helende kerk.
+Een kleine en eenvoudige haarversiering.
+Traansteen. Gebruik voor druppelvormig bloedkristal.
+*
+Trouwring die van de Groten een speciale betekenis kreeg.
+Restanten van Annalise, Vileblood-koningin van Cainhurst.
+Rode broche. Gebruik voor druppelvormig bloedkristal.
+*
+Ongeopende uitnodiging voor een bezoek aan Cainhurst.
+*
+Een vervormde steen.
+Een belangrijk relikwie, ook Streng van het Oog genoemd.
+Een belangrijk relikwie, ook Streng van het Oog genoemd.
+Een belangrijk relikwie, ook Streng van het Oog genoemd.
+Een belangrijk relikwie, ook Streng van het Oog genoemd.
+Heilig erfstuk van Yharnam, de Pthumeriaanse koningin.
+Hoed geliefd bij boodschappers.
+Hoed geliefd bij boodschappers.
+Verkleedaccessoire van boodschappers.
+Wit lint geliefd bij boodschappers.
+Rood lint geliefd bij boodschappers.
+Hoed die de boodschappers nogal leuk schijnen te vinden.
+Hoed die de boodschappers nogal leuk schijnen te vinden.
+Verkleedaccessoire van boodschappers.
+Verkleedaccessoire van boodschappers.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt.
+Bronkelk die meerdere labyrintzegels breekt.
+Kelk die een labyrintzegel breekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Grote kelk die het diepere deel van het labyrint ontgrendelt
+Bronkelk die meerdere labyrintzegels verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Kelk die een labyrintzegel verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Bronkelk die meerdere labyrintzegels verbreekt.
+Grote kelk die diepere delen van het labyrint ontgrendelt
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+Materiaal voor een heilige kelkrite.
+Speciaal materiaal voor een heilige kelkrite.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+.

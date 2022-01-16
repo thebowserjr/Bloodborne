@@ -1,0 +1,8 @@
+﻿TEST_win64
+LS
+RS
+LB
+LT
+RT
+LIVE
+Gamertag

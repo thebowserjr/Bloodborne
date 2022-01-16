@@ -1,0 +1,1144 @@
+﻿Naam
+Geslacht
+Herkomst
+*
+Leeftijd
+Niveau
+Bloedsporen
+Vereist
+Inzicht
+*
+Vitaliteit
+Stamina
+Kracht
+Vaardigheid
+Bloedkwaliteit
+Mystiek
+HP
+Conditie
+Ontdekking
+AANV WPN 1 R
+AANV WPN 2 R
+AANV WPN 1 L
+AANV WPN 2 L
+VERD teg. fysiek
+Teg. stootaanv.
+Teg. stomp wapen
+VERD teg. bloed
+VERD teg. mystiek
+VERD teg. vuur
+VERD teg. bliksem
+Fysiek
+Teg. stootaanv.
+Teg. stomp wapen
+Bloed
+Mystiek
+Vurig
+Bliksem
+Schade vermindering
+WEER teg. traag gif
+WEER teg. snel gif
+WEER teg. waanzin
+Beestvorm
+Weerstand
+*
+Effect Caryll-rune
+*
+Fysieke AANV
+Bloed-AANV
+Mystieke AANV
+Vuur-AANV
+Bliksem-AANV
+Stomp
+Fysieke AANV
+Stoten
+*
+*
+*
+*
+Verbruik kz-kogels
+Eigenschapsbonus
+-
+S
+A
+B
+C
+D
+E
+*
+*
+*
+*
+Eigenschapsvereiste
+*
+*
+*
+*
+*
+*
+Duurzaamheid
+*
+Speciale aanval
+Effect bloedkristal
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN r-hand
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand WPN (vuurwapen)
+WPN l-hand
+WPN l-hand
+VERD teg. fysiek
+Teg. stootaanv.
+Teg. stomp wapen
+VERD teg. bloed
+Mystiek
+Vurig
+Bliksem
+Minder schade
+WEER teg. traag gif
+WEER teg. snel gif
+WEER teg. waanzin
+Beestvorm
+Weerstand
+*
+Beoordeling
+Vorm
+Effecten bloedkristal
+*
+*
+*
+*
+*
+*
+*
+Cirkel
+Driehoek
+Ster
+Druppel
+Halve maan
+Type
+Effect Caryll-rune
+-
+Gelofte
+Soort gebruik
+Verbruik kz-kogels
+Eigenschapsbonus
+Eigenschapsvereiste
+Beperkt
+Onbeperkt gebruik
+Lagen
+Ruimte
+Extra rite
+Pthumeru
+Hintertombe
+Loran
+Isz
+*
+*
+*
+Geselecteerde extra rite
+Extra rite
+Lijst staat materialen
+Maker
+Datum ritueel
+Kelkinscriptie
+Privacy
+Laatst gespeeld op
+Deze kelkenkerker is van de server verwijderd
+Dit altaar is niet toegewezen aan een kerker.
+Tijdens ritueel
+In handen
+In opslag
+Naam personage
+Geslacht personage
+Herkomst personage
+Leeftijd personage
+De totale waarde van de algemene eigenschappen van de jager. Gebruik bloedsporen om in niveau te stijgen.
+Het totaal aantal bloedsporen in handen. Je kunt ze gebruiken om te handelen met boodschappers.
+Het aantal bloedsporen dat nodig is om in niveau te stijgen.
+Niveau van inzicht of hoeveelheid onmenselijke kennis. Nodig om speciale bel te luiden, maar veroorzaakt waanzin.
+*
+Eigenschap die HP bepaalt.
+Eigenschap die conditie en weerstand bepaalt.
+Eigenschap die AANV zware fysieke wapens bepaalt. Bepaalt of je bepaalde uitrusting kunt gebruiken.
+Eigenschap die AANV subtielere fysieke wapens bepaalt. Bepaalt of je bepaalde uitrusting kunt gebruiken.
+Eigenschap die kracht van wapens met KZ-kogels bepaalt. Kan bepalen of je bepaalde uitrusting kunt gebruiken.
+Eigenschap die de mystieke AANV bepaalt. Kan bepalen of je bepaalde uitrusting kunt gebruiken.
+De wilskracht om te overleven. Als dit tot 0 daalt, verlies je je kracht.
+Je hebt conditie nodig om acties uit te voeren. Wordt verbruikt door acties, maar wordt vanzelf aangevuld.
+*
+*
+Bepaalt kans dat verslagen vijanden voorwerpen achterlaten. Hoe hoger deze eigenschap, hoe meer je vindt.
+De AANV-waarde van het wapen in vak 1 van je rechterhand.
+De AANV-waarde van het wapen in vak 2 van je rechterhand.
+De AANV-waarde van het wapen in vak 1 van je linkerhand.
+De AANV-waarde van het wapen in vak 2 van je linkerhand.
+Het defensieve vermogen tegen contactaanvallen of tegen vijanden met een fysieke verschijning.
+Minder fysieke schade. Totale waarde van uitrusting en Caryll-runen.
+Minder schade door stootaanvallen. Totale waarde van uitrusting en Caryll-runen.
+Minder schade door stompe aanvallen. Totale waarde van uitrusting en Caryll-runen.
+Minder schade door vuurwapens en andere bloederige aanvallen. Totale waarde van uitrusting en Caryll-runen.
+Minder schade door mystieke aanvallen. Totale waarde van uitrusting en Caryll-runen.
+Minder schade door vuuraanvallen. Totale waarde van uitrusting en Caryll-runen.
+Minder schade door bliksemaanvallen. Totale waarde van uitrusting en Caryll-runen.
+Weerstand tegen traag werkend gif. Hoe hoger deze eigenschap, hoe beter je weerstand.
+Weerstand tegen snel werkend gif. Hoe hoger deze eigenschap, hoe beter je weerstand.
+Weerstand tegen de verlokkingen van de waanzin. Hoe hoger deze eigenschap, hoe beter je weerstand.
+Hoe hoger deze eigenschap, hoe dichter je bij de beestvorm bent bij tijdelijke transformatie.
+Weerstand tegen traag werkend gif, snel werkend gif, waanzin en mate van beestvorm.
+Diverse effecten van onthouden Caryll-runen.
+Fysieke AANV.
+Bloed-AANV, voornamelijk door vuurwapens.
+Mystieke AANV.
+Vuur-AANV.
+Bliksem-AANV.
+Stompe AANV.
+Stoot-AANV.
+Aantal kwikzilverkogels dat per keer wordt verbruikt.
+*
+Mate waarin AANV wordt verbeterd door kracht
+Mate waarin AANV wordt verbeterd door vaardigheid
+Mate waarin AANV wordt verbeterd door bloedkleur
+Mate waarin AANV wordt verbeterd door mystieke eigenschap
+Mate waarin je eigenschappen AANV versterken (kracht/vaardigheid/bloedkleur/mystiek).
+Minimale hoeveelheid vereiste kracht.
+Minimale hoeveelheid vereiste vaardigheid.
+Minimale hoeveelheid vereiste bloedkleur.
+Minimale hoeveelheid vereiste mystiek.
+Minimale eigenschap die is vereist voor uitrusting (kracht/vaardigheid/bloedkleur/mystiek).
+*
+*
+*
+*
+*
+*
+Duurzaamheid van wapen.</n>Loopt terug door gebruik.</n>Verminderde AANV bij grote slijtage.
+*
+Kracht van snel/traag gif dat wordt toegevoegd aan een aanval en de mate waarin deze AANV sterker wordt tegen verwanten en ernstig getransformeerde beesten
+Kracht van traag werkend gif dat wordt toegevoegd aan een aanval.
+Kracht van direct werkend gif dat wordt toegevoegd aan een aanval
+Bonus voor AANV tegen verwanten van de kosmos.
+Bonus voor AANV tegen ernstig getransformeerde beesten.
+Diverse effecten van op wapens bevestigde bloedkristallen.
+*
+Minder schade door fysieke aanvallen.
+Minder schade door stootaanvallen.
+Minder schade door stompe aanvallen.
+Minder schade door vuurwapens en dergelijke.
+Minder schade door mystieke aanvallen.
+Minder schade door vuuraanvallen.
+Minder schade door bliksemaanvallen.
+Weerstand tegen traag werkend gif. Hoe hoger deze eigenschap, hoe beter je weerstand.
+Weerstand tegen snel werkend gif. Hoe hoger deze eigenschap, hoe beter je weerstand.
+Weerstand tegen de verlokkingen van de waanzin. Hoe hoger deze eigenschap, hoe beter je weerstand.
+*
+Hoe hoger deze eigenschap, hoe dichter je bij de beestvorm bent bij tijdelijke transformatie.
+*
+*
+*
+*
+*
+*
+*
+Zeldzaamheid bloedkristal Helende kerk. Hoe zeldzamer het kristal, hoe krachtiger het is.
+Vorm bloedkristal. Moet passen in het wapen om te kunnen fuseren.
+Diverse effecten van bloedkristallen.
+Classificaties Caryll-runen. Sommige runen werken alleen onder bepaalde geloften.
+Diverse effecten Caryll-runen.
+Soort voorwerp. Geeft aan of het al dan niet wordt verbruikt.
+Aantal kwikzilverkogels dat per keer wordt verbruikt.
+Mate waarin je eigenschappen effecten versterken (kracht/vaardigheid/bloedkleur/mystiek)
+Mate waarin het effect wordt verbeterd door kracht.
+Mate waarin het effect wordt verbeterd door vaardigheid.
+Mate waarin het effect wordt verbeterd door de bloedkleur.
+Mate waarin het effect wordt verbeterd door de mystieke eigenschap.
+Minimaal benodigde eigenschapspunten (kracht/vaardigheid/bloedkleur/mystiek)
+Minimale hoeveelheid vereiste kracht.
+Minimale hoeveelheid vereiste vaardigheid.
+Minimale hoeveelheid vereiste bloedkleur.
+Minimale hoeveelheid vereiste mystiek.
+Lagen van het labyrint dat is ontgrendeld door het kelkritueel. Hoe meer lagen, hoe dieper het is.
+Ruimte in het labyrint dat is ontgrendeld door het kelkritueel. Elke ruimte is weer anders.
+Extra riten die mogelijk zijn door deze kelk
+Aantal van dit voorwerp in handen.
+Aantal van dit voorwerp in opslag.
+Standaard
+Order ontvangen
+In handen
+Versterkt
+Krist. in uitr.
+Fysieke AANV
+Mystieke AANV
+Vuur-AANV
+Bliksem-AANV
+Duurzaamheid
+VERD teg. fysiek
+Stoten
+Stomp
+VERD teg. bloed
+VERD teg. mystiek
+VERD teg. vuur
+VERD teg. bliksem
+WEER teg. traag gif
+WEER teg. snel gif
+WEER teg. waanzin
+Beestvorm
+Beoordeling
+Aantal effecten
+Vorm
+Lagen
+Ruimte
+*
+*
+*
+Aan
+Uit
+*
+Normaal
+Omgekeerd
+Wereldwijd
+Lokaal
+Standaard
+Volgende
+Naam
+Online-id
+Geen wachtwoord
+Consumptieartikelen
+Materialen
+Belangrijke voorwerpen
+Wapens voor rechterhand
+Wapens voor linkerhand
+Kleding
+Bloedkristallen
+Caryll-runen
+Kelken
+Werkplaats wapens r-hand
+Wapens r-hand kerk
+Wapens r-hand Vileblood
+Werkplaats wapens l-hand
+Wapens l-hand kerk
+Wapens l-hand Vileblood
+Kleding werkplaats
+Kleding kerk
+Kleding Vileblood
+Overige kleding
+Bloedkristallen (ster)
+Bloedkristallen (driehoek)
+Bloedkristallen (halve maan)
+Bloedkristallen (rond)
+Bloedkristallen (druppel)
+Pthumeru-kelk
+Hintertombe-kelk
+Loran-kelk
+Isz-kelk
+Wapen 1 rechterhand
+Wapen 2 rechterhand
+Wapen 1 linkerhand
+Wapen 2 linkerhand
+Hoofd
+Borst
+Armen
+Benen
+Snel voorwerp 1
+Snel voorwerp 2
+Snel voorwerp 3
+Snel voorwerp 4
+Snel voorwerp 5
+Snel voorwerp 6
+Persoonlijke voorwerpen 1
+Persoonlijke voorwerpen 2
+Persoonlijke voorwerpen 3
+Persoonlijke voorwerpen 4
+Persoonlijke voorwerpen 5
+Persoonlijke voorwerpen 6
+Afdruk bloedkristal 1
+Afdruk bloedkristal 2
+Afdruk bloedkristal 3
+Geheugenvak 1
+Geheugenvak 2
+Geheugenvak 3
+Gelofte in geheugen
+Geen
+Bloed
+Fysiek
+Fysiek/blood
+Fysiek
+Fysiek/blood
+Fysiek
+Fysiek/blood
+Fysiek
+Fysiek/blood
+Fysiek
+Fysiek/blood
+Fysiek
+Fysiek/blood
+Fysiek
+Fysiek/blood
+Inventaris
+Instellingen
+Wapens
+Kleding
+Snelle voorwerpen
+*
+Statistieken
+Gebruiken
+Verwijderen
+*
+*
+Meer gebruiken
+Inventaris
+Uitrusting
+Snelle voorwerpen
+Persoonlijke voorwerpen
+Wapen 1 rechterhand
+Wapen 2 rechterhand
+Wapen 1 linkerhand
+Wapen 2 linkerhand
+Kleding
+Snelle voorwerpen
+Persoonlijke voorwerpen
+Caryll-runen
+Besturing
+Game-instellingen
+Helderheid
+Netwerk
+Game afsluiten 
+Taal
+Instellingen
+Ondertitels
+Scherminfo
+Muziek
+Geluidseffecten
+Stem
+Beeld
+Geluid
+Game-instellingen
+Helderheid aanpassen
+Pas schuifregelaar aan tot man wel en beest niet zichtbaar is.
+Helderheid
+X-as camera
+Y-as camera
+Gevoeligheid camera
+Ander doelwit (auto)
+Autom. aanp. camera
+Trilfunctie controller
+Besturing
+Regio's voor matching
+Spelersnaam
+Matching met wachtwoord 
+Netwerk
+Geblokkeerd door ouderlijk toezicht.
+Kelkinscriptie maken
+Teksten
+Stem
+Taal
+Instellingen worden geactiveerd bij afsluiten
+Japans
+English (United Kingdom)
+Frans
+Italiaans
+Duits
+Spaans (Spanje)
+Spaans (Latijns-Amerika)
+Portugees (Brazilië)
+English (United States)
+Nederlands
+Pools
+Russisch
+Deens
+Noors
+Fins
+Zweeds
+Turks
+Portugees (Portugal)
+Traditioneel Chinees
+Koreaans
+Vereenvoudigd Chinees
+Standaard
+Niveau omhoog
+Bevestigen
+Caryll-runen
+Wapen versterken
+Nu
+Erna
+Vereist
+Bloedkristallen
+Repareren
+Vereist
+Bloedsporen
+Inzicht
+Vereist
+Kopen
+Kopen met inzicht
+Wapen kiezen
+Sporen verdient
+Verkopen
+Bovengronds ontwaken
+Opslag
+Kelkritueel
+Zoeken naar kelkenkerker
+Zoeken op kelkinscriptie
+Kelk verwijderen
+Ritueelaltaar
+Ritueel altaar
+Bloedsporen
+Basismaterialen
+Materialen voor riten
+Kelkritueel
+Open
+Gesloten
+Zoeken naar kelkenkerker
+Nu zoeken
+Zoekresultaten
+Lagen
+Laag 1
+Laag 2
+Laag 3
+Laag 4
+Laag 5
+Laag 6
+Laag 7
+Laag 8
+Laag 9
+-
+Ruimte
+Pthumeriaans labyrint
+Zieltogende Loran
+Grafsteen Isz
+-
+Hintertombe
+Extra rite
+Stinkend offer
+sinistere bel
+Vloek
+Vervallen offer
+Geen extra rite
+-
+Kelktype
+Standaard kelk
+Bronkelk
+Laatste keer gespeeld
+Meest gedeeld
+Datum ritueel
+Aantal lagen
+Ruimten
+Extra riten
+Kelkinscriptie maken
+Ontwaken in het labyrint
+Snel kerker zoeken
+Snel coöp-game zoeken
+Snel bedreiging zoeken
+Kort ritueel
+Ontwaken in het labyrint
+*
+*
+Nevel onttrekken
+Nevel onttrokken
+*
+*
+*
+*
+*
+*
+*
+Stinkend offer
+Vervallen offer
+Sinistere bel
+Vloek
+Ontheiliging
+*
+*
+*
+*
+*
+*
+Stinkend offer
+*
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+*
+*
+*
+sinistere bel
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Vloek
+Ontheiliging
+Vreselijke ontheiliging
+Stinkend offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+Vervallen offer
+*
+Naar voren wijzen
+Jagersgroet
+Overtuiging
+Hoera!
+Cape afschudden
+Kerkboog (man)
+Revérence maken
+Kerkboog (vrouw)
+Zwaaien
+Bidden
+Wachten
+Sst!
+Jagersgroep
+Triomf
+Goedkeuring
+Grommen
+Smeken om in leven te blijven
+Stof afkloppen
+Respecteren
+Diep respect
+Contact maken
+Gaan zitten
+Gebaren
+Losse flodder
+Losse flodder
+Oproepbel dempen
+Kleine bel dempen
+Sinistere bel dempen
+De bel dempen
+Jager naar eigen wereld
+Terug naar je eigen wereld
+Terug naar je eigen wereld
+Klank verstoren
+Persoonlijke voorwerpen
+*
+*
+*
+*
+*
+*
+Vileblood-register
+Hiërarchie
+Naam
+Zaad aangeboden
+Notitie maken
+Gemaakte notities
+Gelezen notities
+Notitieboek
+Goede notities
+Slechte notities
+Beschermen
+Sjablonen
+Woorden
+Voegwoorden
+Sjablonen (2e regel)
+Woorden (2e regel)
+Gebaren
+Klaar
+Notitie maken
+Goed
+Slecht
+Gemaakte notities
+Beoordelingen
+*
+Gelezen notities
+*
+*
+DRUK OP EEN TOETS
+*
+*
+OFFLINE SPELEN
+ONLINE SPELEN
+Opslaggegevens controleren...
+Opslaggegevens maken...
+Opslaggegevens bijwerken...
+Controleren op downloadbare content...
+Netwerkstatus controleren...
+Verbinden met Bloodborne-server.
+Gegevens ophalen van Bloodborne-server.
+Gegevens opslaan op Bloodborne-server.
+Doorgaan
+Game laden
+Nieuwe game
+Instellingen
+Informatie
+Aanmelden
+Ideeënbus
+Online
+Offline
+*
+*
+Versie
+Server-ver.
+Informatie
+Er is geen nieuwe informatie.
+Gebruikersovereenkomst
+Akkoord
+Niet akkoord
+Contract
+Naam invoeren
+Geslacht
+Leeftijd
+Herkomst
+*
+Uiterlijk
+Klaar
+Voltooid
+Naam invoeren
+Niet ingevuld
+Mannelijk
+Vrouwelijk
+*
+*
+Jong
+Volwassen
+Bejaard
+*
+*
+*
+Melkmuil
+Enige overlevende
+Moeilijke jeugd
+Gewelddadig verleden
+Professional
+Oorlogsveteraan
+Adellijke afstammeling
+Zwaar leven
+Nutteloos
+(Not needed)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Naam invoeren
+Zaaghakmes/Donderbus (standaard)
+Jagersbijl/Pistool (zwaar)
+Beukhamer/donderbus</n>(zwaard & zware aanval)
+Dubbel kromzwaard/pistool (behendig)
+*
+Zeisjager
+Bijljager
+Kerkjager
+Gevederde jager
+Uiterlijk
+*
+*
+Standaard
+*
+Bouw
+Standaard
+Dun
+Zeer dun
+Stevig
+Zeer stevig
+Stevig bovenlichaam
+Stevig onderlichaam
+Groot hoofd
+Klein hoofd
+*
+*
+*
+*
+Huidskleur (basis)
+*
+Schaal aanpassen
+Hoofd
+Klein
+Groot
+Borst
+Klein
+Groot
+Buik
+Klein
+Groot
+Armen
+Klein
+Groot
+Benen
+Klein
+Groot
+*
+Basisgezichten
+Grootte pupillen
+Kleur pupillen
+Wenkbrauw
+Kleur wenkbrauw
+Wimpers
+Kleur wimpers
+Details gezicht
+Voorkomen
+Uiterlijke leeftijd
+Jong
+Bejaard
+Gezichtskenmerken
+Mannelijk
+Vrouwelijk
+Mate van aanpassing
+Zwak
+Sterk
+Willekeurig
+Vergelijkbaar gezicht
+Vorm gezicht
+*
+Huidskleur/make-up
+*
+Balans gezicht
+Grootte neus
+Breed
+Smal
+Verhouding neus/voorhoofd
+Neus
+Voorhoofd
+Verhouding gezicht
+Horizontaal
+Verticaal
+Vorm gezicht
+Bol
+Hol
+Vert. afstand
+Breed
+Smal
+Scheefheid gezicht
+Omhoog
+Omlaag
+Hor. afstand
+Breed
+Smal
+Voorhoofd/glabella
+Breedte voorhoofd
+Smal
+Breed
+Diepte voorhoofd
+Oppervlakkig
+Diep
+Vorm voorhoofd
+Bol
+Hol
+Hoogte neusbeen
+Laag
+Hoog
+Neusbrug vorm 1
+Hol
+Bol
+Neusbrug vorm 2
+Hol
+Bol
+Breedte neusbeen
+Smal
+Breed
+Wenkbrauwboog
+Hoogte wenkbrauwboog
+Hoog
+Laag
+Binnenste wenkbrauwboog
+Laag
+Hoog
+Buitenste wenkbrauwboog
+Hoog
+Laag
+Ogen
+Positie ogen
+Omlaag
+Omhoog
+Grootte ogen
+Klein
+Groot
+Scheefheid ogen
+Naar binnen
+Naar buiten
+Afstand tussen ogen
+Breed
+Smal
+Neusrug
+Diepte neusrug
+Kort
+Lang
+Lengte neusrug
+Kort
+Lang
+Positie neus
+Omlaag
+Omhoog
+Hoogte puntje neus
+Laag
+Hoog
+Vorm neus
+Hol
+Bol
+Hoogte neus
+Laag
+Hoog
+Scheefheid neus
+Omlaag
+Omhoog
+Neusgaten
+Scheefheid neusgaten
+Omlaag
+Omhoog
+Grootte neusgaten
+Klein
+Groot
+Breedte neusgaten
+Breed
+Smal
+Grootte neus
+Klein
+Groot
+Wangen
+Hoogte jukbeenderen
+Laag
+Hoog
+Diepte jukbeenderen
+Laag
+Hoog
+Breedte jukbeenderen
+Laag
+Hoog
+Vorm jukbeenderen
+Hol
+Bol
+Dikte wangen
+Dik
+Dun
+Lachrimpels
+Licht
+Donker
+Lippen
+Vorm lippen
+Open
+Getuit
+Uitdrukking mond
+Blij
+Droevig
+Volheid lippen
+Klein
+Groot
+Grootte lippen
+Groot
+Klein
+Vorm lippen
+Bol
+Hol
+Dikte lippen
+Dun
+Dik
+Mond
+Vorm mond
+Bol
+Hol
+Scheefheid mond
+Omhoog
+Omlaag
+Occlusie
+Omlaag
+Omhoog
+Positie mond
+Omhoog
+Omlaag
+Breedte mond
+Breed
+Smal
+Afstand mond-kin
+Kort
+Lang
+Kin
+Positie puntje kin
+Voorkant
+Achterkant
+Lengte kin
+Lang
+Kort
+Vorm kin
+Klein
+Groot
+Diepte kin
+Oppervlakkig
+Diep
+Grootte kin
+Klein
+Groot
+Hoogte kin
+Laag
+Hoog
+Breedte kin
+Breed
+Smal
+Kaak
+Vorm kaak
+Klein
+Groot
+Breedte kaak
+Breed
+Smal
+Onderkaak
+Hoog
+Laag
+Contouren kaak
+Dun
+Dik
+Huidskleur
+Huidtint
+Donker
+Licht
+Kleur neusbeen
+Bleek
+Rood
+Kleur kin
+Wit
+Rood
+Huidskleur laag 1
+Oranje
+Blauw
+Huidskleur laag 2
+Paars
+Geel
+Huidskleur laag 3
+Rood
+Groen
+*
+*
+*
+Ooggebied
+Kleur oogkas
+Teken
+Licht
+Helderheid oogkas
+Donker
+Licht
+Helderheid ooglid
+Licht
+Donker
+Kleur ooglid
+Bleek
+Rood
+Eyeliner
+Licht
+Donker
+Oogschaduw
+Licht
+Donker
+Lippenstift
+Lippenstift 1
+Donkerrood
+Poederblauw
+Lippenstift 2
+Donkerblauw
+Helderrood
+*
+Grootte rechter pupil
+Kleur rechter pupil
+Grootte linker pupil
+Kleur linker pupil
+(Gezichts)haar
+Haar/wenkbrauw/wimper
+Haar
+Haarkleur
+Baard
+Baardkleur
+*
+*
+Haar/voorhoofd/baardkleur
+Kleur haar/wenkbrauw
+*
+Tattoo/vlek
+Bril
+Tattoo/vlek/bril
+Kleur tattoo/vlek
+Afw. tattoo/vlek
+Positie (verticaal)
+Omhoog
+Omlaag
+Positie (horizontaal)
+Links
+Rechts
+Hoek
+Draai linksom
+Draai rechtsom
+Vergroten
+Klein
+Groot
+Kleur bril
+Stem
+Jeugdige stem
+Volwassen stem
+Bejaarde stem
+*
+*
+*
+Favoriet laden
+Opslaan naar favorieten
+Pupillen
+PROOI AFGESLACHT
+GESTORVEN
+ONTGRENDELD
+PROOI AFGESLACHT
+SINISTERE AANWEZIGHEID VERDREVEN
+VERKREGEN BLOEDSPOREN
+NACTMERRIE VERSLAGEN
