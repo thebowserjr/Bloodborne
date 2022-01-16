@@ -1,0 +1,657 @@
+﻿Expend Insight and seek the assistance</n>of a hunter from another world?
+Assist hunter from another world?
+Become the adversary</n>of a hunter in another world?
+Silence the Beckoning Bell
+Silence the Small Resonant Bell
+Silence the Sinister Resonant Bell
+Rescind your request for assistance?
+Rescind your offer of assistance?
+Rescind your threat of hostility?
+Return to your own world
+Send player back to their own world
+Withdraw and return to own world?
+Withdraw and return to own world?
+Searching for the chime of a Small Resonant Bell...
+The bell-ringing woman rings a sinister bell.
+Searching for the chime of a</n>Small Resonant Bell with matching password.
+Ringing Old Hunter Bell...
+Ringing Old Hunter Bell...
+Ringing Old Hunter Bell...
+Ringing Old Hunter Bell...
+Ringing Old Hunter Bell...
+Ringing Old Hunter Bell...
+Ringing Old Hunter Bell...
+Searching for the chime of a Beckoning Bell
+Searching for the chime of a</n>Beckoning Bell with matching password.
+Searching for the chime of a Sinister Bell
+Could not discover the chime of a Small Resonant Bell.</n>No insight was consumed.
+Discovered the chime of a Small Resonant Bell
+Sinister Bell resonates with another
+Discovered the chime of a Small Resonant Bell
+Discovered the chime of a Small Resonant Bell
+Discovered the chime of a Small Resonant Bell
+Old Hunter Bell resonates with another.
+Old Hunter Bell resonates with another.
+Old Hunter Bell resonates with another.
+Old Hunter Bell resonates with another.
+Old Hunter Bell resonates with another.
+Old Hunter Bell resonates with another.
+Old Hunter Bell resonates with another.
+Discovered the chime of a Beckoning Bell
+Discovered the chime of a</n>Sinister Bell
+Discovered the chime of a Beckoning Bell,</n>but the beckoner is an Executioner, and thus an adversary
+Discovered the chime of a Beckoning Bell,</n>but the beckoner is a Vileblood, and thus an adversary
+Discovered the chime of a Beckoning Bell,</n>but the beckoner is a blood-addled hunter, and thus an adversary
+The bell's resonance has beckoned <?joinName?>.
+Adversary <?joinName?> has arrived.
+<?joinName?> has arrived by the bell's resonance
+<?joinName?> has arrived by the bell's resonance
+<?joinName?> has arrived by the bell's resonance
+Confederate <?joinName?> has arrived</n>by the bell's resonance.
+Confederate <?joinName?> has arrived</n>by the bell's resonance.
+Old Hunter <?joinName?> has arrived</n>by the bell's resonance.
+Old Hunter <?joinName?> has arrived</n>by the bell's resonance.
+Old Hunter <?joinName?> has arrived</n>by the bell's resonance.
+Old Hunter <?joinName?> has arrived</n>by the bell's resonance.
+Old Hunter <?joinName?> has arrived</n>by the bell's resonance.
+Confederate <?joinName?> has arrived</n>by the bell's resonance.
+Confederate <?joinName?> has arrived</n>by the bell's resonance.
+Entered the world of <?hostName?>,</n>who beckoned you here.
+Entered the world of <?hostName?>.
+You are now in the world of the beckoner,</n>Executioner <?hostName?>
+You are now in the world of the beckoner,</n>Vileblood <?hostName?>
+You are now in the world of the beckoner,</n>the blood-addled hunter <?hostName?>
+You are now in the world of the beckoner,</n><?hostName?>.
+You are now in the world of the beckoner,</n><?hostName?>.
+Co-operator <?deadName?> has died.
+Adversary <?deadName?> has died.
+Vileblood <?deadName?> has died
+Executioner <?deadName?> has died
+Hunter of hunters, <?deadName?>, has died
+Confederate <?deadName?> has died.
+Confederate <?deadName?> has died.
+Old Hunter <?deadName?> has died.
+Old Hunter <?deadName?> has died.
+Old Hunter <?deadName?> has died.
+Old Hunter <?deadName?> has died.
+Old Hunter <?deadName?> has died.
+Confederate <?deadName?> has died.
+Confederate <?deadName?> has died.
+You died.</n>Returning to your world.
+Your beckoner has died.</n>Returning to own world.
+You died. Returning to your world.
+You died. Returning to your world.
+You died. Returning to your world.
+You died. Returning to your world.
+Beckoner has challenged</n><?npcNameId@500000?>.
+The beckoner has begun the final battle.
+Battle with <?npcNameId@1000?> has commenced.</n>Returning to your world.
+The beckoner has begun the final battle.</n>Returning to own world.
+Battle with <?npcNameId@1000?> has commenced. Returning to your world.
+The Executioner has begun the final battle.</n>Returning to own world.
+Battle with <?npcNameId@1000?> has commenced. Returning to your world.
+The Vileblood has begun the final battle.</n>Returning to own world.
+Battle with <?npcNameId@1000?> has commenced. Returning to your world.
+The blood-addled hunter has begun the final battle.</n>Returning to own world.
+<?npcNameId@1000?> was defeated,</n>ending the hunt. Now, say farewell.
+The final battle has ended.</n>It is time to bid farewell.
+Beckoner <?hostName?> has fallen.</n>It is time to bid farewell.
+Executioner <?hostName?> has fallen.</n>It is time to bid farewell.
+Vileblood <?hostName?> has fallen.</n>It is time to bid farewell.
+Blood-addled hunter <?hostName?> has fallen.</n>It is time to bid farewell.
+Beckoner
+Co-operator
+Old Hunter
+Adversary
+Old Hunter
+Vileblood
+Old Hunter
+Executioner
+Old Hunter
+Hunter of Hunters
+Old Hunter
+Confederate
+Confederate
+Confederate
+Confederate
+Drawn by the bell's timbre,</n>a bell-ringing woman has appeared somewhere
+The bell-ringing woman has left, and the sound of the sinister bell has ceased.
+Battle with <?npcNameId@1000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@106000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@127000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@209000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@210000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@212010?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@212020?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@212030?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@216000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@232000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@251000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@257000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@271000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@1000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@272000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@305000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@306000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@313000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@500000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@501000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@502000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@503000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@504000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@505000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@506000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@507000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@508000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@509000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@510000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@511000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@512000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@513000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@540000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@551000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@750000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@804000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@805000?> has commenced.</n>Returning to your world.
+Battle with <?npcNameId@899000?> has commenced.</n>Returning to your world.
+<?npcNameId@1010?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@106000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@127000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@209000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@210000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@212010?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@212020?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@212030?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@216000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@232000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@251000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@257000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@271000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@272000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@304000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@305000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@306000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@313000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@500000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@501000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@502000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@503000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@504000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@505000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@506000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@507000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@508000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@509000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@510000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@511000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@512000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@513000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@540000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@551000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@750000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@804000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@805000?> was defeated,</n>ending the hunt. Now, say farewell.
+<?npcNameId@899000?> was defeated,</n>ending the hunt. Now, say farewell.
+One of your notes was rated "fine"
+Inspect
+Search Body
+Search Corpse
+Pick Up Item
+*
+Search Chest
+Search Coffin
+OK
+It writhes eerily.
+Time flows in reverse for this scrap of flesh.
+Nothing happened.
+Closed by a device.
+Does not open from this side.
+Opened from this side.
+Locked
+Unlocked.
+This town is long abandoned. Hunters not wanted here.
+You have already received blood.
+Locked by a device.
+Already unlocked.
+Closed
+Device is not currently operable.
+Only a special emblem opens the main gate
+A special emblem opened the main gate
+Cannot proceed until game is fully installed.
+Installation complete.</n>To proceed, quit and restart game.
+Fire Cannon
+An abandoned doll.
+Talk
+Kneel
+Knock
+Talk
+Ascend Ladder
+Descend Ladder
+Open main gate
+Read letter
+Open Door
+Shut Door
+Open Gate
+Traverse Nightmare Fog
+Open Door to Outside
+Open Door to Outside
+Open Chest
+Open Coffin
+Operate Device
+Kick Down Ladder
+Ride Carriage
+Inspect Mummy
+Inspect Bath
+Hold up Celestial Dial
+Ring Old Hunter Bell
+Summon Henryk
+Summon Master Valtr
+Summon Valtr, Beast Eater
+Summon Yamamura
+Summon Younger Madaras Twin
+Summon Damian of Mensis
+Summon Henriett
+Summon Defector Antal
+Summon Prospector Olek
+Summon Prospector Gremia
+Summon Beastclaw Jozef
+Summon Queen Killer
+Summon Vitus
+Summon Madman Wallar
+Summon Father Gascoigne
+Summon Alfred
+Inspect Surgery Altar
+There is a hole in the skull.
+Insert Eye Pendant
+Inspect Corpse
+Read Signboard
+Laboratory Floor 1
+Laboratory Floor 2
+Laboratory Floor 3
+Laboratory Floor 4
+Laboratory Floor 5
+Patient Room Floor 2
+Patient Room Floor 3
+Patient Room Floor 4
+Patient Room Floor 5
+1st Floor Balcony
+2nd Floor Balcony
+Do you wish to reawaken?
+Cast away all Blood Echoes</n>and reawaken?
+Return to the Hunter's Dream?
+No place to awaken.
+*
+Cannot ride carriage at this time.
+You have no messenger accessories.
+You have no Holy Chalices.
+No response.
+Not functioning at this time.
+Not functioning at this time.
+Not functioning at this time.
+Not functioning at this time.
+Function unavailable.
+Function unavailable.
+No Blood Dregs to offer
+Only the beckoner can open this door.
+Only the beckoner can operate this device.
+Rapid poisoning
+Slow poisoning
+Weapon at risk
+*
+Frenzy
+Weapon broken
+Transformed
+Use <?gdsparam@1520?>?
+Use <?gdsparam@1530?>?
+Use <?gdsparam@1540?>?
+Use <?gdsparam@1550?>?
+Use <?gdsparam@1560?>?
+Use <?gdsparam@1570?>?
+Use <?gdsparam@1580?>?
+Use <?gdsparam@1590?>?
+Use <?gdsparam@1600?>?
+Use <?gdsparam@1610?>?
+Use <?gdsparam@1620?>?
+Use <?gdsparam@1630?>?
+Use <?gdsparam@1640?>?
+Use <?gdsparam@1650?>?
+Use <?gdsparam@1660?>?
+Use <?gdsparam@1670?>?
+Use <?gdsparam@1680?>?
+Use <?gdsparam@1690?>?
+Use <?gdsparam@1700?>?
+Use <?gdsparam@1710?>?
+Use <?gdsparam@1720?>?
+Use <?gdsparam@1730?>?
+Use <?gdsparam@1740?>?
+Use <?gdsparam@1750?>?
+Use <?gdsparam@1760?>?
+Use <?gdsparam@1770?>?
+Use <?gdsparam@1780?>?
+Use <?gdsparam@1790?>?
+Use <?gdsparam@1800?>?
+Use <?gdsparam@1810?>?
+Use <?gdsparam@1820?>?
+Use <?gdsparam@1830?>?
+Use <?gdsparam@1840?>?
+Use <?gdsparam@1850?>?
+Use <?gdsparam@1860?>?
+Use <?gdsparam@1870?>?
+Use <?gdsparam@1880?>?
+Use <?gdsparam@1890?>?
+Use <?gdsparam@1900?>?
+Use <?gdsparam@1910?>?
+Use <?gdsparam@1920?>?
+Use <?gdsparam@4306?>?
+Use <?gdsparam@4320?>?
+Use <?gdsparam@4321?>?
+Use <?gdsparam@4322?>?
+Use <?gdsparam@4323?>?
+Opened gate with <?gdsparam@4000?>.
+Cast away Blood Echoes</n>and reawaken?
+Return to the Hunter's Dream?
+Peruse the Vileblood Register?
+*
+Check League Directory?
+Opened door with <?gdsparam@4001?>.
+Opened door with <?gdsparam@4002?>.
+Opened door with <?gdsparam@4003?>.
+Opened door with <?gdsparam@4004?>.
+Opened door with <?gdsparam@4005?>.
+Opened door with <?gdsparam@4006?>.
+Opened door with <?gdsparam@4007?>.
+Opened door with <?gdsparam@4008?>.
+Opened door with <?gdsparam@4009?>.
+Opened door with <?gdsparam@4010?>.
+Opened door with <?gdsparam@4011?>.
+Opened door with <?gdsparam@4012?>.
+Opened door with <?gdsparam@4013?>.
+Opened door with <?gdsparam@4014?>.
+Opened door with <?gdsparam@4015?>.
+Opened door with <?gdsparam@4018?>.
+Opened door with <?gdsparam@4019?>.
+Opened door with <?gdsparam@4020?>.
+Use Blood Echoes to raise stats and level-up.
+An abandoned doll
+Place items in storage,</n>or retrieve stored items.
+Fortify weapons using Blood Stones.
+Repair items with reduced durability.
+Arcane Haze
+Fortify weapons using blood gems.</n>Blood gems imbue weapons with special characteristics.
+The workshop tool required for this task is missing.
+Memorise a Caryll Rune to acquire its eldritch strength.
+Wear clothing to change appearance.
+No place to awaken.
+Awaken at a selected location in Yharnam.
+A Holy Chalice is required to conduct a ritual.
+Use the Ritual Altar to create a Chalice Dungeon with</n>a chalice ritual, or to search for Chalice Dungeons</n>created by hunters in other worlds.
+A Short Ritual Root Chalice is required to conduct a ritual.
+Use the Makeshift Altar to quick-search</n>and join Chalice Dungeons,</n>or to quick-search and join co-op</n>or even threaten other players.
+Trade in Blood Echoes with messengers</n>to buy and sell items.
+Arcane Haze can be scraped out of various ritual materials.</n>Materials are permanently lost after the haze is extracted.</n></n>Arcane Haze is an essential material for certain</n>chalice rituals.
+This bath appears linked to the nightmare,</n>but there are no messengers.
+Buy with Insight. Make trades with messengers using Insight.
+This stump appears linked to the nightmare,</n>but there are no messengers.
+Give accessories to messengers</n>and they will obediently adorn them.
+The messengers offer you a trick weapon. Choose one.</n>Trick weapons are wielded with the right hand,</n>and employed in beast hunting.
+The messengers offer you a firearm. Choose one.</n>Firearms are wielded with the left hand,</n>and employed in beast hunting.
+This lamp now transports you back to the Hunter's Dream.</n>Upon death, you will awaken at this lamp.
+*
+Somewhere, a door to the old labyrinth has opened.
+Consume Insight and ring the Beckoning Bell</n>to enlist the cooperation of hunters from</n>other worlds.
+Silencing Blank ends such forms of cooperation.
+A notebook received from the messengers.</n>Leave messages with these loyal servants</n>to share them with hunters in other worlds.
+The ritual is finished, and a chalice rests upon the altar.</n>You may now explore the dungeon.
+You have joined the dungeon,</n>and a chalice was placed on the altar.</n>You may now explore this Chalice Dungeon.
+Consume Insight and ring the Old Hunter Bell to enlist the cooperation of old hunters.
+The Eye of a Blood-drunk Hunter beckons hunters to the Hunter's Nightmare. A deformed creature will whisk you away outside Oedon Chapel.
+Handwritten scrawl:</n></n>Seek Paleblood to transcend the hunt.
+When the hunt began, the Healing Church abandoned </n>us, blocking the great bridge to the Cathedral Ward,</n>as they burned Old Yharnam to the ground on that </n>moonlit night.
+On sublime liaison:</n>In the Cathedral Ward, past the Lower Church,</n>in scorched Old Yharnam, therein lies a Holy Chalice,</n>and as follows, the chance to liaise.
+On sublime liaison:</n>I don't know. What it means. Or what lies ahead.</n>And yet a sense of wondrous possibility overcomes me!
+The Byrgenwerth spider hides all manner of rituals,</n>and keeps our lost master from us.</n>A terrible shame. </n>It makes my head shudder uncontrollably.
+Heir to the ritual of blood, purveyor of ministration.</n>Place your hand on the altar's sacred covering,</n>and inscribe Master Laurence's adage upon your flesh.
+The sky and the cosmos are one. "The Choir"
+Master Willem was right.</n>Evolution without courage will be the ruin of our race.
+Hunt the Great Ones. Hunt the Great Ones.
+The nameless moon presence</n>beckoned by Laurence and his associates.</n>Paleblood.
+Three third cords
+When the red moon hangs low, the line between</n>man and beast is blurred. And when the Great Ones</n>descend, a womb will be blessed with child.
+The spider hides all manner of rituals, certain to reveal</n>nothing, for true enlightenment need not be shared.
+Nightmarish rituals crave a newborn.</n>Find one, and silence its harrowing cry.
+Ritual secret broken.</n>Seek the nightmare newborn.
+What will you do?
+How do you answer?
+*
+*
+Submit your life?
+*
+Receive blood treatment?
+*
+What will you do?
+Hand over Red Jewelled Brooch?
+What will you do?
+Hand over Red Messenger Ribbon?
+*
+Hand over Unopened Summons?
+Select quantity to offer:
+Hand over Small Hair Ornament
+Hand over Unopened Summons
+Swear Oath to the Vilebloods
+*
+Offer Blood Dreg
+Propose Marriage
+Talk about the Healing Church
+Talk about Byrgenwerth
+*
+About the Vilebloods
+No
+Learn Gesture
+Tell of Oedon Chapel
+Tell of Iosefka's Clinic
+Withhold Information 
+Fear the old blood.
+Keep Quiet
+Hand over Red Jewelled Brooch
+Do Not Give
+Hand over Red Messenger Ribbon?
+Do Not Give
+Already Dead.
+Submit Your Life
+Refuse
+Swear Vileblood Oath
+Refuse
+I have my share of woes
+No
+Receive Blood Treatment
+Refuse
+Find Girl's Mother
+Refuse
+Of course I think ill of you!
+Not at all
+Co-operate
+Refuse
+Hunt the beasts of Old Yharnam
+Spare the beasts of Old Yharnam
+Offer flesh to altar
+Do nothing
+Join the League
+Refuse
+Accept Blood
+Refuse
+Give Brain Fluid
+Refuse
+Nightmares are fascinating
+I've no interest
+Yes
+No
+I hear the bell
+I hear nothing
+Dead.
+Hold on, just wait a wee bit, my little dearie.
+Wait just a wee bit longer, my little sweet-pea
+Yharnam Messenger Hat
+Worn Messenger Top Hat
+Messenger Head Bandage
+White Messenger Ribbon
+Red Messenger Ribbon
+Messenger Top Hat
+Black Messenger Hat
+Bloody Messenger Bandage
+Messenger Urn Festival
+*
+*
+*
+*
+*
+*
+Leave Unadorned
+Talk
+Leave
+*
+Talk
+Hand over Small Hair Ornament
+Purchase Items
+*
+*
+*
+Channel Blood Echoes
+Fortify Weapon
+Blood Gem Fortification
+*
+*
+Repair Weapons
+*
+Acquire Items
+Sell Items
+Buy with Insight
+Cancel
+*
+*
+*
+Sent co-operator <?leaveName?> back</n>to their own world.
+Sent back to own world by</n>beckoner <?hostName?>.
+Co-operator <?leaveName?></n>returned to their own world.
+Returning to own world.
+Co-operator <?leaveName?></n>returned to their own world.
+Co-operator <?leaveName?></n>returned to their own world.
+Bell silenced.</n>Returning to own world.
+Adversary <?leaveName?></n>returned to their own world.
+Adversary <?leaveName?></n>returned to their own world.
+Vileblood <?leaveName?></n>returned to their own world.
+Vileblood <?leaveName?></n>returned to their own world.
+Executioner <?leaveName?></n>returned to their own world.
+Executioner <?leaveName?></n>returned to their own world.
+Hunter of hunters <?leaveName?></n>returned to their own world.
+Hunter of hunters <?leaveName?></n>returned to their own world.
+Sent Confederate <?leaveName?> back</n>to their own world.
+Confederate <?leaveName?></n>sent back to own world.
+Confederate <?leaveName?> returned</n>to their own world.
+Confederate <?leaveName?> returned</n>to their own world.
+Sent Confederate <?leaveName?> back</n>to their own world.
+Confederate <?leaveName?></n>sent back to own world.
+Confederate <?leaveName?> returned</n>to their own world.
+Confederate <?leaveName?> returned</n>to their own world.
+Sent Old Hunter <?leaveName?> back</n>to their own world.
+Old Hunter <?leaveName?></n>sent back to own world.
+Old Hunter <?leaveName?> returned</n>to their own world.
+Old Hunter <?leaveName?> returned</n>to their own world.
+Old Hunter <?leaveName?> returned</n>to their own world.
+Old Hunter <?leaveName?> returned</n>to their own world.
+Old Hunter <?leaveName?> returned</n>to their own world.
+Sent Confederate <?leaveName?> back</n>to their own world.
+Confederate <?leaveName?></n>sent back to own world.
+Confederate <?leaveName?> returned</n>to their own world.
+Sent Confederate <?leaveName?> back</n>to their own world.
+Confederate <?leaveName?></n>sent back to own world.
+Confederate <?leaveName?> returned</n>to their own world.
+Session lost
+Exiting session due to</n>unstable connection
+View Spectre
+Acquire Blood Echoes
+Acquire Someone's Blood Echoes
+View Notes
+View Own Notes
+View Own Notes
+Storage
+Workshop
+(Not needed)
+Bath Messenger
+Accept Gift from Messengers
+Accept Gift from Messengers
+Put on Disguise
+Stump Messenger
+Memory Altar
+Accept Gift from Messengers
+Hunter's Dream
+Abandoned Old Workshop
+Hemwick Charnel Lane
+Witch's Abode
+Old Yharnam
+Church of the Good Chalice
+Graveyard of the Darkbeast
+Cathedral Ward
+Grand Cathedral
+1st Floor Sickroom
+Central Yharnam
+Great Bridge
+Tomb of Oedon
+Upper Cathedral Ward
+Altar of Despair
+Lumenflower Gardens
+Forsaken Castle Cainhurst
+Vileblood Queen's Chamber
+Logarius' Seat
+Nightmare of Mensis
+Wet Nurse's Lunarium
+Mergo's Loft: Middle
+Mergo's Loft: Base
+Forbidden Woods
+Forbidden Grave
+Yahar'gul, Unseen Village
+Advent Plaza
+Hypogean Gaol
+Yahar'gul Chapel
+Chamber of the Seal
+Layer One
+Layer One: Heart
+Layer Two
+Layer Two: Heart
+Layer Three
+Layer Three: Heart
+Layer Four
+Layer Four: Heart
+Byrgenwerth
+Lecture Building
+Moonside Lake
+Lecture Building 2nd Floor
+Nightmare Frontier
+Amygdala's Chamber
+Hunter's Nightmare
+Nightmare Church
+Underground Corpse Pile
+Nightmare Grand Cathedral
+Research Hall
+Lumenwood Garden
+Astral Clocktower
+Fishing Hamlet
+Lighthouse Hut
+Coast
+Yharnam Headstone
+Frontier Headstone
+Unseen Headstone
+Nightmare Headstone
+Hunter's Nightmare Headstone
+Awakening Headstone
+Awakening Headstone
+Awakening Headstone
+Awakening Headstone
+Makeshift Altar
+First Ritual Altar
+Second Ritual Altar
+Third Ritual Altar
+Fourth Ritual Altar
+Fifth Ritual Altar
+Final Ritual Altar
+Light lamp
+Return to the Hunter's Dream

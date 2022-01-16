@@ -1,0 +1,120 @@
+﻿<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>
+<?selectAll?>:Select　<?conclusion?>:Item Menu　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Unequip Item　<?viewChange?>:Toggle Status
+<?selectUD?>:Select　<?conclusion?>:Equip　<?cancel?>:Back　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status
+<?viewChange?>:Toggle Display <?cancel?>:Close <?slectMenuSwitch?>:Explanation
+<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back
+<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back
+<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back
+<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back
+<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back
+<?selectUD?>:Select　<?conclusion?>:Delete　<?cancel?>:Close
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?selectLR?>:Select <?conclusion?>:Confirm <?viewChange?>:Switch <?cancel?>:Close
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?conclusion?>:<?actionHelp?>
+Switch action
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?conclusion?>:Close
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+<?sysmsg@18300?>
+<?cancel?>:Close　<?viewChange?>:Change Display
+<?sysmsg@18300?>
+<?cancel?>:Close　<?viewChange?>:Change Display
+<?sysmsg@18300?>
+<?cancel?>:Close　<?viewChange?>:Change Display
+<?sysmsg@18300?>
+<?selectAll?>:Select <?cancel?>:Close
+<?slectMenuSwitch?>:Explanation
+<?selectUD?>:Select <?selectLR?>:Change <?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize <?slectMenuSwitch?>:Explanation
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Remove <?viewChange?>:Toggle Status
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?viewChange?>:Toggle Status</n>
+<?selectAll?>:Select <?conclusion?>:Purchase <?cancel?>:Close <?commando?>:Toggle Display
+<?selectAll?>:Select <?conclusion?>:Feed <?cancel?>:Close <?commando?>:Toggle Display
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+<?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?selectLR?>:Change Attribute <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?categoryChangeL?><?categoryChangeR?>:Change <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box
+<?selectUD?>:Select　<?selectLR?>:Change <?cancel?>:Back <?commando?>:Toggle Display <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box
+<?selectUD?>:Select　<?selectLR?>:Change　<?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+<?cancel?>：Close <?categoryChangeL?><?categoryChangeR?>：LevelMove

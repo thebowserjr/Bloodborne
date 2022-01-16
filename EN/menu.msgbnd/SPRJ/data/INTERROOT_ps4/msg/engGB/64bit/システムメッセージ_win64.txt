@@ -1,0 +1,60 @@
+﻿OK
+CANCEL
+YES
+NO
+Accept
+Do Not Accept
+<?selectUD?>:Select <?conclusion?>:Details <?categoryChangeL?>:Previous 100 <?categoryChangeR?>:Next 100 <?shortCutL?>:Show top <?shortCutR?>:Your Grades
+This will delete selected profile.</n>Is this OK?
+This game uses an auto-save feature. Do not </n>power off the PlayStation®3 system when the </n>HDD access indicator is flashing.
+Save file version differs from game version.</n>Quit game and sign in to PlayStation®Network</n>to download update.
+There is not enough available space on the hard disk drive. </n>To play Dark Souls, at least <?dataSize?> MB is required. </n></n>Please quit the game and make space on the HDD.
+There is not enough available space on the HDD. </n>To install the Trophy Set, </n>at least <?dataSize?>d KB of space is required.  </n></n></n>Select [OK] to start the Delete Utility.</n>Select [CANCEL] to cancel installation.
+SAVE DATA was corrupted.
+SAVE DATA was corrupted.</n>Would you like to create new SAVE DATA?</n>The current SAVE DATA will be overwritten.</n></n>Select OK to overwrite SAVE DATA.</n>Select CANCEL to reload current SAVE DATA.
+Failed to load SAVE DATA.
+Failed to load SAVE DATA</n>Would you like to create new SAVE DATA?</n>The current SAVE DATA will be overwritten.</n></n>Press the CANCEL button to reload SAVE DATA
+Last time, the game may have been closed before </n>quitting to the Title Screen first. To quit to the </n>Title Screen, always select the Quit Game option </n>from the System tab in the Start Menu.</n></n>Failing to quit the game properly can result</n>in losing some progress.
+Failed to save SAVE DATA
+Failed to save SAVE DATA
+Failed to install Trophy Set</n>Quit the game and reload DARK SOULS</n>to reinstall
+You can't create any more characters.</n>Delete an existing character and create a new one?</n></n>*You can create up to 10 characters.
+Checking number of files
+Loading SAVE DATA</n>Do not turn off the system.
+Checking SAVE DATA</n>Do not turn off the system.
+Loading...</n>Do not turn off the system.
+Updating SAVE DATA...</n>Do not turn off the system.
+Updating SAVE DATA...</n>Do not turn off the system.
+Making SAVE DATA...</n>Do not turn off the system.
+Deleting Profile...</n>Do not turn off the system.
+Resetting Trophy Set...</n>Do not turn off the system.
+Installing Trophy Set...</n>Do not turn off the system.
+Discard changes and return
+Acquiring Ranking Data
+Ranking Data cannot be acquired in Offline Mode
+Start game in Offline Mode
+You need to be signed in to PlayStation®Network</n>to access Network Play. Please check the</n>network connection.
+Parental lock is set on your</n>PlayStation®Network account.</n>Online Service cannot be used.
+You are not signed in to PlayStation®Network.</n>You must sign in to access Network Play.</n>Would you like to sign in now?
+A network error has occurred.</n>Cannot use Network Play.
+Network Play cannot be used with this</n>version.
+You are not signed in. Do you still wish</n>to start the game? You will only be able</n>to play offline.
+Service not available at this time</n>You will only be able to play offline
+Service not yet available</n>You will only be able to play offline
+Currently undergoing maintenance</n>You will only be able to play offline
+No response from server</n>You will only be able to play offline
+Cannot use server at this time</n>You will only be able to play offline
+Cannot use server at this time</n>You will only be able to play offline
+You have been signed out from</n>PlayStation®Network.</n>Returning to the Title Screen.
+Downloading advanced data
+Failed to download advanced data</n></n>*Advanced data is only tallied for players near top
+Acquiring your data
+Your data was not found
+Session lost.
+Network connection has become unstable.</n>Leaving session.
+You have signed out from PlayStation®Network.</n>Returning to the Title Screen...
+Failed to create session.
+Failed to join session.
+You have signed out from PlayStation®Network.</n>Returning to the Title Screen...
+You have signed out from PlayStation®Network.</n>You must sign in to access Network Play.</n>Returning to the Title Screen...
+P2P connection has been lost</n>Returning to Main Menu

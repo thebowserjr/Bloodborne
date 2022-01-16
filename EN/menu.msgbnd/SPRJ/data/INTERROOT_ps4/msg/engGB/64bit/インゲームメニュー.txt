@@ -1,0 +1,74 @@
+﻿Inventory
+Equipment
+Status
+Options
+System
+Brightness
+Drop
+Change Order
+Reset Order
+Use Item
+Armor
+Head
+Chest
+Hands
+Legs
+Weapons
+Right Hand
+Left Hand
+Arrow
+Bolt
+Ring
+Usable Item
+Controls
+X Axis
+Y Axis
+Camera Speed
+Vibration
+Toggle auto lock-on
+Camera auto wall recovery
+Display
+Show Blood
+Subtitles
+Brightness
+HUD
+Adjust brightness until flame
+is visible and dragon invisible
+Sound
+Music
+Sounds
+Voice
+<?platmsg@10005?>
+Join leaderboard
+Initialize
+OK
+ON
+OFF
+Normal
+Reverse
+Mild
+Options
+Quit Game
+Brightness
+Beckon
+Point forward
+Hurrah!
+Bow
+Joy
+Shrug
+Wave
+Praise the Sun
+Point up
+Point down
+Look skyward
+Well! What is it!
+Prostration
+Proper bow
+Prayer
+Gesture Menu
+Map Menu
+B1F
+B2F
+B3F
+Send Phantom home
+<?conclusion?>:OK　<?cancel?>:CANCEL

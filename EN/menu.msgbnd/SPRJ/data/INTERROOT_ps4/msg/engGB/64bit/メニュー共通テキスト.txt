@@ -1,0 +1,720 @@
+﻿∞
+OK
+CANCEL
+YES
+NO
+ACCEPT
+CANCEL
+None
+Regular
+Strike
+Regular/Strike
+Slash
+Regular/Slash
+Strike/Slash
+Regular/Strike/Slash
+Thrust
+Regular/Thrust
+Strike/Thrust
+Regular/Strike/Thrust
+Slash/Thrust
+Regular/Slash/Thrust
+Strike/Slash/Thrust
+Regular/Strike/Slash/Thrust
+Name
+Sex
+Covenant
+Vitality
+Attunement
+Endurance
+Strength
+Dexterity
+Resistance
+Intelligence
+Faith
+Luck
+Humanity
+Level
+Gift
+Play Time
+Class
+Location
+HP
+Stamina
+Bleed Resist
+Poison Resist
+Venom Resist
+Curse Resist
+Item Discovery
+Equip Load
+Souls
+R Weapon 1
+R Weapon 2
+L Weapon 1
+L Weapon 2
+Physical Def.
+VS strike
+VS slash
+VS thrust
+Magic DEF
+Flame DEF
+Lightning DEF
+Poise
+Attunement Slots
+Uses
+Total Uses
+Weight
+Durablty
+ATK
+Physical
+Magic
+Fire
+Lightning
+Critical
+MagAdjust
+MrclAdjust
+ShotRange
+PyroAdjust
+DmgReduction%
+Physical
+Magic
+Fire
+Lightning
+Stability
+ParamBonus
+Aux Effects
+ReqParam
+-
+S
+A
+B
+C
+D
+E
+Attack Type:
+Weapon Type:
+PhysDef
+Slash
+Strike
+Thrust
+MagDEF
+FireDEF
+LitngDEF
+Poise
+Bleed Resist
+Poison Resist
+Venom Resist
+Curse Resist
+Male or Female
+Male Only
+Female Only
+Power
+Type:
+Slots
+MinIntl
+MinFaith
+Magic
+Pyromancy
+Miracle
+Hours Played
+Held
+ReqSouls
+ReqItems
+None
+Way of White
+Princess's Guard
+Warrior of Sunlight
+Darkwraith
+Path of the Dragon
+Gravelord Servant
+Forest Hunter
+Darkmoon Blade
+Chaos Servant
+None
+Way of White+1
+Princess's Guard+1
+Warrior of Sunlight+1
+Darkwraith+1
+Path of the Dragon+1
+Gravelord Servant+1
+Forest Hunter+1
+Darkmoon Blade+1
+Chaos Servant+1
+None
+Way of White+2
+Princess's Guard+2
+Warrior of Sunlight+2
+Darkwraith+2
+Path of the Dragon+2
+Gravelord Servant+2
+Forest Hunter+2
+Darkmoon Blade+2
+Chaos Servant+2
+None
+Way of White+3
+Princess's Guard+3
+Warrior of Sunlight+3
+Darkwraith+3
+Path of the Dragon+3
+Gravelord Servant+3
+Forest Hunter+3
+Darkmoon Blade+3
+Chaos Servant+3
+<?pcName?>
+<?pcGender?>
+<?pcOath?>
+<?pcVitality?>
+<?pcWill?>
+<?pcEndur?>
+<?pcStrength?>
+<?pcDexter?>
+<?pcDurability?>
+<?pcIntellect?>
+<?pcForce?>
+<?pcLuck?>
+<?pcHeroic?>
+<?pcLevel?>
+<?pcGift?>
+<?pcAppearance?>
+<?pcPlayTime?>
+<?pcFeature?>
+<?mapName?>
+<?pcFaceType?>
+<?pcHairType?>
+<?pcHairEyeColor?>
+<?warpName7?>
+<?warpName8?>
+<?pcHP?>/<?pcMaxHp?>
+<?pcMP?>/<?pcMaxMp?>
+<?pcMaxStamina?>
+<?resistBleedingTotal?>
+<?resistPoisonTotal?>
+<?resistPlagueTotal?>
+<?resistCurseTotal?>
+<?pcItemOccur?>
+<?magicCount?>/<?magicMaxCount?>
+<?equipWeight?>/<?maxEquipWeight?>
+<?souls?>
+<?atckR1?>
+<?atckR2?>
+<?atckL1?>
+<?atckL2?>
+<?defPhysicalTotal?>(<?defPhysicalPC?>)
+<?defBluntTotal?>
+<?defCutTotal?>
+<?defStabTotal?>
+<?defMagicTotal?>(<?defMagicPC?>)
+<?defFireTotal?>(<?defFirePC?>)
+<?defThunderboltTotal?>(<?defThunderboltPC?>)
+<?defSAToughnessTotal?>
+<?magicSlotNum?>
+<?miracleSlotNum?>
+<?lvUpAfterSouls?>
+<?lvUpCostSouls?>
+<?pcMaxHp?>
+<?pcMaxMp?>
+<?defPhysicalTotal?>
+<?defMagicTotal?>
+<?defFireTotal?>
+<?defThunderboltTotal?>
+<?maxEquipWeight?>
+<?lvUpPcVitality?>
+<?lvUpPcWill?>
+<?lvUpPcEndur?>
+<?lvUpPcStrength?>
+<?lvUpPcDexter?>
+<?lvUpPcDurability?>
+<?lvUpPcIntellect?>
+<?lvUpPcForce?>
+<?lvUpPcLuck?>
+<?lvUpPcHeroic?>
+<?lvUpPcLevel?>
+<?lvUpPcMaxStamina?>
+<?lvUpResistBleedingTotal?>
+<?lvUpResistPoisonTotal?>
+<?lvUpResistPlagueTotal?>
+<?lvUpResistCurseTotal?>
+<?lvUpPcItemOccur?>
+<?lvUpMaxEquipWeight?>
+<?lvUpAtkR1?>
+<?lvUpAtkR2?>
+<?lvUpAtkL1?>
+<?lvUpAtkL2?>
+<?lvUpDefBlunt?>
+<?lvUpDefCut?>
+<?lvUpDefStab?>
+<?lvUpMagicSlotNum?>
+<?lvUpMiracleSlotNum?>
+<?lvUpPcMaxHp?>
+<?lvUpPcMaxMp?>
+<?lvUpDefPhysicalTotal?>
+<?lvUpDefMagicTotal?>
+<?lvUpDefFireTotal?>
+<?lvUpDefThunderboltTotal?>
+<?lvUpDefSAToughnessTotal?>
+<?lvUpWpPhysicalAtkPlus?>
+<?lvUpWpAttributeAtkPlus?>
+<?lvUpWpCriticalAtkPlus?>
+<?lvUpWpMagicAtkPlus?>
+<?lvUpWpFireAtkPlus?>
+<?lvUpWpThunderboltAtkPlus?>
+<?lvUpWpMagicAdjust?>
+<?lvUpWpMiracleAdjust?>
+<?itemListName1?>
+<?itemListName2?>
+<?itemListName3?>
+<?itemListName4?>
+<?itemListName5?>
+<?itemListNum1?>
+<?itemListNum2?>
+<?itemListNum3?>
+<?itemListNum4?>
+<?itemListNum5?>
+<?itemListLineMsg1?>
+<?itemListLineMsg2?>
+<?itemListLineMsg3?>
+<?itemListLineMsg4?>
+<?itemListLineMsg5?>
+<?itemListWeight1?>
+<?itemListWeight2?>
+<?itemListWeight3?>
+<?itemListWeight4?>
+<?itemListWeight5?>
+<?itemListDuration1?>
+<?itemListDuration2?>
+<?itemListDuration3?>
+<?itemListDuration4?>
+<?itemListDuration5?>
+<?itemListWpPhysicalAtk1?>
+<?itemListWpPhysicalAtk2?>
+<?itemListWpPhysicalAtk3?>
+<?itemListWpPhysicalAtk4?>
+<?itemListWpPhysicalAtk5?>
+<?itemListWpAttributeAtk1?>
+<?itemListWpAttributeAtk2?>
+<?itemListWpAttributeAtk3?>
+<?itemListWpAttributeAtk4?>
+<?itemListWpAttributeAtk5?>
+<?itemListDefPhysical1?>
+<?itemListDefPhysical2?>
+<?itemListDefPhysical3?>
+<?itemListDefPhysical4?>
+<?itemListDefPhysical5?>
+<?itemListDefMagic1?>
+<?itemListDefMagic2?>
+<?itemListDefMagic3?>
+<?itemListDefMagic4?>
+<?itemListDefMagic5?>
+<?itemListDefFire1?>
+<?itemListDefFire2?>
+<?itemListDefFire3?>
+<?itemListDefFire4?>
+<?itemListDefFire5?>
+<?itemListDefThunderbolt1?>
+<?itemListDefThunderbolt2?>
+<?itemListDefThunderbolt3?>
+<?itemListDefThunderbolt4?>
+<?itemListDefThunderbolt5?>
+<?itemName?>
+<?itemLineMsg?>
+<?itemDetail?>
+<?itemNum?>
+<?duration?>
+<?maxDuration?>
+<?weight?>
+<?itemNameBeforeForge?>
+<?itemNameAfterForge?>
+<?wpAtkType?>
+<?wpType?>
+<?wpPhysicalAtk?>
+<?wpAttributeAtk?>
+<?wpCriticalAtk?>
+<?wpPhysicalAtkPlus?>
+<?wpAttributeAtkPlus?>
+<?wpCriticalAtkPlus?>
+<?wpShotRange?>
+<?wpCutPhysical?>
+<?wpCutMagic?>
+<?wpCutFire?>
+<?wpCutThunderbolt?>
+<?wpHitRes?>
+<?atkPlusPcStrength?>
+<?atkPlusPcDexter?>
+<?atkPlusPcIntellect?>
+<?atkPlusPcForce?>
+<?reqPcStrength?>
+<?reqPcDexter?>
+<?reqPcIntellect?>
+<?reqPcForce?>
+<?effectBleeding?>
+<?effectPoison?>
+<?effectPlague?>
+<?effectCurse?>
+<?wpMagicAtk?>
+<?wpFireAtk?>
+<?wpThunderboltAtk?>
+<?wpMagicAtkPlus?>
+<?wpFireAtkPlus?>
+<?wpThunderboltAtkPlus?>
+<?wpMagicAdjust?>
+<?wpMiracleAdjust?>
+(<?wpAtkType?>)
+<?forgedWpPhysicalAtk?>
+<?forgedWpAttributeAtk?>
+<?forgedWpCriticalAtk?>
+<?forgedWpPhysicalAtkPlus?>
+<?forgedWpAttributeAtkPlus?>
+<?forgedWpCriticalAtkPlus?>
+<?forgedWpShotRange?>
+<?forgedWpCutPhysical?>
+<?forgedWpCutMagic?>
+<?forgedWpCutFire?>
+<?forgedWpCutThunderbolt?>
+<?forgedWpHitRes?>
+<?forgedAtkPlusPcStrength?>
+<?forgedAtkPlusPcDexter?>
+<?forgedAtkPlusPcIntellect?>
+<?forgedAtkPlusPcForce?>
+<?forgedReqPcStrength?>
+<?forgedReqPcDexter?>
+<?forgedReqPcIntellect?>
+<?forgedReqPcForce?>
+<?forgedEffectBleeding?>
+<?forgedEffectPoison?>
+<?forgedEffectPlague?>
+<?forgedEffectCurse?>
+<?forgedWpMagicAtk?>
+<?forgedWpFireAtk?>
+<?forgedWpThunderboltAtk?>
+<?forgedWpMagicAtkPlus?>
+<?forgedWpFireAtkPlus?>
+<?forgedWpThunderboltAtkPlus?>
+<?forgedWpMagicAdjust?>
+<?forgedWpMiracleAdjust?>
+<?reqGender?>
+<?defPhysical?>
+<?defBlunt?>
+<?defCut?>
+<?defStab?>
+<?defMagic?>
+<?defFire?>
+<?defThunderbolt?>
+<?resistBleeding?>
+<?resistPoison?>
+<?resistPlague?>
+<?resistCurse?>
+<?defSAToughness?>
+<?forgedDefPhysical?>
+<?forgedDefBlunt?>
+<?forgedDefCut?>
+<?forgedDefStab?>
+<?forgedDefMagic?>
+<?forgedDefFire?>
+<?forgedDefThunderbolt?>
+<?forgedResistBleeding?>
+<?forgedResistPoison?>
+<?forgedResistPlague?>
+<?forgedResistCurse?>
+<?forgedDefSAToughness?>
+<?forgedItemListName1?>
+<?forgedItemListName2?>
+<?forgedItemListName3?>
+<?forgedItemListName4?>
+<?forgedItemListName5?>
+<?forgedItemListWpPhysicalAtk1?>
+<?forgedItemListWpPhysicalAtk2?>
+<?forgedItemListWpPhysicalAtk3?>
+<?forgedItemListWpPhysicalAtk4?>
+<?forgedItemListWpPhysicalAtk5?>
+<?forgedItemListWpAttributeAtk1?>
+<?forgedItemListWpAttributeAtk2?>
+<?forgedItemListWpAttributeAtk3?>
+<?forgedItemListWpAttributeAtk4?>
+<?forgedItemListWpAttributeAtk5?>
+<?forgedItemListDefPhysical1?>
+<?forgedItemListDefPhysical2?>
+<?forgedItemListDefPhysical3?>
+<?forgedItemListDefPhysical4?>
+<?forgedItemListDefPhysical5?>
+<?forgedItemListDefMagic1?>
+<?forgedItemListDefMagic2?>
+<?forgedItemListDefMagic3?>
+<?forgedItemListDefMagic4?>
+<?forgedItemListDefMagic5?>
+<?forgedItemListDefFire1?>
+<?forgedItemListDefFire2?>
+<?forgedItemListDefFire3?>
+<?forgedItemListDefFire4?>
+<?forgedItemListDefFire5?>
+<?forgedItemListDefThunderbolt1?>
+<?forgedItemListDefThunderbolt2?>
+<?forgedItemListDefThunderbolt3?>
+<?forgedItemListDefThunderbolt4?>
+<?forgedItemListDefThunderbolt5?>
+<?reqSlot?>
+<?costMP?>
+<?curMagicSlotNum?>
+<?magicListReqOath?>
+<?magicCount?>
+<?magicMaxCount?>
+<?equipMagicInfo1?>
+<?equipMagicInfo2?>
+<?equipMagicInfo3?>
+<?equipMagicInfo4?>
+<?equipMagicInfo5?>
+<?equipMagicInfo6?>
+<?equipMagicInfo7?>
+<?equipMagicInfo8?>
+<?equipMagicInfo9?>
+<?equipMagicInfo10?>
+<?equipMagicInfo11?>
+<?equipMagicInfo12?>
+<?equipMagicInfo13?>
+<?equipMagicInfo14?>
+<?equipMagicInfo15?>
+<?equipMagicInfo16?>
+<?titleName?>
+<?playTime?>
+<?saveDataSize?>
+<?ptTime?>
+<?ptMinute?>
+<?ptSecond?>
+<?ptTime?>:<?ptMinute?>
+<?optCameraLR?>
+<?optCameraUD?>
+<?optCameraSpeed?>
+<?optVibration?>
+<?optLockOnAuto?>
+<?optCamAvoidWall?>
+<?optShowBlood?>
+<?optSubtitles?>
+<?optHUD?>
+<?optBGMVol?>
+<?optSEVol?>
+<?optVoiceVol?>
+<?optRegisterRanking?>
+<?optBrightness?>
+<?messageList1?>
+<?messageList2?>
+<?messageList3?>
+<?messageList4?>
+<?messageList5?>
+<?messageListMap1?>
+<?messageListMap2?>
+<?messageListMap3?>
+<?messageListMap4?>
+<?messageListMap5?>
+<?sellSouls?>
+<?magicListName1?>
+<?magicListName2?>
+<?magicListName3?>
+<?magicListName4?>
+<?magicListName5?>
+<?magicListReqIntellect1?>
+<?magicListReqIntellect2?>
+<?magicListReqIntellect3?>
+<?magicListReqIntellect4?>
+<?magicListReqIntellect5?>
+<?magicListReqForce1?>
+<?magicListReqForce2?>
+<?magicListReqForce3?>
+<?magicListReqForce4?>
+<?magicListReqForce5?>
+<?magicListCostMP1?>
+<?magicListCostMP2?>
+<?magicListCostMP3?>
+<?magicListCostMP4?>
+<?magicListCostMP5?>
+<?magicListReqOath1?>
+<?magicListReqOath2?>
+<?magicListReqOath3?>
+<?magicListReqOath4?>
+<?magicListReqOath5?>
+<?menuTitle?>
+<?pmOptionsText?>
+<?pmOptions1?>
+<?pmOptions2?>
+<?pmOptions3?>
+<?pmOptions4?>
+<?pmOptions5?>
+<?pmOptions6?>
+<?pmOptions7?>
+<?pmOptions8?>
+<?pmOptions9?>
+<?pmOptions10?>
+<?pmOptions11?>
+<?pmOptions12?>
+<?pmOptions13?>
+<?pmOptions14?>
+<?pmOptions15?>
+<?pmOptions16?>
+<?pmOptions17?>
+<?pmOptions18?>
+<?pmOptions19?>
+<?pmOptions20?>
+<?onLineID?>
+<?multiPlayNum?>
+<?message?>
+<?evalPlus?>
+<?evalMinus?>
+<?eval?>
+<?selectGesture?>
+<?enemyPC1?>
+<?enemyPC2?>
+<?enemyPC3?>
+<?remainSec?>秒
+<?goodsNameId@110?>
+<?registerItemNum?>
+<?rank1?>
+<?rank2?>
+<?rank3?>
+<?rank4?>
+<?rank5?>
+<?rank6?>
+<?rank7?>
+<?rank8?>
+<?rank9?>
+<?rank10?>
+<?rankPlayerName1?>
+<?rankPlayerName2?>
+<?rankPlayerName3?>
+<?rankPlayerName4?>
+<?rankPlayerName5?>
+<?rankPlayerName6?>
+<?rankPlayerName7?>
+<?rankPlayerName8?>
+<?rankPlayerName9?>
+<?rankPlayerName10?>
+<?rankScore1?>
+<?rankScore2?>
+<?rankScore3?>
+<?rankScore4?>
+<?rankScore5?>
+<?rankScore6?>
+<?rankScore7?>
+<?rankScore8?>
+<?rankScore9?>
+<?rankScore10?>
+<?rankCategory?>
+<?inventoryNum0?>
+<?inventoryNum1?>
+<?inventoryNum2?>
+<?inventoryNum3?>
+<?repositoryNum0?>
+<?repositoryNum1?>
+<?repositoryNum2?>
+<?repositoryNum3?>
+<?warpName1?>
+<?warpName2?>
+<?warpName3?>
+<?warpName4?>
+<?warpName5?>
+<?warpName6?>
+<?warpName7?>
+<?warpName8?>
+<?warpName9?>
+<?loadHintName?>
+<?loadHintCaption?>
+<?evntAcquittalPrice?>
+This character's name.
+This character's gender.
+Name of affiliated Covenant.
+Parameter determining HP.
+Parameter determining number of attunement slots.
+Parameter determining stamina, equipment load, and resistance to bleeding.
+Parameter required to wield powerful weapons. Also boosts weapon attack.
+Parameter required to wield advanced weapons. Also boosts weapon attack.
+Parameter boosting defence and resistance to poison.
+Parameter required to wield sorceries. Also boosts sorceries and magic weapons.
+Parameter required to cast miracles. Also boosts miracles and divine weapons.
+Parameter boosting item discovery and resistance to curses.
+Number of black sprites within one's bosom. Symbolizes human nature</n>and determines item discovery and resistance to curses.
+Value indicating overall stats. Souls required to boost level.
+A special item brought from this character's home
+Total play time for this character
+This character's original upbringing
+This character's last location
+Hit points. Character dies when this reaches zero.
+Required for various actions. Depleted by various actions, but self-regenerates.
+Resistance to bleeding caused by sharp blades and spiked weapons. Higher value indicates lower tendency to bleed.
+Resistance to various poisons. Higher value indicates lower tendency to be poisoned.
+Parameter for resistance to curses. Higher value indicates lower tendency to be cursed.
+The skill for discovering items on the corpse of a fallen enemy.
+Total weight of equipped items. Higher number slows movement. Exceeding max causes sluggishness.
+Total souls in possession. Souls have various uses, but are left behind at the spot of one's death.
+Attack of weapon equipped in Slot 1 of right hand.
+Attack of weapon equipped in Slot 2 of right hand.
+Attack of weapon equipped in Slot 1 of left hand.
+Attack of weapon equipped in Slot 2 of left hand.
+Defence against physical attacks.
+Defence against strike attacks.
+Defence against slash attacks.
+Defence against thrust attacks.
+Defence against magic attacks.
+Defence against fire attacks.
+Defence against lightning attacks.
+Ability to receive attacks without breaking form.
+Number of attunement slots for sorcery/pyromancy/miracles.
+Physical weight.
+Durability. Depletes with use. Eventually item becomes ineffective.
+Amount of damage inflicted.
+Amount of physical damage inflicted.
+Amount of magic damage inflicted.
+Amount of fire damage inflicted.
+Amount of lightning damage inflicted.
+Boosts damage inflicted in special attacks,</n>such as a strike back after parry, or hit from behind.
+Degree of boost to magic (sorcery, pyromancy, or miracle)
+Value of the boost to miracles
+Distance of ranged weapons
+Value of the boost to pyromancy
+The percentage of damage reduced while blocking.
+The percentage of physical damage reduction.
+The percentage of magic damage reduction.
+The percentage of fire damage reduction.
+The percentage of lightning damage reduction.
+The stability of player defence. The higher this value, the less stamina consumed when taking attacks.
+The degree by which attack is boosted by player strength, dexterity, intelligence, and faith.
+Determines strength of bleeding/poison effects</n>and divine/occult effects targeting specific foes.
+The minimum values of strength, dexterity, intelligence, and faith required to use this weapon effectively.
+The type of physical damage incurred by attacking.
+The weapon's category. Weapons of the same category exhibit similar properties.
+Defence against physical attacks
+Defence against strike attacks
+Defence against slash attacks
+Defence against thrust attacks
+Defence against magic attacks
+Defence against fire attacks
+Defence against lightning attacks
+Ability to receive attacks without breaking form.
+Resistance to bleeding caused by sharp objects. Higher value indicates lower tendency to bleed.
+Resistance to various poisons. Higher value indicates lower tendency to be poisoned.
+Parameter for resistance to curses. Higher value indicates lower tendency to be cursed.
+Armor which can be equipped by either sex
+Armor which can only be equipped by men
+Armor which can only be equipped by women
+Magic type: sorcery, pyromancy, or miracle.
+No. of attunement slots required to attune.
+No. of usages. Restored by resting at bonfire.
+Intelligence/faith required to use.
+Souls required to level-up, and boost one parameter
+<?lineHelp?>
+<?keyGuide?>
+<?title?>
+㌃
+㌍
+㌔
+㌘
+㌢
+㌣
+㌦
+㌧
+㌫
+㌶
+㌻
+㍉
+㍊
+㍍
+㍑
+㍗
+㍻
+㍼

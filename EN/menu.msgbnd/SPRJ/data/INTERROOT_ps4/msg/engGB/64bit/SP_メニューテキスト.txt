@@ -1,0 +1,1151 @@
+﻿Name
+Gender
+Origin
+*
+Age
+Level
+Blood Echoes
+Required
+Insight
+*
+Vitality
+Endurance
+Strength
+Skill
+Bloodtinge
+Arcane
+HP
+Stamina
+Discovery
+R-hand WPN 1 ATK
+R-hand WPN 2 ATK
+L-hand WPN 1 ATK
+L-hand WPN 2 ATK
+Physical DEF
+Thrust
+Blunt
+Blood DEF
+Arcane DEF
+Fire DEF
+Bolt DEF
+Physical
+Thrust
+Blunt
+Blood
+Arcane
+Fire
+Bolt
+Damage Reduction
+Slow Poison RES
+Rapid Poison RES
+Frenzy RES
+Beasthood
+Resistance
+*
+Caryll Rune Effect
+*
+Physical ATK
+Blood ATK
+Arcane ATK
+Fire ATK
+Bolt ATK
+Blunt
+Physical ATK
+Thrust
+*
+*
+*
+*
+QS Bullet Use
+Attribute Bonus
+-
+S
+A
+B
+C
+D
+E
+*
+*
+*
+*
+Attribute Requirement
+*
+*
+*
+*
+*
+*
+Durability
+*
+Special Attack
+Blood Gem Effects
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+R-hand WPN
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN (Gun)
+L-hand WPN
+L-hand WPN
+Physical DEF
+Thrust
+Blunt
+Blood DEF
+Arcane
+Fire
+Bolt
+Damage Reduction
+Slow Poison RES
+Rapid Poison RES
+Frenzy RES
+Beasthood
+Resistance
+*
+Rating
+Shape
+Blood Gem Effects
+*
+*
+*
+*
+*
+*
+*
+Circle
+Triangle
+Radial
+Droplet
+Waning
+Type
+Caryll Rune Effect
+-
+Oath
+Usage Type
+QS Bullet Use
+Attribute Bonus
+Attribute Requirement
+Finite
+Unlimited Use
+Depth
+Area
+Additional Rite
+Pthumeru
+Hintertomb
+Loran
+Isz
+*
+*
+*
+Selected Additional Rite
+Additional Rite
+Material Condition List
+Conductor
+Ritual date
+Chalice Glyph
+Privacy
+Date Last Played
+This Chalice Dungeon has been deleted from the server.
+This altar has not been set to any dungeon.
+Mid-ritual
+No. Held
+Stored
+Character's name
+Character's gender.
+Character's origin.
+Character's age bracket.
+The total value of a hunter's</n>overall attributes.</n>Use Blood Echoes to level up.
+The total number of held</n>Blood Echoes.</n>You can use them to trade</n>with the messengers.
+The number of Blood Echoes</n>needed to level up.
+Level of Insight, or depth</n>of inhuman knowledge.</n>Needed to ring special bell,</n>but induces frenzy.
+*
+Attribute governing HP.
+Attribute governing</n>stamina and resistances.
+Attribute governing heavy</n>physical weapon ATK.</n>Determines whether or not</n>you can use certain equipment.
+Attribute governing more</n>nuanced physical weapon ATK.</n>Determines whether or not</n>you can use certain equipment.
+Attribute governing power of</n>weapons that use QS bullets.</n>Determines whether or not</n>you can use certain equipment.
+Attribute governing power of</n>arcane ATK.</n>Determines whether or not</n>you can use certain equipment.
+The power, or will, to survive.</n>If this falls to 0, your strength</n>will fade away.
+Stamina is necessary to</n>perform various actions.</n>Depletes as actions are taken,</n>but refills automatically.
+*
+*
+Governs chances of enemies</n>dropping items when defeated.</n>The higher this attribute,</n>the more you will find.
+The ATK value of the weapon </n>equipped in right hand slot 1.
+The ATK value of the weapon </n>equipped in right hand slot 2.
+The ATK value of the weapon </n>equipped in left hand slot 1.
+The ATK value of the weapon </n>equipped in left hand slot 2.
+Ability to defend against physical</n>attacks or against foes with</n>corporeal flesh.
+Reduction of physical damage.</n>Combined value of effects of</n>equipment and Caryll runes.
+Reduction of damage from</n>thrust attacks.</n>Combined value of effects of</n>equipment and Caryll runes.
+Reduction of damage from</n>blunt attacks.</n>Combined value of effects of</n>equipment and Caryll runes.
+Reduction of damage from</n>firearms and other blood attacks.</n>Combined value of effects of</n>equipment and Caryll runes.
+Reduction of damage from</n>arcane attacks.</n>Combined value of effects of</n>equipment and Caryll runes.
+Reduction of damage from</n>fire attacks.</n>Combined value of effects of</n>equipment and Caryll runes.
+Reduction of damage from</n>bolt attacks.</n>Combined value of effects of</n>equipment and Caryll runes.
+Resistance to slow poisoning.</n>The higher this attribute,</n>the more resistant you are.
+Resistance to rapid poisoning.</n>The higher this attribute,</n>the more resistant you are.
+Resistance to the lure of frenzy.</n>The higher this attribute,</n>the more resistant you are.
+The higher this attribute, the</n>closer you are to beasthood</n>when temporarily transformed.
+Resistance to slow poisoning,</n>rapid poisoning, frenzy,</n>and level of beasthood.
+Various effects of</n>memorised Caryll runes
+Physical type ATK.
+Blood type ATK,</n>mainly dealt by firearms.
+Arcane type ATK.
+Fire type ATK.
+Bolt type ATK.
+Blunt type ATK.
+Thrust type ATK.
+Number of Quicksilver Bullets</n>consumed with use.
+*
+Degree to which ATK is</n>boosted by strength
+Degree to which ATK is</n>boosted by skill
+Degree to which ATK is</n>boosted by bloodtinge
+Degree to which ATK is</n>boosted by arcane attribute
+Degree to which your attributes</n>will boost ATK</n>(Strength/Skill/Bloodtinge/Arcane)
+Minimum amount of strength</n>required to use.
+Minimum amount of skill</n>required to use.
+Minimum amount of bloodtinge</n>required to use.
+Minimum amount of arcane</n>attribute required to use.
+Minimum attribute</n>required to equip</n>(Strength/Skill/Bloodtinge/Arcane)
+*
+*
+*
+*
+*
+*
+Durability of weapon.</n>Depleted with use.</n>ATK reduced when heavily worn.
+*
+Strength of slow/rapid poison</n>added to ATK, and extent that</n>ATK is raised vs kin and</n>severely transformed beasts
+Strength of slow poison</n>added to attack.
+Strength of rapid poison</n>added to attack
+Bonus to ATK against</n>kin of the cosmos.
+Bonus to ATK against</n>severely transformed beasts.
+Various effects of blood gems</n>attached to weapon.
+*
+Reduction of damage</n>from physical attacks.
+Reduction of damage</n>from thrust attacks.
+Reduction of damage</n>from blunt attacks.
+Reduction of damage</n>from Blood ATKs,</n>mainly dealt by firearms.
+Reduction of damage</n>from arcane attacks.
+Reduction of damage</n>from fire attacks.
+Reduction of damage</n>from bolt attacks.
+Resistance to slow poisoning.</n>The higher this attribute,</n>the more resistant you are.
+Resistance to rapid poisoning.</n>The higher this attribute,</n>the more resistant you are.
+Resistance to the lure of frenzy.</n>The higher this attribute,</n>the more resistant you are.
+*
+The higher this attribute, the</n>closer you are to beasthood</n>when temporarily transformed.
+*
+*
+*
+*
+*
+*
+*
+Healing Church blood gem rarity.</n>The rarer the gem,</n>the more potent it is.
+Shape of blood gem.</n>Must match weapon</n>in order to fuse.
+Various effects produced</n>by blood gem
+Caryll Rune classifications. </n>Some runes can only be used</n>when under certain Oaths.
+Caryll Rune's various effects
+Type of item. </n>Tells you whether or not</n>it will be consumed with use.
+Number of Quicksilver Bullets</n>consumed with use.
+Degree to which your attributes</n>will boost effects</n>(Strength/Skill/Bloodtinge/Arcane)
+Degree to which the effect</n>is boosted by strength.
+Degree to which the effect</n>is boosted by skill.
+Degree to which the effect</n>is boosted by bloodtinge.
+Degree to which the effect</n>is boosted by arcane attribute.
+Minimum attribute points</n>necessary to use</n>(Strength/Skill/Bloodtinge/Arcane)
+Minimum amount of strength</n>required to use.
+Minimum amount of skill</n>required to use.
+Minimum amount of bloodtinge</n>required to use.
+Minimum amount of arcane attribute</n>required to use.
+Depth of the labyrinth</n>unlocked by the chalice ritual.</n>The higher the number,</n>the deeper the dungeon.
+An area in the labyrinth</n>unlocked by the chalice ritual.</n>Features of each area will differ.
+Additional rite enabled</n>by this Chalice
+Number of this item held
+Number of this item in storage
+Standard
+Order Acquired
+No. Held
+Fortification
+Gems Equipped
+Physical ATK
+Arcane ATK
+Fire ATK
+Bolt ATK
+Durability
+Physical DEF
+Thrust
+Blunt
+Blood DEF
+Arcane DEF
+Fire DEF
+Bolt DEF
+Slow Poison RES
+Rapid Poison RES
+Frenzy RES
+Beasthood
+Rating
+No. of Effects
+Shape
+Depth
+Area
+*
+*
+*
+On
+Off
+*
+Normal
+Reversed
+Worldwide
+Local
+Defaults
+Next
+Name
+Online ID
+No Password
+Consumables
+Materials
+Key Items
+Right Hand Weapons
+Left Hand Weapons
+Attire
+Blood Gems
+Caryll Runes
+Chalices
+Workshop R-hand Weapons
+Church R-hand Weapons
+Vileblood R-hand Weapons
+Workshop L-hand Weapons
+Church L-hand Weapons
+Vileblood L-hand Weapons
+Workshop Attire
+Church Attire
+Vileblood Attire
+Other Attire
+Radial Blood Gems
+Triangular Blood Gems
+Waning Blood Gems
+Circular Blood Gems
+Droplet Blood Gems
+Pthumeru Chalice
+Hintertomb Chalice
+Loran Chalice
+Isz Chalice
+Right Hand Weapon 1
+Right Hand Weapon 2
+Left Hand Weapon 1
+Left Hand Weapon 2
+Head
+Chest
+Arms
+Legs
+Quick Item 1
+Quick Item 2
+Quick Item 3
+Quick Item 4
+Quick Item 5
+Quick Item 6
+Personal Effects 1
+Personal Effects 2
+Personal Effects 3
+Personal Effects 4
+Personal Effects 5
+Personal Effects 6
+Blood Gem Imprint 1
+Blood Gem Imprint 2
+Blood Gem Imprint 3
+Memory Slot 1
+Memory Slot 2
+Memory Slot 3
+Oath Memory
+None
+Blood
+Physical
+Physical/Blood
+Physical
+Physical/Blood
+Physical
+Physical/Blood
+Physical
+Physical/Blood
+Physical
+Physical/Blood
+Physical
+Physical/Blood
+Physical
+Physical/Blood
+Inventory
+System
+Arms
+Attire
+Quick Items
+*
+Status
+Use
+Discard
+*
+*
+Use Multiple
+Inventory
+Equipment
+Quick Items
+Personal Effects
+Right Hand Weapon 1
+Right Hand Weapon 2
+Left Hand Weapon 1
+Left Hand Weapon 2
+Attire
+Quick Items
+Personal Effects
+Caryll Runes
+Controls
+Environment
+Brightness
+Network
+Exit Game 
+Language
+System
+Subtitles
+Display HUD
+Music
+Sound Effects
+Voice
+Display
+Sound
+Environment
+Adjust Brightness
+Adjust slider until the man is visible and beast invisible.
+Brightness
+Camera X-Axis
+Camera Y-Axis
+Camera Sensitivity
+Auto Target Switch
+Camera Auto-Adjust
+Controller Vibration
+Controls
+Matching Regions
+Player Name Display
+Password Matching 
+Network
+Blocked by parental control.
+Enter password
+Text
+Voice
+Language
+N.B. Settings will be applied on exit
+Japanese
+English (United Kingdom)
+French
+Italian
+German
+Spanish (Spain)
+Spanish (Latin America)
+Portuguese (Brasil)
+English (United States)
+Dutch
+Polish
+Russian
+Danish
+Norwegian
+Finnish
+Swedish
+Turkish
+Portuguese (Portugal)
+Traditional Chinese
+Korean
+Simplified Chinese
+Default
+Level Up
+Confirm
+Caryll Runes
+Fortify Weapon
+Current
+After
+Required
+Blood Gems
+Repair
+Required
+Blood Echoes
+Insight
+Required
+Buy
+Buy with Insight
+Choose weapon
+Echoes earned
+Sell
+Awaken Above Ground
+Storage
+Chalice Ritual
+Chalice Dungeon Search
+Search by Chalice Glyph
+Remove Chalice
+Ritual Altar
+Conduct ritual
+Blood Echoes
+Basic materials
+Rite materials
+Chalice Ritual
+Open
+Closed
+Chalice Dungeon Search
+Begin Search
+Search Results
+Depth
+Depth 1
+Depth 2
+Depth 3
+Depth 4
+Depth 5
+Depth 6
+Depth 7
+Depth 8
+Depth 9
+-
+Area
+Pthumeru
+Loran
+Isz Gravestone
+-
+Hintertomb
+Additional Rite
+Foetid Offering
+Sinister Bell
+Curse
+Rotted Offering
+No Additional Rite
+-
+Chalice Type
+Standard Chalice
+Root Chalice
+By Last Time Played
+By Most Shares
+By Ritual Date
+By Depth
+By Area
+By Additional Rite
+Enter Chalice Glyph
+Awaken in the labyrinth
+Dungeon Quick-search
+Co-op Quick-search
+Adversarial Quick-search
+Makeshift Altar
+Awaken in the labyrinth
+*
+*
+Extract Haze
+Haze Extracted
+*
+*
+*
+*
+*
+*
+*
+Foetid offering
+Rotted offering
+Sinister Bell
+Shared Fixed Dungeon
+Curse
+Defilement
+*
+*
+*
+*
+*
+*
+Foetid Offering
+*
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+*
+*
+*
+Sinister Bell
+*
+*
+*
+Shared Fixed Dungeon
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Curse
+Defilement
+Terrible Defilement
+Foetid Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+Rotted Offering
+*
+Point Forward
+Hunter's Salutation
+Conviction
+Joy
+Shake off Cape
+Church Bow (male)
+Curtsy
+Church Bow (female)
+Wave
+Pray
+Wait
+Shh!
+Hunter's Rally
+Triumph
+Approval
+Roar
+Beg for Life
+Brush off Dust
+Respect
+Deep Respect
+Make Contact
+Sit Down
+League Oath
+Gestures
+Silencing Blank
+Silencing Blank
+Silence Beckoning Bell
+Silence Small Resonant Bell
+Silence Sinister Resonant Bell
+Silence the Bell
+Disrupt Resonance
+Return to Your Own World
+Return to Your Own World
+Disrupt Resonance
+Disrupt resonance and return home.
+Personal Effects
+*
+*
+*
+*
+*
+*
+Vileblood Register
+Hierarchy
+Name
+Dregs Offered
+League Directory
+Number
+Name
+Crushed Vermin
+Jot Down Note
+Notes Made
+Notes Read
+Notebook
+Fine notes
+Foul notes
+Protect
+Templates
+Words
+Conjunctions
+Templates (2nd Line)
+Words (2nd Line)
+Gestures
+Finish
+Jot Down Note
+Fine
+Foul
+Notes Made
+Appraisals
+*
+Notes Read
+*
+*
+PRESS ANY BUTTON
+*
+*
+Play Offline
+Play Online
+Checking save data...
+Creating save data...
+Updating save data...
+Checking for DLC...
+Checking network status...
+Connecting to Bloodborne server...
+Acquiring data from Bloodborne server...
+Registering data with Bloodborne server...
+Continue
+Load Game
+New Game
+System
+Information
+Log In
+Opinion Box
+Online
+Offline
+*
+*
+App ver.
+Server ver.
+Information
+There is no new information.
+User Agreement
+Agree
+Decline
+Contract
+Enter Name
+Gender
+Age
+Origin
+*
+Appearance
+Finish
+Complete
+Please Enter Name
+Entry Incomplete
+Male
+Female
+*
+*
+Young
+Mature
+Aged
+*
+*
+*
+Milquetoast
+Lone Survivor
+Troubled Childhood
+Violent Past
+Professional
+Military Veteran
+Noble Scion
+Cruel Fate
+Waste of Skin
+(Not needed)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Please Enter Name
+Cleaver Saw/Blunderbuss</n>(Standard)
+Hunter’s Axe/Pistol</n>(Heavy)
+Kirkhammer/Blunderbuss</n>(Sword & heavy attack)
+Warped Twinblades/Pistol</n>(Agile)
+*
+Saw Hunter
+Axe Hunter
+Church Hunter
+Blackplume Hunter
+Appearance
+*
+*
+Default
+*
+Build
+Standard
+Slim
+Very Slim
+Burly
+Very Burly
+Burly Upper-body
+Burly Lower-body
+Large Head
+Small Head
+*
+*
+*
+*
+Base Skin Colour
+*
+Scale Adjustment
+Head
+Small
+Large
+Chest
+Small
+Large
+Abdomen
+Small
+Large
+Arms
+Small
+Large
+Legs
+Small
+Large
+*
+Face Presets
+Size of Pupils
+Colour of Pupils
+Brow
+Brow Colour
+Eyelashes
+Eyelash Colour
+Face Details
+Features
+Apparent Age
+Young
+Aged
+Facial Aesthetic
+Masculine
+Feminine
+Form Emphasis
+Weak
+Strong
+Random
+Similar Face
+Face Shape
+*
+Skin Colour/Makeup
+*
+Facial Balance
+Nose Size
+Wide
+Narrow
+Nose/Forehead Ratio
+Nose
+Forehead
+Face Aspect Ratio
+Horizontal
+Vertical
+Face Protrusion
+Concave
+Convex
+Vert. Facial Spacing
+Wide
+Narrow
+Facial Feature Slant
+Up
+Down
+Horiz. Facial Spacing
+Wide
+Narrow
+Forehead/Glabella
+Forehead Width
+Narrow
+Wide
+Forehead Depth
+Slight
+Deep
+Forehead Protrusion
+Convex
+Concave
+Nose Bridge Height
+Low
+High
+Bridge Protrusion 1
+Concave
+Convex
+Bridge Protrusion 2
+Concave
+Convex
+Nose Bridge Width
+Narrow
+Wide
+Brow Ridge
+Brow Ridge Height
+High
+Low
+Inner Brow Ridge
+Low
+High
+Outer Brow Ridge
+High
+Low
+Eyes
+Eye Position
+Down
+Up
+Eye Size
+Small
+Large
+Eye Slant
+In
+Out
+Eye Spacing
+Wide
+Narrow
+Nose Ridge
+Nose Ridge Depth
+Short
+Long
+Nose Ridge Length
+Short
+Long
+Nose Position
+Down
+Up
+Nose Tip Height
+Low
+High
+Nose Protrusion
+Concave
+Convex
+Nose Height
+Low
+High
+Nose Slant
+Up
+Down
+Nostrils
+Nostril Slant
+Down
+Up
+Nostril Size
+Small
+Large
+Nostril Width
+Wide
+Narrow
+Nasal Size
+Small
+Large
+Cheeks
+Cheekbone Height
+Low
+High
+Cheekbone Depth
+Low
+High
+Cheekbone Width
+Low
+High
+Cheekbone Protrusion
+Concave
+Convex
+Cheek Thickness
+Thick
+Thin
+Laugh Lines
+Light
+Dark
+Lips
+Lip Shape
+Open
+Purse
+Mouth Expression
+Happy
+Sad
+Lip Fullness
+Small
+Large
+Lip Size
+Large
+Small
+Lip Protrusion
+Convex
+Concave
+Lip Thickness
+Thin
+Thick
+Mouth
+Mouth Protrusion
+Convex
+Concave
+Mouth Slant
+Up
+Down
+Occlusion
+Down
+Up
+Mouth Position
+Up
+Down
+Mouth Width
+Wide
+Narrow
+Mouth-Chin Distance
+Short
+Long
+Chin
+Chin Tip Position
+Front
+Back
+Chin Length
+Long
+Short
+Chin Protrusion
+Small
+Large
+Chin Depth
+Slight
+Deep
+Chin Size
+Small
+Large
+Chin Height
+Low
+High
+Chin Width
+Wide
+Narrow
+Jaw
+Jaw Protrusion
+Small
+Large
+Jaw Width
+Wide
+Narrow
+Lower Jaw
+High
+Low
+Jaw Contour
+Thin
+Thick
+Skin Colour
+Skin Tone
+Dark
+Light
+Nose Bridge Colour
+Pale
+Red
+Cheek Colour
+White
+Red
+Skin Colour Layer 1
+Orange
+Blue
+Skin Colour Layer 2
+Purple
+Yellow
+Skin Colour Layer 3
+Red
+Green
+*
+*
+*
+Eye Area
+Tone Around Eyes
+Dark
+Light
+Eye Socket Brightness
+Dark
+Light
+Eyelid Brightness
+Light
+Dark
+Eyelid Colour
+Pale
+Red
+Eyeliner
+Light
+Dark
+Eye Shadow
+Light
+Dark
+Lipstick
+Lipstick 1
+Dark Red
+Powder Blue
+Lipstick 2
+Dark Blue
+Bright Red
+*
+Right Pupil Size
+Right Pupil Colour
+Left Pupil Size
+Left Pupil Colour
+Hair/Facial Hair
+Hair/brow/eyelash
+Hair
+Hair Colour
+Beard
+Beard Colour
+*
+*
+Hair/Brow/Beard Colour
+Hair/brow colour
+*
+Tattoo/Mark
+Glasses
+Tattoo/Mark/Glasses
+Tattoo/Mark Colour
+Tweak Tattoo/Mark
+Position (Vertical)
+Up
+Down
+Position (Horizontal)
+Left
+Right
+Angle
+Rotate Left
+Rotate Right
+Expansion
+Small
+Large
+Colour of Glasses
+Voice
+Youthful Voice
+Mature Voice
+Aged Voice
+*
+*
+*
+Load Favourite
+Save to Favourites
+Pupils
+PREY SLAUGHTERED
+YOU DIED
+UNLOCKED
+PREY SLAUGHTERED
+ADVERSARY EXPUNGED
+BLOOD ECHOES RETRIEVED
+NIGHTMARE SLAIN

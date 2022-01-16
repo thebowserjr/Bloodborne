@@ -1,0 +1,330 @@
+﻿OK
+CANCEL
+YES
+NO
+RETRY
+CONTINUE
+BACK TO TITLE
+Yes, I would
+Never
+I will hunt
+I vow not to hunt
+Failed to connect to Bloodborne server.</n>Returning to title menu.
+Failed to change privacy settings.</n>Try again later.
+Failed to obtain Chalice Dungeon info.</n>Try again later.
+Failed to join Chalice Dungeon.</n>Try again later.
+Failed to contribute ritual materials.</n>Try again later.
+The Bloodborne server administrator has restricted</n>this Sony Entertainment Network account's access to multiplayer features.
+The Bloodborne server administrator has restricted</n>this Sony Entertainment Network account's ability to jot down or read notes.
+The Bloodborne server administrator has restricted</n>this Sony Entertainment Network account's Chalice Dungeon functionality.
+The Bloodborne server administrator has restricted</n>this Sony Entertainment Network account's spectre functionality.
+The Bloodborne server is no longer available.</n>Returning to title menu.
+Lost connection to Bloodborne server.</n>Returning to title menu.
+<?ssInfoMsg?></n>Returning to title menu.
+Failed to resolve Bloodborne server status.</n>Returning to title menu.
+Failed to acquire Bloodborne server information.</n>Returning to title menu.
+Failed to connect to Bloodborne server.</n>Returning to title menu.
+After a period of no access,</n>the selected dungeon data was deleted</n>from the Bloodborne server.
+No dungeons found using the given Chalice Glyph.
+You don't meet the requirements to join the dungeon</n>matching this Chalice Glyph.
+No dungeon found that can be joined.
+Could not find a Chalice Dungeon matching your criteria.
+Lost connection to the network.</n>Returning to title menu.
+You have been signed out of "PlayStation Network".</n>Returning to title menu.
+Lost communication with "PlayStation Network".</n>Returning to title menu.
+Your PlayStation®Plus membership has expired.</n>Returning to title menu.
+Session lost
+Exiting session due to unstable connection
+Network error has occurred. </n>You have been disconnected.
+Not enough Blood Echoes
+Not enough Insight
+Restore to default settings?
+Select quantity of</n><?itemName?></n>to discard.
+Discarding</n><?itemName?>
+This will discard selected item
+Cannot discard this item
+Select quantity of <?itemName?> to use.
+Cannot discard currently equipped items
+Cannot use as item's attribute requirements not met
+Using this item has no effect
+Fused blood gems will be lost when the item is discarded.</n>Okay?
+This action will exceed maximum Insight.</n>Insight exceeding maximum will be lost.</n>Still okay to use?
+This action will exceed maximum blood echoes.</n>Blood echoes exceeding maximum will be lost.</n>Still okay to use?
+Cannot equip as item's attribute requirements not met
+Cannot equip as item's attribute requirements not met
+Exit game and return to title menu?
+Network cannot be used in offline mode. </n></n>To use network features,</n>select Log In from title menu.
+Network cannot be used in offline mode. </n></n>Please return to title menu and log in</n>to make use of network features.
+User-generated media restrictions</n>have been set by parental control.</n>Names for other players will be</n>limited to online IDs.
+Spend <?demandSoul?> Blood Echoes</n>and level up?
+OK to cancel edited changes?
+No attribute selected
+Level at maximum.</n>Cannot raise level any further.
+Effect overlaps with memorised Caryll rune. </n>Overlapping effects will not stack.</n>OK?
+Use <?demandSoul?> Blood Echoes and</n><?demandItemName?> × <?demandItemNum?></n>to fortify weapon?
+Not enough Blood Echoes or Blood Stones
+This weapon is fully upgraded and cannot be</n>fortified any further.
+More Blood Echoes required to fortify.
+More Blood Stones required to fortify.
+More Blood Stones and Blood Echoes required to fortify.
+Cannot remove this blood gem
+Removing blood gem.</n>Removed blood gem will be lost.
+Fusing new blood gem over the old.</n>Old blood gem will be lost.
+This blood gem cannot be removed after it is fused.</n>Are you sure you want to fuse?
+Effect overlaps with fused blood gem. </n>Overlapping effects will not stack. </n>OK?
+Blood gems fused to weapons can only be removed</n>by fusing other blood gems
+Inventory is full.</n>Cannot unequip.
+Repairing <?itemName?></n>for <?demandSoul?> Blood Echoes
+Repairing all worn down equipment</n>for <?demandSoul?> Blood Echoes
+Select quantity to buy
+Buy <?itemName?></n>for <?demandSoul?> Blood Echoes?
+Buy <?itemName?></n>for <?demandHeroic?> Insight?
+Take <?itemName?>?
+Inventory is full.</n>Cannot buy.
+Items exceeding maximum were</n>placed in storage.
+Select quantity to sell
+Sell <?itemName?></n>for <?sellSouls?> Blood Echoes?
+Cannot sell this item
+Cannot sell currently equipped items
+Fused blood gems will be lost when the item is sold</n>Okay?
+Fused blood gems will also be sold</n>Okay?
+Select quantity of <?itemName?> to store.
+Storing</n><?itemName?>
+Selected item will be placed in storage
+Storing all</n><?itemName?>
+Max quantity of</n><?itemName?></n>was stored.</n>Excess items will remain in possession.
+Unable to store</n><?itemName?></n>as storage will exceed max.
+Cannot store currently equipped items
+As this is a currently set Quick Item,</n>all but one have been stored
+Selected item</n>will be placed in storage
+Select quantity of <?itemName?> to retrieve.
+Retrieving</n><?itemName?>
+Return selected item to inventory
+Retrieving all</n><?itemName?>
+Retrieved maximum</n><?itemName?>.</n>Excess items will remain stored.
+Unable to retrieve</n><?itemName?></n>as inventory will exceed max.
+Remove chalice?</n>(This will expunge dungeon and erase progress)
+Chalice Dungeon Search cannot be used in offline mode. </n>Please return to title menu and log in to make use of </n>network features.
+Chalice Glyph cannot be used in offline mode. </n>Please return to title menu and log in to make use of </n>network features.
+Share Chalice Dungeon cannot be used in offline mode. </n>Please return to title menu and log in to make use of </n>network features.
+Cannot change the privacy setting of a </n>Chalice Dungeon once shared.
+Confirm settings and start ritual?
+Conduct a ritual to create a Chalice Dungeon?</n>Materials will be consumed.
+Not enough materials to conduct ritual.
+Root chalice rituals require a network</n>connection to obtain server data.
+Make public? </n>*Setting is permanent.
+Make private? </n>*Setting is permanent.
+Privacy settings complete
+Join the selected Chalice Dungeon?
+You have joined the dungeon,</n>and a chalice was placed on the altar.</n>You may now explore this Chalice Dungeon.
+Selected search criteria are not yet unlocked.
+You conducted a chalice ritual.</n>You may now search for dungeons</n>with the same chalice.
+You acquired a root chalice.</n>You may now search for dungeons</n>with the same root chalice.
+You conducted a chalice ritual after adding a rite.</n>You may now search for dungeons with the same chalice</n>and additional rite.
+A dungeon corresponding to the entered Chalice Glyph</n>has been found. Entering corresponding Chalice Dungeon.
+Search using Chalice Glyph: <?string?>
+Quick-search and join an accessible Chalice Dungeon? 
+Quick-search a Beckoning Bell chime and begin co-op?
+Quick-search a Sinister Bell chime and become an adversary?
+Dungeon quick-search cannot be used in offline mode. </n>Please return to title menu and log in</n>to make use of network features.
+Co-op quick-search cannot be used in offline mode. </n>Please return to title menu and log in</n>to make use of network features.
+Adversarial Quick-search cannot be used in offline mode. </n>Please return to title menu and log in</n>to make use of network features.
+Joining accessible quick-search Chalice Dungeon.</n>Chalice was placed on the altar.
+Select quantity of materials to extract haze from
+Extracted haze exceeds maximum.</n>Unable to extract further haze.
+Extracted haze exceeding maximum</n>will be put in storage.
+Return this Hunter to their world?
+There is no one to part ways with
+Stop searching for co-op helpers?
+Stop searching for hunters from other worlds to help?
+Stop searching for hunters from other worlds to threaten?
+The bell does not yet ring.</n>This feature is not currently available.
+No resonance at this time.</n>This feature is not currently available.
+Quit adversarial play and return to own world?
+Searching for the chime of a Beckoning Bell
+Searching for the chime of a Sinister Bell
+Searching for the chime of a</n>Beckoning Bell with matching password.
+Cannot view Vileblood Register in offline mode
+Failed to obtain register information
+Finish viewing Vileblood Register
+Acquiring register info
+Cannot check League Directory in offline mode.
+Failed to acquire directory info.
+Exit League Directory
+Acquiring directory info
+You haven't jotted down any notes.
+No recently read notes.
+Delete this note?
+This is a fine note.
+This is a foul note.
+Note will be jotted down with current content.
+Delete this note from list?
+Failed to load save data
+Save data is corrupted
+At the end of the previous session,</n>Exit Game (system menu) may not have been selected.</n></n>Failure to end session with Exit Game may result</n>in loss of progress.
+Returning to title menu.
+Starting game in offline mode. </n></n>To use network features, check to see </n>if your connection is set up properly, </n>and select Log In from title menu.
+Play in online mode?
+Lost connection to the network. </n>Switching to offline mode. </n>To use network features, check to see </n>if your connection is set up properly, </n>and select Log In from title menu.
+You have been signed out of "PlayStation Network".</n>Switching to offline mode.</n></n>To use network features, check to see</n>if your connection is set up properly,</n>and select Log In from title menu.
+Lost communication with "PlayStation Network". </n>Switching to offline mode.</n></n>To use network features, check to see </n>if your connection is set up properly, </n>and select Log In from title menu.
+Failed to create save data.</n>Press OK to try again.
+Failed to load save data.</n>Press OK to try again.
+The save data is corrupted.</n>Delete and create new data?
+Failed to delete save data.</n>Press OK to try again.
+Failed to update save data.</n>Press OK to try again.
+The save data is corrupted.</n>Recreate save data?
+This save data is for a newer version of the game. To use this save data, quit the application, apply the latest update file, and restart.
+Unable to locate Bloodborne: The Old Hunters DLC. This save data cannot be used until the DLC is downloaded again.
+You lack the license for this DLC.</n>Configured DLC elements will be disabled.
+DLC data is corrupted.</n>Delete the data on the system</n>and download again.
+Failed to load DLC.</n>Select OK to try again.
+Unable to connect to the network.</n>Please check your network settings.
+Network status check failed
+You are currently not signed into "PlayStation Network".</n>Please sign in to use the online features.
+Sign in status check failed
+Unable to use network features due to age restrictions
+A new version of the system software is available. To use</n>network features, please update the system software.
+An update to the game is available. To use network</n>features, please install the update and restart the game.
+Network features check failed
+Failed to acquire parental control information.
+Failed to acquire Bloodborne server information.</n>Select "OK" to try again.
+Failed to resolve Bloodborne</n>server status
+<?ssInfoMsg?>
+You are currently offline
+Online status check failed
+Staring game without contacting server.</n></n>Select Log In from title menu in order to</n>play with online features
+Terms of service have changed. </n></n>Please reacquaint yourself with the</n>terms of the agreement.
+A network error occurred.</n>Select "OK" to try again.
+Bloodborne server usage for this</n>user has been terminated
+Failed to log in to Bloodborne server.</n>Select "OK" to attempt to log in again.
+This version of the game cannot</n>contact the Bloodborne server.</n>Please download the latest update</n>in order to use network features.
+Failed to acquire information.</n>Select "OK" to try again
+Could not verify your PlayStation®Plus on your account.
+Online play has been suspended as PlayStation®Plus</n>could not be authenticated on your account
+Failed to verify your PlayStation®Plus membership.</n>Press OK to try PlayStation®Plus verification again.</n>Press CANCEL to continue without verification.</n>Please note you cannot play online without verification.
+Failed to verify your PlayStation®Plus membership.</n>Press OK to try PlayStation®Plus verification again.</n>Press CANCEL to continue without verification.</n>Please note you cannot play online without verification.
+Not yet able to verify PlayStation®Plus on your account.</n>Starting game in offline mode.
+Cannot create any more profiles.</n>Delete an existing profile and create a new one?</n></n>N.B. You may create up to 10 profiles.
+Failed to reset online character data to default.</n>Select RETRY to try again.</n></n>To continue without network features, select CONTINUE.
+Could not save character data.</n>Select RETRY to try again.</n></n>To return to title menu, select BACK TO TITLE.
+Failed to record note search information.</n>Select RETRY to try again.</n></n>To continue without network features, select CONTINUE.
+Failed to record messengers information.</n>Select RETRY to try again.</n></n>To continue without network features, select CONTINUE.
+Waiting for trophy info update to finish
+Starting game in offline mode as game</n>has not been fully installed
+Failed to retrieve data from Bloodborne server</n>as you have been refused permission
+You cannot access the Bloodborne server
+Your connection to the Bloodborne server</n>has been interrupted
+Failed to communicate with the Bloodborne server.</n>Select OK to try again.
+Failed to retrieve data from Bloodborne server</n>as you have been refused permission.
+You cannot access the Bloodborne server
+Your connection to the Bloodborne server</n>has been interrupted.
+Failed to communicate with the Bloodborne server.</n>Select OK to try again.
+Process failed.</n>Returning to title menu.
+Withdraw from contract</n>and return to title menu?
+Finalise contract?
+A name is required.</n></n>Enter a name to finalise the contract.
+Failed to save contract
+Return all changes to character to default?
+Selected spelling contained inappropriate language</n>and could not be used as a character name.</n></n>Enter another name.
+Changing gender will reset certain changes.</n></n>Is this OK?
+Finalise editing?
+Stop initial set up and return to title menu?
+Failed to save settings.</n>Select RETRY to try again.</n></n>To continue without saving, select CONTINUE.
+Discard present changes and return?
+Start with selected profile?
+Delete selected profile and begin a new game?
+OK to delete selected profile?
+Game install incomplete. </n>Cannot load save data created by</n>a fully installed game.
+Game install incomplete. </n>Cannot load save data
+Save the present settings as a favourite?
+A favourite already exists for these settings. </n>Save and overwrite present settings?
+Discard present changes and load favourite?
+No favourites saved
+Some items could not be acquired as they would</n>exceed max for inventory or storage
+Unable to acquire <?itemName?></n>due to inventory or storage max
+Unable to acquire every <?itemName?></n>due to inventory or storage max
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*

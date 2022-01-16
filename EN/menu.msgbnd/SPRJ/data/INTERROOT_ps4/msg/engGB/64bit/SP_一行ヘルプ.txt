@@ -1,0 +1,197 @@
+﻿Restore to default settings.
+Confirm settings and continue.
+View items in your possession.
+Change game settings or exit game.
+Equip weapon.
+Equip protection.
+Equip quick items.
+Check status.
+Select item to use.
+Select weapon/attire to equip.
+Select item to equip.
+Check status.
+Set controls.
+Adjust the game environment.
+Adjust the brightness level.
+Change network settings.
+Exit game and return to title menu.
+Change language settings.
+Change environment.
+Turn subtitles ON/OFF.
+Turn HUD ON/OFF.
+Adjust music volume.
+Adjust sound effects volume.
+Adjust voice volume.
+Adjust the brightness level.
+Change controls.
+Change camera x-axis.
+Change camera y-axis.
+Set camera movement speed.
+Auto lock-on to new target when former target dies.
+Set whether the camera automatically avoids walls.
+Set strength of controller vibration.
+Change network settings.
+Set region for matching.
+Change options for display of player names.
+Edit to match with players using the same password.
+Change language settings. Changes applied on exit.
+Change text language.
+Change voice language.
+Select attribute to boost.
+Spend Blood Echoes and level up.
+Select Caryll Rune to remember.
+Select place to remember.
+Select weapon to fortify.
+Select weapon to fuse blood gem.
+Select place to attach.
+Select blood gem to fuse.
+Select item to repair.
+Select item to buy.
+Select weapon to use.
+Select item to sell.
+Select location to awaken in.
+Select item to store.
+Select item to take.
+Conduct Chalice Ritual to create Chalice Dungeon.
+Find accessible Chalice Dungeon.
+Find Chalice Dungeon using Chalice Glyph.
+Share Chalice Dungeon after you have completed ritual.
+Remove chalice, expunge dungeon, and erase progress.
+*
+Expend ritual materials to extract their mysterious haze.
+*
+*
+Select location to awaken in.
+Select chalice to use in ritual.
+Select additional rite.
+Conduct Chalice Ritual to create Chalice Dungeon.
+Share with all online players.
+Can only be accessed</n>using Chalice Glyph.
+Set Chalice Dungeon search preferences.
+Search for Chalice Dungeon using set preferences.
+Results of the Chalice Dungeon search.
+Set Chalice Dungeon search preferences.
+Set Chalice Dungeon search preferences.
+Set Chalice Dungeon search preferences.
+Set Chalice Dungeon search preferences.
+Quick-search and join an accessible Chalice Dungeon.
+Quick-search a Beckoning Bell chime to begin co-op
+Quick-search a Sinister Bell chime to become an adversary
+Select location to awaken in.
+Select ritual materials to extract haze from.
+Select player to part with.
+Silence Bell and cease requesting co-op.
+Silence Bell and stop helping other Hunters.
+Silence Bell and cease threat.
+This function is not currently available.
+Disrupt bell resonance with this Hunter.
+Disrupt bell resonance and return to own world.
+Disrupt bell resonance and return to own world.
+This function is not currently available.
+Disrupt bell resonance and return to own world.
+Display Vileblood hierarchy.
+Display Confederate info.
+Display Vileblood hierarchy.
+Display Confederate info.
+Jot down a note.
+List of recently jotted notes.
+List of recently read notes.
+Edit note contents.
+Change bound gesture.
+Finalise note.
+Select gesture to bind.
+Select word category.
+Select template.
+Select word.
+Select conjunction.
+List of recently jotted notes.
+List of recently read notes.
+Add name to Contract Ledger.
+Enter gender.
+Enter age.
+Enter origin.
+Fine-tune appearance.
+Finish process.
+Finish fine-tuning appearance.
+Male</n>Gender has no bearing</n>on ability.
+Female</n>Gender has no bearing</n>on ability.
+Young</n>Age only affects appearance,</n>and has no bearing on ability.
+Mature</n>Age only affects appearance,</n>and has no bearing on ability.
+Aged</n>Age only affects appearance,</n>and has no bearing on ability.
+Ordinary, happy upbringing.</n>All attributes average.
+Lone survivor of lost hamlet.</n>High life essence and vigour.
+Suffered misfortune in youth.</n>Highly resilient as a result.
+Terribly violent past.</n>Rash, but stronger for it.
+Born specialist, fit for</n>sleuthing or academia.
+Experienced in war. A soldier</n>with strength and skill.
+Scion to a respectable line</n>with faith in your pedigree.
+Faced terrible hardships, but</n>now confident in your purpose.
+You are nothing. Talentless.</n>You shouldn't have been born.
+(Not Needed)
+Select profile to load.
+Select profile to delete.
+Reset fine-tuned appearance to default.
+Select build.
+Average physique.
+Trim physique.
+Very trim physique.
+Muscular physique.
+Very muscular physique.
+Top-heavy</n>muscular physique.
+Bottom-heavy</n>muscular physique.
+Proportionally large head.</n>Must be full of brains.
+Proportionally small head.
+Edit base skin colour.
+Fine-tune build.
+Select a preset face.
+Select size of both eyes.
+Edit colour of both eyes.
+Select brow shape.
+Edit brow colour.
+Select eyelash shape.
+Edit eyelash colour.
+Fine-tune facial appearance.
+Edit facial characteristics.
+Select randomly-generated face.
+Select face similar to present face.
+Edit facial shape.
+Edit skin colour and makeup.
+Edit facial balance.
+Edit forehead and glabella.
+Edit brow ridge.
+Edit eyes.
+Edit nose ridge.
+Edit nostrils.
+Edit cheeks.
+Edit lips.
+Edit mouth.
+Edit chin.
+Edit jaw.
+Fine-tune skin colour.
+Edit eye area.
+Edit lipstick.
+Select size of right pupil.
+Edit colour of right pupil.
+Select size of left pupil.
+Edit colour of left pupil.
+Edit hair/facial hair.
+Edit hair/brow/eyelashes.
+Select hair style.
+Edit hair colour.
+Select beard type.
+Edit beard colour.
+Edit hair/brow/beard colour.
+Edit hair/brow colour.
+Select appearance of tattoo/mark.
+Select glasses.
+Edit tattoo/mark/glasses.
+Edit tattoo/mark colour.
+Adjust scale and position of tattoo/mark.
+Set colour of glasses.
+Select voice.
+Select youthful voice.
+Select mature voice.
+Select aged voice.
+Load saved favourite.
+Save present settings as favourite.
+Edit pupils.

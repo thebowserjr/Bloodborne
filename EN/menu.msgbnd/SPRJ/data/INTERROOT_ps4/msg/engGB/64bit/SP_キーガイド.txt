@@ -1,0 +1,79 @@
+﻿L pad button
+R pad button
+OK
+Confirm
+Use item
+Edit
+Add/remove rite
+Add/remove rite
+Discard
+Equip/Remove
+Store
+Take
+Buy
+Sell
+More info
+More Info
+Return
+Close
+Cancel
+Display
+Test Now
+Finish
+Protect ON/OFF
+Remove
+Confirm
+Start ritual
+Delete
+Sample
+Show self
+Share Dungeon
+Show palette
+Show slider
+Sort
+Discard all
+Store all
+Take all
+Switch
+Switch Action
+Toggle Stats
+Show top rank
+Change Note Format
+Show Storage
+Show Inventory
+Scroll
+Change by 10
+Increase by 10
+Decrease by 10
+Page up
+Page down
+Store all
+Retrieve all
+Repair all
+Remove
+Next 100
+Previous 100
+Zoom in
+Zoom out
+Change Equip Area
+Zoom
+*
+Quit
+Select
+Change
+*
+Change no.
+Adjust
+Scroll
+Rotate
+Help
+Reset Camera
+*
+*
+*
+Delete
+Fine
+Foul
+*
+Controls
+OK

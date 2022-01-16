@@ -1,0 +1,161 @@
+﻿<?sysmsg@1?>
+<?sysmsg@2?>
+<?sysmsg@3?>
+<?sysmsg@4?>
+Accept
+Do Not Accept
+Drop item.</n>Specify quantity.
+Reset item order?
+Drop item
+Cannot equip duplicate rings
+Loss of attunement slots will cause <?removeMagic?> to be removed
+Insufficient strength to wield this weapon with one hand.</n>Hold with both hands to use effectively.
+Unable to wield this weapon effectively with present stats
+This ring breaks when removed.</n>OK to equip this ring?
+This ring breaks when removed.</n>OK to unequip this ring?
+Restore all settings to default values
+Cancel changes and exit
+Delete the message.
+Are you sure you want to quit the game?
+Reset gesture order
+Some players have not been evaluated
+You've obtained <?getSoulNum?> Souls
+Warp to selected bonfire
+No bonfires available for warping
+You are bound by the <?pcOath?> Covenant
+Abandon and join the <?pcOath?> Covenant?
+Restore your humanity?
+Offer your humanity?
+Send this phantom home?
+No phantom to send home
+Cannot use indictment
+Cannot use indictment
+Rate this message?
+Confirm reinforcement
+This will cancel reinforcement.</n>Is this OK?
+Reset reinforcement.</n>Is this OK?
+Trade for humanity
+This will cancel trade.</n>Is this OK?
+Parameters will be reset.</n>Is this OK?
+Already attuned
+Insufficient attunement slots
+No magic to attune
+Insufficient stats to use this magic
+Wrong covenant for this magic
+Cannot deposit additional items
+Cannot hold additional items
+Purchase for <?demandSoul?> souls?
+Purchase for <?demandSoul?> souls?
+Insufficient souls
+Your stock of this</n>item is at maximum
+No items to purchase
+Cannot hold additional items
+Specify quantity to feed.</n>Souls gained: <?sellSouls?>
+Cannot feed this item
+No items to feed
+Feed this item?
+Repair for <?demandSoul?> souls?
+Insufficient souls
+No equipment requires repair
+Cannot repair crystal weapon
+Reinforce <?itemNameBeforeForge?></n>into <?itemNameAfterForge?>?
+Insufficient souls
+Insufficient materials
+No weapons for reinforcement
+Undo ascension?</n>Materials used for ascension will be lost.
+Cannot reinforce this weapon.</n>Reinforcement would result in exceeding inventory limit.
+Cannot restore crystal weapons
+No armor for reinforcing
+No weapons for ascension
+Reinforce <?itemNameBeforeForge?></n>into <?itemNameAfterForge?>?
+Ascend <?itemNameBeforeForge?></n>to <?itemNameAfterForge?>?
+Cannot reinforce this armor.</n>Reinforcement would result in exceeding inventory limit.
+Cannot ascend this armor.</n>Ascension would result in exceeding inventory limit.
+<?itemNameBeforeForge?></n>reinforced into <?itemNameAfterForge?>.
+Restored <?itemNameBeforeForge?></n>to <?itemNameAfterForge?>.
+<?itemNameBeforeForge?></n>ascended to <?itemNameAfterForge?>.
+<?itemNameBeforeForge?></n>reinforced into <?itemNameAfterForge?>.
+<?sysmsg@41000?>
+Cancel character creation and return to title screen?
+Character name required
+Enter character name
+OK to start game with this character?
+Cancel character creation and return to</n>title screen?
+Changing gender will cause</n>edited face data to be lost.</n>Change gender?
+Leave this message?
+Leave a message?
+Erase this message?
+<?sysmsg@45000?>
+<?sysmsg@45001?>
+<?sysmsg@45100?>
+<?sysmsg@45103?>
+<?sysmsg@45110?>
+<?sysmsg@45111?>
+<?sysmsg@45120?>
+<?sysmsg@45121?>
+<?sysmsg@45122?>
+<?sysmsg@45200?>
+<?sysmsg@45201?>
+<?sysmsg@45250?>
+<?sysmsg@45400?>
+<?sysmsg@45500?>
+<?sysmsg@47000?>
+<?sysmsg@47100?>
+<?sysmsg@47101?>
+<?sysmsg@47102?>
+<?sysmsg@47110?>
+<?sysmsg@47111?>
+<?sysmsg@47112?>
+<?sysmsg@47113?>
+<?sysmsg@47120?>
+<?sysmsg@47121?>
+<?sysmsg@48000?>
+<?sysmsg@50000?>
+<?sysmsg@50001?>
+<?sysmsg@50002?>
+<?sysmsg@50501?>
+<?sysmsg@50502?>
+<?sysmsg@50503?>
+<?sysmsg@50504?>
+<?sysmsg@50505?>
+<?sysmsg@50506?>
+<?sysmsg@50507?>
+<?sysmsg@51100?>
+<?sysmsg@65000?>
+<?sysmsg@65001?>
+<?sysmsg@65002?>
+<?sysmsg@65003?>
+<?sysmsg@65004?>
+<?sysmsg@65005?>
+<?sysmsg@65100?>
+<?sysmsg@65101?>
+<?sysmsg@65200?>
+<?sysmsg@65201?>
+<?sysmsg@65202?>
+<?sysmsg@65203?>
+<?sysmsg@65204?>
+<?sysmsg@65205?>
+<?sysmsg@65206?>
+<?sysmsg@65207?>
+<?sysmsg@65208?>
+<?sysmsg@65209?>
+<?sysmsg@65210?>
+<?sysmsg@65211?>
+<?sysmsg@65212?>
+<?sysmsg@65213?>
+<?sysmsg@65214?>
+<?sysmsg@65215?>
+<?sysmsg@65216?>
+<?sysmsg@65217?>
+<?sysmsg@65218?>
+<?sysmsg@65219?>
+<?sysmsg@65220?>
+<?sysmsg@65300?>
+<?sysmsg@65301?>
+<?sysmsg@65400?>
+<?sysmsg@65401?>
+<?sysmsg@65410?>
+<?sysmsg@65411?>
+<?sysmsg@65412?>
+<?sysmsg@65413?>
+<?sysmsg@70000?>
